@@ -1,0 +1,56 @@
+{
+  "code": 200,
+  "message": null,
+  "data": [
+    {
+      "type": "CIRCLED_SLIDER_BANNER",
+      "data": {
+        "title": "Story başlığı(Eklemek zorunlu değil)",
+        "items": [
+          {
+            "displayName": "2 al 1 öde",
+            "thumbnailUrl": "https://img-ozdilek.mncdn.com/images/thumbnail.png",
+            "navigationType": "INNER",
+            "navigation": {
+              "title": "2 al 1 öde",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          },
+          {
+            "displayName": "Sepette %20 indirim",
+            "thumbnailUrl": "https://img-ozdilek.mncdn.com/images/thumbnail.png",
+            "navigationType": "DIRECT",
+            "navigation": {
+              "title": "Sepette %20 indirim",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
