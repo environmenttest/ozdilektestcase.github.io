@@ -59,6 +59,470 @@
           }
         ]
       }
+    },
+    {
+      "type": "CIRCLED_SLIDER_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "Story başlığı(Eklemek zorunlu değil)",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
+            "displayName": "2 al 1 öde",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "INNER",
+            "navigation": {
+              "title": "2 al 1 öde",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          },
+          {
+            "displayName": "Sepette %20 indirim",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "DIRECT",
+            "navigation": {
+              "title": "Sepette %20 indirim",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "CIRCLED_SLIDER_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "Story başlığı(Eklemek zorunlu değil)",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
+            "displayName": "2 al 1 öde",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "INNER",
+            "navigation": {
+              "title": "2 al 1 öde",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          },
+          {
+            "displayName": "Sepette %20 indirim",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "DIRECT",
+            "navigation": {
+              "title": "Sepette %20 indirim",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "CIRCLED_SLIDER_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "Story başlığı(Eklemek zorunlu değil)",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
+            "displayName": "2 al 1 öde",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "INNER",
+            "navigation": {
+              "title": "2 al 1 öde",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          },
+          {
+            "displayName": "Sepette %20 indirim",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "DIRECT",
+            "navigation": {
+              "title": "Sepette %20 indirim",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "CIRCLED_SLIDER_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "Story başlığı(Eklemek zorunlu değil)",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
+            "displayName": "2 al 1 öde",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "INNER",
+            "navigation": {
+              "title": "2 al 1 öde",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          },
+          {
+            "displayName": "Sepette %20 indirim",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "DIRECT",
+            "navigation": {
+              "title": "Sepette %20 indirim",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "CIRCLED_SLIDER_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "Story başlığı(Eklemek zorunlu değil)",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
+            "displayName": "2 al 1 öde",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "INNER",
+            "navigation": {
+              "title": "2 al 1 öde",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          },
+          {
+            "displayName": "Sepette %20 indirim",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "DIRECT",
+            "navigation": {
+              "title": "Sepette %20 indirim",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "CIRCLED_SLIDER_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "Story başlığı(Eklemek zorunlu değil)",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
+            "displayName": "2 al 1 öde",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "INNER",
+            "navigation": {
+              "title": "2 al 1 öde",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          },
+          {
+            "displayName": "Sepette %20 indirim",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "DIRECT",
+            "navigation": {
+              "title": "Sepette %20 indirim",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "CIRCLED_SLIDER_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "Story başlığı(Eklemek zorunlu değil)",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
+            "displayName": "2 al 1 öde",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "INNER",
+            "navigation": {
+              "title": "2 al 1 öde",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          },
+          {
+            "displayName": "Sepette %20 indirim",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "DIRECT",
+            "navigation": {
+              "title": "Sepette %20 indirim",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "CIRCLED_SLIDER_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "Story başlığı(Eklemek zorunlu değil)",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
+            "displayName": "2 al 1 öde",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "INNER",
+            "navigation": {
+              "title": "2 al 1 öde",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          },
+          {
+            "displayName": "Sepette %20 indirim",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigationType": "DIRECT",
+            "navigation": {
+              "title": "Sepette %20 indirim",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          }
+        ]
+      }
     }
   ]
 }
