@@ -16,6 +16,27 @@
         },
         "items": [
           {
+            "displayName": "Elbise & Tulum",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/7.jpg?context=bWFzdGVyfGJhbm5lcnN8MzI1MjYxfGltYWdlL2pwZWd8aDUwL2hjZC85NTMwODYzMzUzODg2LzcuanBnfDU3NWQwZjc1MzBlNWRiMGJhYWM2MzAxOWZmNTMxZjViMDE0NGQ3NjQ4M2MwYjAxOGY2N2JiZjhiYTdjMWVkYTU",
+            "navigationType": "INNER",
+            "navigation": {
+              "title": "2 al 1 öde",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          },
+          {
             "displayName": "Terlik Ürünleri",
             "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/yaz-s-k-adimlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTUzMDAwfGltYWdlL2pwZWd8aDk5L2gzYS85NjQ1ODEwMDI0NDc4L3lhel9zwqYta19hZGltbGFyXzM4MHgzNDkuanBnfDFkMzQ2YTVlZjA1NmJhMDdkYWZkZDljZWEzMDM4YWEwYTg3YjQ4MmFmYjRhN2YwMWI0ZDgxYTg0ZGQ3MmVjNWI",
             "navigationType": "INNER",
@@ -142,8 +163,8 @@
             }
           },
           {
-            "displayName": "2 al 1 öde",
-            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "displayName": "Paspas",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/alden-paspas-350x327.jpg?context=bWFzdGVyfHJvb3R8MTEwMjIzfGltYWdlL2pwZWd8aDMzL2g1NS85NTI0MDIyMjQ3NDU0L2FsZGVuX3Bhc3Bhc18zNTB4MzI3LmpwZ3wxN2I5NmNhYWU4YWM4YjZkMmM2ODE1YjZhOGM4MTVkOTc4YWQ1Nzk4Njk5MzkyOWVlYjM5ZGY1NDZhY2RmMWQ2",
             "navigationType": "INNER",
             "navigation": {
               "title": "2 al 1 öde",
