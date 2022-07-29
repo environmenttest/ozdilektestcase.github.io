@@ -16,8 +16,29 @@
         },
         "items": [
           {
-            "displayName": "Elbise & Tulum",
+            "displayName": "Elbise",
             "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/7.jpg?context=bWFzdGVyfGJhbm5lcnN8MzI1MjYxfGltYWdlL2pwZWd8aDUwL2hjZC85NTMwODYzMzUzODg2LzcuanBnfDU3NWQwZjc1MzBlNWRiMGJhYWM2MzAxOWZmNTMxZjViMDE0NGQ3NjQ4M2MwYjAxOGY2N2JiZjhiYTdjMWVkYTU",
+            "navigationType": "INNER",
+            "navigation": {
+              "title": "2 al 1 öde",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            },
+            "storyInnerContent": {
+              "media": {
+                "type": "IMAGE",
+                "url": "https://img-ozdilek.mncdn.com/images/content.png"
+              },
+              "button": {
+                "text": "Sepete Ekle",
+                "backgroundColor": "#556621",
+                "textColor": "#ff00aa"
+              }
+            }
+          },
+          {
+            "displayName": "Tişört",
+            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/8.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY5NDY4fGltYWdlL2pwZWd8aGZiL2hkMi85NTMxNTQxNjE4NzE4LzguanBnfDU1NTcyMWZlOWQ3NmQ1ZGZmZWM3ZWU3ZWI0MGZlODBiNGM0YjQyZWQzYzgyMWM4NjBlNjVlOTBkZGJhYWI2YTk",
             "navigationType": "INNER",
             "navigation": {
               "title": "2 al 1 öde",
