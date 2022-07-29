@@ -5,7 +5,15 @@
     {
       "type": "CIRCLED_SLIDER_BANNER",
       "data": {
-        "title": "Story başlığı(Eklemek zorunlu değil)",
+        "widgetHeader": {
+          "title": "Story başlığı(Eklemek zorunlu değil)",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
         "items": [
           {
             "displayName": "2 al 1 öde",
