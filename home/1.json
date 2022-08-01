@@ -227,6 +227,39 @@
           }
         ]
       }
+    },
+    {
+      "type": "CAROUSEL_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "Carousel(Eklemek zorunlu değil)",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/skechers-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTEwNjQ2N3xpbWFnZS9qcGVnfGg5ZC9oNmIvOTY0OTkyNDczNTAwNi9za2VjaGVyc18xOTIweDczNS5qcGd8ZWRkNzE3ZGZjYjVlZGI5NDBmZDczMDQ1YjdmYjE4NWMzMGRkNjY5YjQyZGE1ZDVmNDU4ZjY5YjZkNTQ2OGM2ZA",
+            "navigation": {
+              "title": "Özdilekteyim Büyük Spor İndirimi",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            }
+          },
+          
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735-.jpg?context=bWFzdGVyfGJhbm5lcnN8NDg1MjkyfGltYWdlL2pwZWd8aDMwL2g2Zi85NjQ2ODg0NzQ5MzQyLzE5MjB4NzM1LS5qcGd8OGI2Yjk2NmJlZWUzMDIyYTA5YzgxYmQxODVjNjIyNGY4NmI2NWExMDQzMDk4NTFjZDM3MWI3Y2ZmNDYzZDc3Mg",
+            "navigation": {
+              "title": "Floretta Yün Yastık",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            }
+          }
+        ]
+      }
     }
   ]
 }
