@@ -268,6 +268,22 @@
               "type": "REDIRECT",
               "deeplink": "ozd://"
             }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pierreCardin-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTI2OTMxOHxpbWFnZS9qcGVnfGhlYS9oN2MvOTY0OTkyNDIxMDcxOC9waWVycmVDYXJkaW5fMTkyMHg3MzUuanBnfGViMGI0NTRlYmFlNDczZjJlN2JlMzIwNTA3M2M0YzEzZWU5NWRiMjU3Zjc2N2QxZTRmNzc0N2UxNTJmMDViMTY",
+            "navigation": {
+              "title": "Kadın Giyim Koleksiyonu",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/kappa-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE3MDIwMXxpbWFnZS9qcGVnfGg3Zi9oZDcvOTY1MTQzNTI0MTUwMi9rYXBwYV8xOTIweDczNS5qcGd8MTdjNWE4ZDFlOTdmN2RmMTQwOThjNzgwZWNmYmQxYmY0OWZiYmJmNzlmN2Q5OTg3NWNhYmY4MmFjOGIxM2QwMA",
+            "navigation": {
+              "title": "Giyim Koleksiyonu",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            }
           }
         ]
       }
