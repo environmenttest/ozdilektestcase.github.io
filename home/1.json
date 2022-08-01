@@ -3,7 +3,7 @@
   "message": null,
   "data": [
     {
-      "type": "CIRCLED_SLIDER_BANNER",
+      "widgetType": "CIRCLED_SLIDER_BANNER",
       "data": {
         "widgetHeader": {
           "title": "Story başlığı(Eklemek zorunlu değil)",
@@ -229,7 +229,7 @@
       }
     },
     {
-      "type": "CAROUSEL_BANNER",
+      "widgetType": "CAROUSEL_BANNER",
       "data": {
         "widgetHeader": {
           "title": "Carousel(Eklemek zorunlu değil)",
