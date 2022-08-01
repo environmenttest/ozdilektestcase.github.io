@@ -242,18 +242,29 @@
         },
         "items": [
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/valiz-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTIxODQyOXxpbWFnZS9qcGVnfGhjZS9oNmYvOTY1MDkxODk4MTY2Mi92YWxpel8xOTIweDczNS5qcGd8YjVkMmRjY2ZkYTJmNmE0N2MwNmNhYjU2NWQ0ZmYyMWYxYWJiOTgwNzdkOTUyZWRlM2JkYTEyZTRlZmI3Yzk2MA",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/adidas-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8OTA5OTgwfGltYWdlL2pwZWd8aDZjL2g3NS85NjQ5OTI0NDcyODYyL2FkaWRhc18xOTIweDczNS5qcGd8MWFkOGNjODEzMmEyZDZhYTBmODg5NTRmZmU3NWMwZWU2MTBlNWY3OWVjZTIyMmNmY2IxOWY1ZTQ0NzE4MzAzNw",
             "navigation": {
-              "title": "Özdilekteyim Büyük Spor İndirimi",
+              "title": "Spor Giyim Ve Ayakkabı Koleksiyonu",
               "type": "REDIRECT",
               "deeplink": "ozd://"
             }
           },
-          
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/valiz-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTIxODQyOXxpbWFnZS9qcGVnfGhjZS9oNmYvOTY1MDkxODk4MTY2Mi92YWxpel8xOTIweDczNS5qcGd8YjVkMmRjY2ZkYTJmNmE0N2MwNmNhYjU2NWQ0ZmYyMWYxYWJiOTgwNzdkOTUyZWRlM2JkYTEyZTRlZmI3Yzk2MA",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/birkenstock-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8ODIwMDk3fGltYWdlL2pwZWd8aDJjL2g3Ni85NjQ5OTI0NDA3MzI2L2JpcmtlbnN0b2NrXzE5MjB4NzM1LmpwZ3xhODhkNTc2MTIzZGMyYTRmNTQ0Zjk5N2IxYTg5NWE0MWVkMTNhYzk2YzlhNTFmM2U5NzUzNmEyMjk3Y2ZiZjlh",
             "navigation": {
-              "title": "Floretta Yün Yastık",
+              "title": "Birkenstock Terlik Koleksiyonu",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735px.jpg?context=bWFzdGVyfGJhbm5lcnN8NTE4NDUyfGltYWdlL2pwZWd8aDI2L2gzOC85NDk5MzMyMDgzNzQyLzE5MjB4NzM1cHguanBnfGQ5YzVhNTNjYTJiYTM1ZDMwMmU5NWI1Y2Y4MTM5ZGM0OGExYjkxODQ0ZTIxM2NiZDg3Yjk3YjJhZDBlYjdmZmM",
+            "navigation": null
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735-.jpg?context=bWFzdGVyfGJhbm5lcnN8NDg1MjkyfGltYWdlL2pwZWd8aDMwL2g2Zi85NjQ2ODg0NzQ5MzQyLzE5MjB4NzM1LS5qcGd8OGI2Yjk2NmJlZWUzMDIyYTA5YzgxYmQxODVjNjIyNGY4NmI2NWExMDQzMDk4NTFjZDM3MWI3Y2ZmNDYzZDc3Mg",
+            "navigation": {
+              "title": "Birkenstock Terlik Koleksiyonu",
               "type": "REDIRECT",
               "deeplink": "ozd://"
             }
