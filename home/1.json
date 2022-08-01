@@ -284,6 +284,14 @@
               "type": "REDIRECT",
               "deeplink": "ozd://"
             }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pacorabanne.jpg?context=bWFzdGVyfHJvb3R8NTM1ODl8aW1hZ2UvanBlZ3xoNGEvaDhkLzg4MDczODc5MjI0NjIvcGFjb3JhYmFubmUuanBnfDNjZDE4OTljZTQ3ZmYyOWYxYTBkOWFmOTQ2ODIzNmQxYTZlOWVmZWQzYmIyOTFkN2MyZDAwMjhjMjk1MTJlYTU",
+            "navigation": {
+              "title": "Paco Rabanne",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            }
           }
         ]
       }
