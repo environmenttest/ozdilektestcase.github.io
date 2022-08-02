@@ -6,7 +6,7 @@
       "widgetType": "CIRCLED_SLIDER_BANNER",
       "data": {
         "widgetHeader": {
-          "title": "Story başlığı(Eklemek zorunlu değil)",
+          "title": "CIRCLED_SLIDER_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
@@ -19,8 +19,7 @@
             "title": "Elbise",
             "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/7.jpg?context=bWFzdGVyfGJhbm5lcnN8MzI1MjYxfGltYWdlL2pwZWd8aDUwL2hjZC85NTMwODYzMzUzODg2LzcuanBnfDU3NWQwZjc1MzBlNWRiMGJhYWM2MzAxOWZmNTMxZjViMDE0NGQ3NjQ4M2MwYjAxOGY2N2JiZjhiYTdjMWVkYTU",
             "navigation": {
-              "title": "2 al 1 öde",
-              "type": "REDIRECT",
+              "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
             }
           },
@@ -28,8 +27,7 @@
             "title": "Tişört",
             "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/8.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY5NDY4fGltYWdlL2pwZWd8aGZiL2hkMi85NTMxNTQxNjE4NzE4LzguanBnfDU1NTcyMWZlOWQ3NmQ1ZGZmZWM3ZWU3ZWI0MGZlODBiNGM0YjQyZWQzYzgyMWM4NjBlNjVlOTBkZGJhYWI2YTk",
             "navigation": {
-              "title": "2 al 1 öde",
-              "type": "REDIRECT",
+              "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
             }
           },
@@ -37,38 +35,31 @@
             "title": "Terlik Ürünleri",
             "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/yaz-s-k-adimlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTUzMDAwfGltYWdlL2pwZWd8aDk5L2gzYS85NjQ1ODEwMDI0NDc4L3lhel9zwqYta19hZGltbGFyXzM4MHgzNDkuanBnfDFkMzQ2YTVlZjA1NmJhMDdkYWZkZDljZWEzMDM4YWEwYTg3YjQ4MmFmYjRhN2YwMWI0ZDgxYTg0ZGQ3MmVjNWI",
             "navigation": {
-              "title": "2 al 1 öde",
-              "type": "REDIRECT",
+              "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
             }
           },
           {
             "title": "Yaz Ürünleri",
             "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/goz-alici-tarzlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE4NTg0fGltYWdlL2pwZWd8aGE4L2hjMS85NjQ1ODA5ODI3ODcwL2dvel9hbGljaV90YXJ6bGFyXzM4MHgzNDkuanBnfDllNWE5MDc2NGZkZWE3MWQwNzE2Mzc4Mzc2MTU5Yjc0OTljYTEyMjVhZmNmOTMyNmZmMzlmYmU1ODBjZTVjOGY",
-            
             "navigation": {
-              "title": "Sepette %20 indirim",
-              "type": "REDIRECT",
+              "landingTitle": "Sepette %20 indirim",
               "deeplink": "ozd://"
             }
           },
           {
             "title": "Tatil zamanı",
             "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/tatilheyecani-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8ODU1OTB8aW1hZ2UvanBlZ3xoZTYvaGMwLzk2NDU4MDk4OTM0MDYvdGF0aWxoZXllY2FuaV8zODB4MzQ5LmpwZ3xkOGI2YzlkY2QxNTJlNmY2YTNlYjU2NTAyMjU5NTdiYmZjNzhmYWJkOTAyMmM1NjczZTA2N2EwNzI0YjczYTBk",
-            
             "navigation": {
-              "title": "2 al 1 öde",
-              "type": "REDIRECT",
+              "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
             }
           },
           {
             "title": "Plaj",
             "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/tarzy-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY1OTE2fGltYWdlL2pwZWd8aDU4L2gzZS85NjQ1ODEwMTU1NTUwL3Rhcnp5XzM4MHgzNDkuanBnfDE2OGM5MDJlOTg2NGE2Zjk4MjM2ZmM2YjFmNGI1M2I5OTk3MDcwMDQ2MTEyYmRiMzA5NGY3MDYxMjU0Y2M2NTY",
-            
             "navigation": {
-              "title": "2 al 1 öde",
-              "type": "REDIRECT",
+              "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
             }
           },
@@ -76,8 +67,7 @@
             "title": "Nevresim",
             "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/pike-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTExNDc4fGltYWdlL2pwZWd8aDVhL2gzYi85NjQ1ODEwMDkwMDE0L3Bpa2VfMzgweDM0OS5qcGd8NWNlNWU4OWE5ZmE0MjFmYTljOGI3MmFhYWNjY2JmM2Q1YjE0NmFlNWZkYTczMzBiYjVlMWI5ZjE5NTk1YWJlMQ",
             "navigation": {
-              "title": "2 al 1 öde",
-              "type": "REDIRECT",
+              "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
             }
           },
@@ -85,28 +75,23 @@
             "title": "Kozmetik",
             "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/kozmetik-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTM0NDgwfGltYWdlL2pwZWd8aDY5L2g0MS85NjQ1ODEwMjIxMDg2L2tvem1ldGlrXzM4MHgzNDkuanBnfDkzZGUzYzZmYjNjMTg3Y2E1NjEwNGNjNWQ2NjhiMGEzOGE1NGNlODA1YmY3NmEyZDc4MDQ2MThiYjBmYTQwYmI",
             "navigation": {
-              "title": "2 al 1 öde",
-              "type": "REDIRECT",
+              "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
             }
           },
           {
             "title": "Paspas",
             "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/alden-paspas-350x327.jpg?context=bWFzdGVyfHJvb3R8MTEwMjIzfGltYWdlL2pwZWd8aDMzL2g1NS85NTI0MDIyMjQ3NDU0L2FsZGVuX3Bhc3Bhc18zNTB4MzI3LmpwZ3wxN2I5NmNhYWU4YWM4YjZkMmM2ODE1YjZhOGM4MTVkOTc4YWQ1Nzk4Njk5MzkyOWVlYjM5ZGY1NDZhY2RmMWQ2",
-            
             "navigation": {
-              "title": "2 al 1 öde",
-              "type": "REDIRECT",
+              "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
             }
           },
           {
             "title": "2 al 1 öde",
             "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
-            
             "navigation": {
-              "title": "2 al 1 öde",
-              "type": "REDIRECT",
+              "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
             }
           }
@@ -117,7 +102,7 @@
       "widgetType": "CAROUSEL_BANNER",
       "data": {
         "widgetHeader": {
-          "title": "Carousel(Eklemek zorunlu değil)",
+          "title": "CAROUSEL_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
@@ -129,15 +114,14 @@
           {
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/adidas-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8OTA5OTgwfGltYWdlL2pwZWd8aDZjL2g3NS85NjQ5OTI0NDcyODYyL2FkaWRhc18xOTIweDczNS5qcGd8MWFkOGNjODEzMmEyZDZhYTBmODg5NTRmZmU3NWMwZWU2MTBlNWY3OWVjZTIyMmNmY2IxOWY1ZTQ0NzE4MzAzNw",
             "navigation": {
-              "title": "Spor Giyim Ve Ayakkabı Koleksiyonu",
-              "type": "REDIRECT",
+              "landingTitle": "Spor Giyim Ve Ayakkabı Koleksiyonu",
               "deeplink": "ozd://"
             }
           },
           {
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/birkenstock-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8ODIwMDk3fGltYWdlL2pwZWd8aDJjL2g3Ni85NjQ5OTI0NDA3MzI2L2JpcmtlbnN0b2NrXzE5MjB4NzM1LmpwZ3xhODhkNTc2MTIzZGMyYTRmNTQ0Zjk5N2IxYTg5NWE0MWVkMTNhYzk2YzlhNTFmM2U5NzUzNmEyMjk3Y2ZiZjlh",
             "navigation": {
-              "title": "Birkenstock Terlik Koleksiyonu",
+              "landingTitle": "Birkenstock Terlik Koleksiyonu",
               "type": "REDIRECT",
               "deeplink": "ozd://"
             }
@@ -149,16 +133,14 @@
           {
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735-.jpg?context=bWFzdGVyfGJhbm5lcnN8NDg1MjkyfGltYWdlL2pwZWd8aDMwL2g2Zi85NjQ2ODg0NzQ5MzQyLzE5MjB4NzM1LS5qcGd8OGI2Yjk2NmJlZWUzMDIyYTA5YzgxYmQxODVjNjIyNGY4NmI2NWExMDQzMDk4NTFjZDM3MWI3Y2ZmNDYzZDc3Mg",
             "navigation": {
-              "title": "Birkenstock Terlik Koleksiyonu",
-              "type": "REDIRECT",
+              "landingTitle": "Birkenstock Terlik Koleksiyonu",
               "deeplink": "ozd://"
             }
           },
           {
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pierreCardin-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTI2OTMxOHxpbWFnZS9qcGVnfGhlYS9oN2MvOTY0OTkyNDIxMDcxOC9waWVycmVDYXJkaW5fMTkyMHg3MzUuanBnfGViMGI0NTRlYmFlNDczZjJlN2JlMzIwNTA3M2M0YzEzZWU5NWRiMjU3Zjc2N2QxZTRmNzc0N2UxNTJmMDViMTY",
             "navigation": {
-              "title": "Kadın Giyim Koleksiyonu",
-              "type": "REDIRECT",
+              "landingTitle": "Kadın Giyim Koleksiyonu",
               "deeplink": "ozd://"
             }
           },
@@ -166,19 +148,62 @@
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/kappa-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE3MDIwMXxpbWFnZS9qcGVnfGg3Zi9oZDcvOTY1MTQzNTI0MTUwMi9rYXBwYV8xOTIweDczNS5qcGd8MTdjNWE4ZDFlOTdmN2RmMTQwOThjNzgwZWNmYmQxYmY0OWZiYmJmNzlmN2Q5OTg3NWNhYmY4MmFjOGIxM2QwMA",
             "navigation": {
               "title": "Giyim Koleksiyonu",
-              "type": "REDIRECT",
               "deeplink": "ozd://"
             }
           },
           {
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pacorabanne.jpg?context=bWFzdGVyfHJvb3R8NTM1ODl8aW1hZ2UvanBlZ3xoNGEvaDhkLzg4MDczODc5MjI0NjIvcGFjb3JhYmFubmUuanBnfDNjZDE4OTljZTQ3ZmYyOWYxYTBkOWFmOTQ2ODIzNmQxYTZlOWVmZWQzYmIyOTFkN2MyZDAwMjhjMjk1MTJlYTU",
             "navigation": {
-              "title": "Paco Rabanne",
-              "type": "REDIRECT",
+              "landingTitle": "Paco Rabanne",
               "deeplink": "ozd://"
             }
           }
         ]
+      }
+    },
+    {
+      "widgetType": "LISTING_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "LISTING_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
+            "title": "Bornoz",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/350x327-rosebud-bornoz.jpg?context=bWFzdGVyfHJvb3R8MTE5MDMzfGltYWdlL2pwZWd8aGJmL2g5Yy85NDkwODY3NDUzOTgyLzM1MHgzMjdfcm9zZWJ1ZF9ib3Jub3ouanBnfDE4ZWUyYzIyM2I3ODAzMzI4MGQ4NTdkYzhjNTMyMzIwOGJjMmEwNzU4NmJlZmU1MjU0MDM2ODM4YTg5MTY2Njk",
+            "navigation": {
+              "landingTitle": "Bornoz",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Outdoor Ayakkabı & Bot",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/24.jpg?context=bWFzdGVyfGJhbm5lcnN8MzE3MTgzfGltYWdlL2pwZWd8aGFkL2g3Ny85NTMwODYyOTI3OTAyLzI0LmpwZ3xlZjhkYTBjYTk3Y2FkMDMzMTNjYWFjNzUwMDRiMGU5MGU3ODBhY2U2MDVlZjE3YmJlMGFkNTE1MWFiODVkNjAy",
+            "navigation": {
+              "landingTitle": "Outdoor Ayakkabı & Bot",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Outdoor Ayakkabı & Bot",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/2.jpg?context=bWFzdGVyfGJhbm5lcnN8MjcyMzU3fGltYWdlL2pwZWd8aDE3L2hjMy85NTMwODYzMDU4OTc0LzIuanBnfDZmODFjYWM1NWNkMTc2MWIxZDI3M2M3NjkwNzdiOGM3NDdhMzA5YzQ1OWY4ZmJmNWE3YWU2ODBjMTQ1MzFlM2U",
+            "navigation": {
+              "landingTitle": "Outdoor Ayakkabı & Bot",
+              "deeplink": "ozd://"
+            }
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 0.9,
+          "visibleItemCount": 3,
+          "cornerRadius":10
+        }
       }
     }
   ]
