@@ -203,7 +203,7 @@
           "imageAspectRatio": 0.9,
           "visibleItemCount": 2,
           "cornerRadius":10,
-          "itemSpace":16
+          "itemSpace":12
         }
       }
     }
