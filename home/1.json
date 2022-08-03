@@ -99,6 +99,35 @@
       }
     },
     {
+      "widgetType": "SINGLE_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "SINGLE_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
+            "title": "Bonus",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1519x150.jpg?context=bWFzdGVyfGJhbm5lcnN8MTA5ODg4fGltYWdlL2pwZWd8aGVmL2g1ZC85NjUwOTEzOTAyNjIyLzE1MTl4MTUwLmpwZ3w5NDdkY2IzMDJiNWE4YjI0YWY1M2MzOWM3NTdmNzVmMDY3NWQ5YTc0OTI5ZDNlZmZmZWFkOTc5NTRlZjdiM2Iw",
+            "navigation": {
+              "landingTitle": "Bonus",
+              "deeplink": "ozd://"
+            }
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 10.126,
+          "visibleItemCount": 1,
+          "cornerRadius": 10
+        }
+      }
+    },
+    {
       "widgetType": "CAROUSEL_BANNER",
       "data": {
         "widgetHeader": {
