@@ -131,7 +131,7 @@
         "viewProperties": {
           "imageAspectRatio": 4,
           "visibleItemCount": 1,
-          "cornerRadius": 10
+          "cornerRadius": 16
         }
       }
     },
@@ -199,7 +199,7 @@
         "viewProperties": {
           "imageAspectRatio": 2.61,
           "visibleItemCount": 1,
-          "cornerRadius": 10
+          "cornerRadius": 16
         }
       }
     },
@@ -244,7 +244,7 @@
         "viewProperties": {
           "imageAspectRatio": 1.07,
           "visibleItemCount": 3,
-          "cornerRadius": 10,
+          "cornerRadius": 16,
           "itemSpace": 8
         }
       }
@@ -274,7 +274,7 @@
         "viewProperties": {
           "imageAspectRatio": 2.57,
           "visibleItemCount": 1,
-          "cornerRadius": 10
+          "cornerRadius": 16
         }
       }
     },
@@ -342,7 +342,7 @@
         "viewProperties": {
           "imageAspectRatio": 1,
           "visibleItemCount": 3.5,
-          "cornerRadius": 10,
+          "cornerRadius": 16,
           "itemSpace": 8
         }
       }
