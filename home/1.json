@@ -195,7 +195,13 @@
               "deeplink": "ozd://"
             }
           }
-        ]
+        ],
+        ,
+        "viewProperties": {
+          "imageAspectRatio": 2.61,
+          "visibleItemCount": 1,
+          "cornerRadius": 10
+        }
       }
     },
     {
