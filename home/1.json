@@ -272,6 +272,75 @@
           "cornerRadius": 10
         }
       }
-    }
+    },
+    {
+      "widgetType": "SLIDER_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "SLIDER_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
+        },
+        "items": [
+          {
+            "title": "Özdilek",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/96/96/medias/ozdilek-evteks-logo.png?context=bWFzdGVyfHJvb3R8MjkxNXxpbWFnZS9wbmd8aDRmL2hjYS84ODA0MDc0MjkxMjMwL296ZGlsZWstZXZ0ZWtzLWxvZ28ucG5nfDA1MTNjMjdkYzM3NGI1M2I4MTNlNjhmZjBlODBlMmMxNmJjMjJiOWUzZTM1NTJmMDI4MzY3MDdjNWRiZGQyZGQ",
+            "navigation": {
+              "landingTitle": "Özdilek",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Sadem",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/96/96/medias/sademorganik.jpg?context=bWFzdGVyfGJhbm5lcnN8MzgyN3xpbWFnZS9qcGVnfGhmNC9oMGIvOTAwNzkwNjc1MDQ5NC9zYWRlbW9yZ2FuaWsuanBnfGE5YjY3MmJkM2I1NzdiYzExNTE4MmU2OGYxNzI0YTY4ZDEyMTkyM2JmOTcxYTBlMDNjYjZkYTgyODZiZTA5YzQ",
+            "navigation": {
+              "landingTitle": "Sadem",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Shafame",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/96/96/medias/shefame.png?context=bWFzdGVyfHJvb3R8NDI1M3xpbWFnZS9wbmd8aDgzL2hiZC84ODA0MDc0NjE4OTEwL3NoZWZhbWUucG5nfDdmY2MzYTBlNjIwMDc2MjMwZWUxZjdmMjg4YTI1NzFjMTU0MjBmNDM1YjkyOWNhNDhhNDczYmYyMjk3MGU5YmU",
+            "navigation": {
+              "landingTitle": "Shafame",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Mavi",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/96/96/medias/mavi.png?context=bWFzdGVyfHJvb3R8MTczMHxpbWFnZS9wbmd8aDg5L2g2Ny84ODA0MDc1MDc3NjYyL21hdmkucG5nfDk2Mjc3YzFjMmU2YjExOGZlNmM3MjRhNjA4ZjlkNjY3NmY4MmZhYTFmZGZlNDliNjhhZTI4YTUwMTZjYzA1MDA",
+            "navigation": {
+              "landingTitle": "Mavi",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Nike",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/96/96/medias/nike.png?context=bWFzdGVyfHJvb3R8MTk5Mjl8aW1hZ2UvcG5nfGgwOC9oODIvOTI1MDA2NTM1MDY4Ni9uaWtlLnBuZ3wwNzdiOTc1NzIwYmFhNDJhN2VkMjJkOTdmODA2MTg0ZmE2MGNjNzJiZjliZjg0ODA4MzA5MmY5NmIyZDI2NmQ2",
+            "navigation": {
+              "landingTitle": "Nike",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Columbia",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/columbia-png.png?context=bWFzdGVyfGJhbm5lcnN8NTA1OXxpbWFnZS9wbmd8aDFjL2g2Ni85NTY4NTEyMjc4NTU4L2NvbHVtYmlhIHBuZy5wbmd8Mjk4NWE5YmNlMTIyNTI3MGY2ZWJlYTFhMzZjNDUwN2U3YjJiODEzMThiNmVlMzlmOTZiMWUxNzkzZTc1YWFkYg",
+            "navigation": {
+              "landingTitle": "Columbia",
+              "deeplink": "ozd://"
+            }
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 1,
+          "visibleItemCount": 3.5,
+          "cornerRadius": 10,
+          "itemSpace": 8
+        }
+      }
+    
   ]
 }
