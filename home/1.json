@@ -238,6 +238,35 @@
           "itemSpace": 8
         }
       }
+    },
+    {
+      "widgetType": "SINGLE_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "SINGLE_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
+            "title": "Kol Saatleri",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1170x450-diesel.jpg?context=bWFzdGVyfGJhbm5lcnN8MjYzNTc1fGltYWdlL2pwZWd8aDQ5L2gyMi85MDU4MDc0OTUxNzEwLzExNzB4NDUwX2RpZXNlbC5qcGd8NzU0OTEzYzRlMTIyOGIyZWRhZGI3NDdjM2EzYTJiMjJhYmE4NWM3NmY4ODAxYjMwNzJlNTc1NTFlY2Y1M2JmMA",
+            "navigation": {
+              "landingTitle": "Kol Saatleri",
+              "deeplink": "ozd://"
+            }
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 2.57,
+          "visibleItemCount": 1,
+          "cornerRadius": 10
+        }
+      }
     }
   ]
 }
