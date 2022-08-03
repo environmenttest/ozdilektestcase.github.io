@@ -118,6 +118,14 @@
               "landingTitle": "Floretta Koltuk Örtüsü",
               "deeplink": "ozd://"
             }
+          },
+          {
+            "title": "Guess Koleksiyonu",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/guess-1200x300.jpg?context=bWFzdGVyfGJhbm5lcnN8Mjg2MTE3fGltYWdlL2pwZWd8aDBlL2g1Yi85NjQ5OTEzNzU3NzI2L2d1ZXNzXzEyMDB4MzAwLmpwZ3xiZjk1OTQ5Yjk2YzMxZmZmYjJhMjBlNzU3ZWU5ZDQzYWMzZTRmOWUyYWNlMWFkYTY5NGRkYzg0NjA4YzU3YzY2",
+            "navigation": {
+              "landingTitle": "Guess Koleksiyonu",
+              "deeplink": "ozd://"
+            }
           }
         ],
         "viewProperties": {
