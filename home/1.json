@@ -348,7 +348,7 @@
       }
     },
     {
-      "widgetType": "LISTENER_PRODUCT",
+      "widgetType": "LISTING_PRODUCT",
       "data": {
         "widgetHeader": {
           "title": "SLIDER_PRODUCT",
