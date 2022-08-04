@@ -296,10 +296,10 @@
       }
     },
     {
-      "widgetType": "LISTING_BANNER",
+      "widgetType": "SLIDER_BANNER",
       "data": {
         "widgetHeader": {
-          "title": "LISTING_BANNER",
+          "title": "SLIDER_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
@@ -365,7 +365,7 @@
       }
     },
     {
-      "widgetType": "LISTING_PRODUCT",
+      "widgetType": "SLIDER_PRODUCT",
       "data": {
         "widgetHeader": {
           "title": "SLIDER_PRODUCT",
