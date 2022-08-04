@@ -763,7 +763,7 @@
           "imageAspectRatio": 0.66,
           "visibleItemCount": 2,
           "cornerRadius": 8,
-          "itemSpace": 16
+          "itemSpace": 8
         }
       }
     }
