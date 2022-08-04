@@ -346,6 +346,59 @@
           "itemSpace": 8
         }
       }
+    },
+    {
+      "widgetType": "SLIDER_PRODUCT",
+      "data": {
+        "widgetHeader": {
+          "title": "SLIDER_PRODUCT",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
+        },
+        "items": [
+          {
+            "productId": "PR-S221508-3000202800040YESIL",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Koton Kadın Tişört 0YAL18353OK",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzMjUzMHxpbWFnZS9qcGVnfGg2Yi9oZjcvOTU2OTczMTIxNTM5MHw2YjNlOWMwZTJkNjY3MGI2NzUxMzkxNWRlYTUxMzg1ODZjYjViNTE0NGU1OThlM2I5ZWYzODdiOTljMThhMmQ4",
+            "colorCount": "5",
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotion": {
+              "text": "2 al 1 öde",
+              "backgroundColorCode": "#FE6C0C"
+            }
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 1,
+          "visibleItemCount": 2.5,
+          "cornerRadius": 16,
+          "itemSpace": 8
+        }
+      }
     }
   ]
 }
