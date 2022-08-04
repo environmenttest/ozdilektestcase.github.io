@@ -296,10 +296,10 @@
       }
     },
     {
-      "widgetType": "SLIDER_BANNER",
+      "widgetType": "LISTING_BANNER",
       "data": {
         "widgetHeader": {
-          "title": "SLIDER_BANNER",
+          "title": "LISTING_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
@@ -609,7 +609,7 @@
         ],
         "viewProperties": {
           "imageAspectRatio": 0.66,
-          "visibleItemCount": 2,
+          "visibleItemCount": 2.7,
           "cornerRadius": 8,
           "itemSpace": 16
         }
