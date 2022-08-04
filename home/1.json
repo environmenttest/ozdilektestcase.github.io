@@ -393,7 +393,7 @@
           }
         ],
         "viewProperties": {
-          "imageAspectRatio": 1,
+          "imageAspectRatio": 0.66,
           "visibleItemCount": 2.5,
           "cornerRadius": 16,
           "itemSpace": 8
