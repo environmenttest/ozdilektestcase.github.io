@@ -348,7 +348,7 @@
       }
     },
     {
-      "widgetType": "SLIDER_PRODUCT",
+      "widgetType": "LISTENER_PRODUCT",
       "data": {
         "widgetHeader": {
           "title": "SLIDER_PRODUCT",
@@ -592,7 +592,7 @@
         ],
         "viewProperties": {
           "imageAspectRatio": 0.66,
-          "visibleItemCount": 2.5,
+          "visibleItemCount": 2,
           "cornerRadius": 8,
           "itemSpace": 8
         }
