@@ -17,7 +17,7 @@
         "items": [
           {
             "title": "Elbise",
-            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/7.jpg?context=bWFzdGVyfGJhbm5lcnN8MzI1MjYxfGltYWdlL2pwZWd8aDUwL2hjZC85NTMwODYzMzUzODg2LzcuanBnfDU3NWQwZjc1MzBlNWRiMGJhYWM2MzAxOWZmNTMxZjViMDE0NGQ3NjQ4M2MwYjAxOGY2N2JiZjhiYTdjMWVkYTU",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/7.jpg?context=bWFzdGVyfGJhbm5lcnN8MzI1MjYxfGltYWdlL2pwZWd8aDUwL2hjZC85NTMwODYzMzUzODg2LzcuanBnfDU3NWQwZjc1MzBlNWRiMGJhYWM2MzAxOWZmNTMxZjViMDE0NGQ3NjQ4M2MwYjAxOGY2N2JiZjhiYTdjMWVkYTU",
             "navigation": {
               "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
@@ -25,7 +25,7 @@
           },
           {
             "title": "Tişört",
-            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/8.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY5NDY4fGltYWdlL2pwZWd8aGZiL2hkMi85NTMxNTQxNjE4NzE4LzguanBnfDU1NTcyMWZlOWQ3NmQ1ZGZmZWM3ZWU3ZWI0MGZlODBiNGM0YjQyZWQzYzgyMWM4NjBlNjVlOTBkZGJhYWI2YTk",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/8.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY5NDY4fGltYWdlL2pwZWd8aGZiL2hkMi85NTMxNTQxNjE4NzE4LzguanBnfDU1NTcyMWZlOWQ3NmQ1ZGZmZWM3ZWU3ZWI0MGZlODBiNGM0YjQyZWQzYzgyMWM4NjBlNjVlOTBkZGJhYWI2YTk",
             "navigation": {
               "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
@@ -33,7 +33,7 @@
           },
           {
             "title": "Terlik Ürünleri",
-            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/yaz-s-k-adimlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTUzMDAwfGltYWdlL2pwZWd8aDk5L2gzYS85NjQ1ODEwMDI0NDc4L3lhel9zwqYta19hZGltbGFyXzM4MHgzNDkuanBnfDFkMzQ2YTVlZjA1NmJhMDdkYWZkZDljZWEzMDM4YWEwYTg3YjQ4MmFmYjRhN2YwMWI0ZDgxYTg0ZGQ3MmVjNWI",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/yaz-s-k-adimlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTUzMDAwfGltYWdlL2pwZWd8aDk5L2gzYS85NjQ1ODEwMDI0NDc4L3lhel9zwqYta19hZGltbGFyXzM4MHgzNDkuanBnfDFkMzQ2YTVlZjA1NmJhMDdkYWZkZDljZWEzMDM4YWEwYTg3YjQ4MmFmYjRhN2YwMWI0ZDgxYTg0ZGQ3MmVjNWI",
             "navigation": {
               "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
@@ -41,7 +41,7 @@
           },
           {
             "title": "Yaz Ürünleri",
-            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/goz-alici-tarzlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE4NTg0fGltYWdlL2pwZWd8aGE4L2hjMS85NjQ1ODA5ODI3ODcwL2dvel9hbGljaV90YXJ6bGFyXzM4MHgzNDkuanBnfDllNWE5MDc2NGZkZWE3MWQwNzE2Mzc4Mzc2MTU5Yjc0OTljYTEyMjVhZmNmOTMyNmZmMzlmYmU1ODBjZTVjOGY",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/goz-alici-tarzlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE4NTg0fGltYWdlL2pwZWd8aGE4L2hjMS85NjQ1ODA5ODI3ODcwL2dvel9hbGljaV90YXJ6bGFyXzM4MHgzNDkuanBnfDllNWE5MDc2NGZkZWE3MWQwNzE2Mzc4Mzc2MTU5Yjc0OTljYTEyMjVhZmNmOTMyNmZmMzlmYmU1ODBjZTVjOGY",
             "navigation": {
               "landingTitle": "Sepette %20 indirim",
               "deeplink": "ozd://"
@@ -49,7 +49,7 @@
           },
           {
             "title": "Tatil zamanı",
-            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/tatilheyecani-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8ODU1OTB8aW1hZ2UvanBlZ3xoZTYvaGMwLzk2NDU4MDk4OTM0MDYvdGF0aWxoZXllY2FuaV8zODB4MzQ5LmpwZ3xkOGI2YzlkY2QxNTJlNmY2YTNlYjU2NTAyMjU5NTdiYmZjNzhmYWJkOTAyMmM1NjczZTA2N2EwNzI0YjczYTBk",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/tatilheyecani-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8ODU1OTB8aW1hZ2UvanBlZ3xoZTYvaGMwLzk2NDU4MDk4OTM0MDYvdGF0aWxoZXllY2FuaV8zODB4MzQ5LmpwZ3xkOGI2YzlkY2QxNTJlNmY2YTNlYjU2NTAyMjU5NTdiYmZjNzhmYWJkOTAyMmM1NjczZTA2N2EwNzI0YjczYTBk",
             "navigation": {
               "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
@@ -57,7 +57,7 @@
           },
           {
             "title": "Plaj",
-            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/tarzy-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY1OTE2fGltYWdlL2pwZWd8aDU4L2gzZS85NjQ1ODEwMTU1NTUwL3Rhcnp5XzM4MHgzNDkuanBnfDE2OGM5MDJlOTg2NGE2Zjk4MjM2ZmM2YjFmNGI1M2I5OTk3MDcwMDQ2MTEyYmRiMzA5NGY3MDYxMjU0Y2M2NTY",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/tarzy-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY1OTE2fGltYWdlL2pwZWd8aDU4L2gzZS85NjQ1ODEwMTU1NTUwL3Rhcnp5XzM4MHgzNDkuanBnfDE2OGM5MDJlOTg2NGE2Zjk4MjM2ZmM2YjFmNGI1M2I5OTk3MDcwMDQ2MTEyYmRiMzA5NGY3MDYxMjU0Y2M2NTY",
             "navigation": {
               "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
@@ -65,7 +65,7 @@
           },
           {
             "title": "Nevresim",
-            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/pike-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTExNDc4fGltYWdlL2pwZWd8aDVhL2gzYi85NjQ1ODEwMDkwMDE0L3Bpa2VfMzgweDM0OS5qcGd8NWNlNWU4OWE5ZmE0MjFmYTljOGI3MmFhYWNjY2JmM2Q1YjE0NmFlNWZkYTczMzBiYjVlMWI5ZjE5NTk1YWJlMQ",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pike-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTExNDc4fGltYWdlL2pwZWd8aDVhL2gzYi85NjQ1ODEwMDkwMDE0L3Bpa2VfMzgweDM0OS5qcGd8NWNlNWU4OWE5ZmE0MjFmYTljOGI3MmFhYWNjY2JmM2Q1YjE0NmFlNWZkYTczMzBiYjVlMWI5ZjE5NTk1YWJlMQ",
             "navigation": {
               "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
@@ -73,7 +73,7 @@
           },
           {
             "title": "Kozmetik",
-            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/kozmetik-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTM0NDgwfGltYWdlL2pwZWd8aDY5L2g0MS85NjQ1ODEwMjIxMDg2L2tvem1ldGlrXzM4MHgzNDkuanBnfDkzZGUzYzZmYjNjMTg3Y2E1NjEwNGNjNWQ2NjhiMGEzOGE1NGNlODA1YmY3NmEyZDc4MDQ2MThiYjBmYTQwYmI",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/kozmetik-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTM0NDgwfGltYWdlL2pwZWd8aDY5L2g0MS85NjQ1ODEwMjIxMDg2L2tvem1ldGlrXzM4MHgzNDkuanBnfDkzZGUzYzZmYjNjMTg3Y2E1NjEwNGNjNWQ2NjhiMGEzOGE1NGNlODA1YmY3NmEyZDc4MDQ2MThiYjBmYTQwYmI",
             "navigation": {
               "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
@@ -81,7 +81,7 @@
           },
           {
             "title": "Paspas",
-            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/alden-paspas-350x327.jpg?context=bWFzdGVyfHJvb3R8MTEwMjIzfGltYWdlL2pwZWd8aDMzL2g1NS85NTI0MDIyMjQ3NDU0L2FsZGVuX3Bhc3Bhc18zNTB4MzI3LmpwZ3wxN2I5NmNhYWU4YWM4YjZkMmM2ODE1YjZhOGM4MTVkOTc4YWQ1Nzk4Njk5MzkyOWVlYjM5ZGY1NDZhY2RmMWQ2",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/alden-paspas-350x327.jpg?context=bWFzdGVyfHJvb3R8MTEwMjIzfGltYWdlL2pwZWd8aDMzL2g1NS85NTI0MDIyMjQ3NDU0L2FsZGVuX3Bhc3Bhc18zNTB4MzI3LmpwZ3wxN2I5NmNhYWU4YWM4YjZkMmM2ODE1YjZhOGM4MTVkOTc4YWQ1Nzk4Njk5MzkyOWVlYjM5ZGY1NDZhY2RmMWQ2",
             "navigation": {
               "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
@@ -89,7 +89,7 @@
           },
           {
             "title": "2 al 1 öde",
-            "thumbnailUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
             "navigation": {
               "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
