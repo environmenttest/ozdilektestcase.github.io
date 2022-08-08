@@ -95,7 +95,11 @@
               "deeplink": "ozd://"
             }
           }
-        ]
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 1,
+          "visibleItemCount": 4
+        }
       }
     },
     {
