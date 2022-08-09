@@ -98,7 +98,7 @@
       }
     },
     {
-      "widgetType": "SINGLE_BANNER",
+      "widgetType": "LISTING_BANNER",
       "data": {
         "widgetHeader": {
           "title": "SINGLE_BANNER",
@@ -112,6 +112,13 @@
         "items": [
           {
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/goz-alici-tarzlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE4NTg0fGltYWdlL2pwZWd8aGE4L2hjMS85NjQ1ODA5ODI3ODcwL2dvel9hbGljaV90YXJ6bGFyXzM4MHgzNDkuanBnfDllNWE5MDc2NGZkZWE3MWQwNzE2Mzc4Mzc2MTU5Yjc0OTljYTEyMjVhZmNmOTMyNmZmMzlmYmU1ODBjZTVjOGY",
+            "navigation": {
+              "landingTitle": "Floretta Koltuk Örtüsü",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-2.jpg?context=bWFzdGVyfGJhbm5lcnN8NTY4MDJ8aW1hZ2UvanBlZ3xoNDkvaDY0Lzk2NTU2MzQzMjk2MzAvMzgweDM0OV8yLmpwZ3w1NDc1ZmEzNGI0YmE1MzIwNWNjMDE0ZGNhMTA3OTliNmJjZTAzOTI1NzFhYjlkODllZDY4YjFjNjEyNmRiNTY4",
             "navigation": {
               "landingTitle": "Floretta Koltuk Örtüsü",
               "deeplink": "ozd://"
