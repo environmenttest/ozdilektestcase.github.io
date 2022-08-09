@@ -101,7 +101,7 @@
       "widgetType": "LISTING_BANNER",
       "data": {
         "widgetHeader": {
-          "title": "SINGLE_BANNER",
+          "title": "LISTING_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
