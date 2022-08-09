@@ -128,7 +128,7 @@
         "viewProperties": {
           "imageAspectRatio": 4,
           "visibleItemCount": 1,
-          "cornerRadius": 16
+          "cornerRadius": 0
         }
       }
     },
@@ -196,7 +196,7 @@
         "viewProperties": {
           "imageAspectRatio": 2.61,
           "visibleItemCount": 1,
-          "cornerRadius": 16
+          "cornerRadius": 32
         }
       }
     },
