@@ -7,12 +7,7 @@
       "data": {
         "widgetHeader": {
           "title": "CIRCLED_SLIDER_BANNER",
-          "widgetNavigation": {
-            "title": "Tümü",
-            "landingTitle": "En çok satılanlar",
-            "deeplink": "ozd://",
-            "navigationType": "REDIRECT"
-          }
+          "widgetNavigation": null
         },
         "items": [
           {
