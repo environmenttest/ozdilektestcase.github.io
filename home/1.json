@@ -111,6 +111,34 @@
         },
         "items": [
           {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/goz-alici-tarzlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE4NTg0fGltYWdlL2pwZWd8aGE4L2hjMS85NjQ1ODA5ODI3ODcwL2dvel9hbGljaV90YXJ6bGFyXzM4MHgzNDkuanBnfDllNWE5MDc2NGZkZWE3MWQwNzE2Mzc4Mzc2MTU5Yjc0OTljYTEyMjVhZmNmOTMyNmZmMzlmYmU1ODBjZTVjOGY",
+            "navigation": {
+              "landingTitle": "Floretta Koltuk Örtüsü",
+              "deeplink": "ozd://"
+            }
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 1.08,
+          "visibleItemCount": 1,
+          "cornerRadius": 8
+        }
+      }
+    },
+    {
+      "widgetType": "SINGLE_BANNER",
+      "data": {
+        "widgetHeader": {
+          "title": "SINGLE_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/floretta-koltukortusu-1200x300.jpg?context=bWFzdGVyfGJhbm5lcnN8MzUwNTY4fGltYWdlL2pwZWd8aDE1L2hkZi85NjUxNTc0NTA1NTAyL2Zsb3JldHRhX2tvbHR1a29ydHVzdV8xMjAweDMwMC5qcGd8MDAyNWE2Y2Y5NjBjNGVlNTE4YTlkNWU5ZGU4YzVkZjRmZTFjOTdjOTgzYjczZGM0NjE3Njg1NTJjNDE3NmRmMA",
             "navigation": {
               "landingTitle": "Floretta Koltuk Örtüsü",
@@ -233,18 +261,11 @@
               "landingTitle": "Outdoor Ayakkabı & Bot",
               "deeplink": "ozd://"
             }
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/2.jpg?context=bWFzdGVyfGJhbm5lcnN8MjcyMzU3fGltYWdlL2pwZWd8aDE3L2hjMy85NTMwODYzMDU4OTc0LzIuanBnfDZmODFjYWM1NWNkMTc2MWIxZDI3M2M3NjkwNzdiOGM3NDdhMzA5YzQ1OWY4ZmJmNWE3YWU2ODBjMTQ1MzFlM2U",
-            "navigation": {
-              "landingTitle": "Outdoor Ayakkabı & Bot",
-              "deeplink": "ozd://"
-            }
           }
         ],
         "viewProperties": {
           "imageAspectRatio": 1.07,
-          "visibleItemCount": 4,
+          "visibleItemCount": 3,
           "cornerRadius": 16,
           "itemSpace": 8
         }
