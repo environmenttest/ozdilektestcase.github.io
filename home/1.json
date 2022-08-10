@@ -287,12 +287,8 @@
                 "name": "Hamur İşi Ürünler"
               }
             ],
-            "promotion": {
-              "text": "2 al 1 öde",
-              "backgroundColorCode": "#FE6C0C"
-            }
+            "promotions": null
           },
-          
           {
             "productId": "PR-S221508-3000202800040YESIL",
             "contentId": "PR-S221508-3000202800040YESIL",
@@ -320,12 +316,10 @@
                 "name": "Hamur İşi Ürünler"
               }
             ],
-            "promotion": {
-              "text": "2 al 1 öde",
-              "backgroundColorCode": "#FE6C0C"
-            }
+            "promotions": [{
+              "text":"1000 TL' ye 100 TL indirim"
+            }]
           },
-          
           {
             "productId": "PR-S221508-3000202800040YESIL",
             "contentId": "PR-S221508-3000202800040YESIL",
@@ -353,12 +347,8 @@
                 "name": "Hamur İşi Ürünler"
               }
             ],
-            "promotion": {
-              "text": "2 al 1 öde",
-              "backgroundColorCode": "#FE6C0C"
-            }
+            "promotions": null
           },
-          
           {
             "productId": "PR-S221508-3000202800040YESIL",
             "contentId": "PR-S221508-3000202800040YESIL",
@@ -386,12 +376,8 @@
                 "name": "Hamur İşi Ürünler"
               }
             ],
-            "promotion": {
-              "text": "2 al 1 öde",
-              "backgroundColorCode": "#FE6C0C"
-            }
+            "promotions": []
           },
-          
           {
             "productId": "PR-S221508-3000202800040YESIL",
             "contentId": "PR-S221508-3000202800040YESIL",
@@ -419,12 +405,8 @@
                 "name": "Hamur İşi Ürünler"
               }
             ],
-            "promotion": {
-              "text": "2 al 1 öde",
-              "backgroundColorCode": "#FE6C0C"
-            }
+             "promotions": []
           },
-          
           {
             "productId": "PR-S221508-3000202800040YESIL",
             "contentId": "PR-S221508-3000202800040YESIL",
@@ -452,12 +434,8 @@
                 "name": "Hamur İşi Ürünler"
               }
             ],
-            "promotion": {
-              "text": "2 al 1 öde",
-              "backgroundColorCode": "#FE6C0C"
-            }
+            "promotions": null
           },
-          
           {
             "productId": "PR-S221508-3000202800040YESIL",
             "contentId": "PR-S221508-3000202800040YESIL",
@@ -485,10 +463,11 @@
                 "name": "Hamur İşi Ürünler"
               }
             ],
-            "promotion": {
-              "text": "2 al 1 öde",
-              "backgroundColorCode": "#FE6C0C"
-            }
+            "promotions": [
+              {
+                "text": "2 al 1 öde"
+              }
+            ]
           }
         ],
         "viewProperties": {
@@ -629,12 +608,12 @@
                 "name": "Hamur İşi Ürünler"
               }
             ],
-            "promotion": {
-              "text": "2 al 1 öde",
-              "backgroundColorCode": "#FE6C0C"
-            }
+            "promotions": [
+              {
+                "text": "2 al 1 öde"
+              }
+            ]
           },
-          
           {
             "productId": "PR-S221508-3000202800040YESIL",
             "contentId": "PR-S221508-3000202800040YESIL",
@@ -662,12 +641,8 @@
                 "name": "Hamur İşi Ürünler"
               }
             ],
-            "promotion": {
-              "text": "2 al 1 öde",
-              "backgroundColorCode": "#FE6C0C"
-            }
+            "promotions": null
           },
-          
           {
             "productId": "PR-S221508-3000202800040YESIL",
             "contentId": "PR-S221508-3000202800040YESIL",
@@ -695,12 +670,8 @@
                 "name": "Hamur İşi Ürünler"
               }
             ],
-            "promotion": {
-              "text": "2 al 1 öde",
-              "backgroundColorCode": "#FE6C0C"
-            }
+            "promotions": null
           },
-          
           {
             "productId": "PR-S221508-3000202800040YESIL",
             "contentId": "PR-S221508-3000202800040YESIL",
@@ -728,10 +699,7 @@
                 "name": "Hamur İşi Ürünler"
               }
             ],
-            "promotion": {
-              "text": "2 al 1 öde",
-              "backgroundColorCode": "#FE6C0C"
-            }
+            "promotions": null
           }
         ],
         "viewProperties": {
