@@ -267,14 +267,15 @@
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzMjUzMHxpbWFnZS9qcGVnfGg2Yi9oZjcvOTU2OTczMTIxNTM5MHw2YjNlOWMwZTJkNjY3MGI2NzUxMzkxNWRlYTUxMzg1ODZjYjViNTE0NGU1OThlM2I5ZWYzODdiOTljMThhMmQ4",
             "colorCount": null,
             "price": {
-              "discountRate": "10",
-              "oldPrice": "999,00",
+              "discountRate": null,
+              "oldPrice": null,
               "currentPriceWholeNumber": "899",
               "separator": ",",
               "currentPriceDecimalNUmber": "00",
               "currency": "TL",
               "value": 899,
-              "firebaseCurrency": "TRY"
+              "firebaseCurrency": "TRY",
+              "formattedValue": "95,49 TL"
             },
             "categories": [
               {
@@ -303,7 +304,8 @@
               "currentPriceDecimalNUmber": "00",
               "currency": "TL",
               "value": 899,
-              "firebaseCurrency": "TRY"
+              "firebaseCurrency": "TRY",
+              "formattedValue": "59,45 TL"
             },
             "categories": [
               {
@@ -316,9 +318,11 @@
                 "name": "Hamur İşi Ürünler"
               }
             ],
-            "promotions": [{
-              "text":"1000 TL' ye_100 TL indirim"
-            }]
+            "promotions": [
+              {
+                "text": "1000 TL' ye_100 TL indirim"
+              }
+            ]
           },
           {
             "productId": "PR-S221508-3000202800040YESIL",
@@ -334,7 +338,8 @@
               "currentPriceDecimalNUmber": "00",
               "currency": "TL",
               "value": 899,
-              "firebaseCurrency": "TRY"
+              "firebaseCurrency": "TRY",
+              "formattedValue": "59,45 TL"
             },
             "categories": [
               {
@@ -363,7 +368,8 @@
               "currentPriceDecimalNUmber": "00",
               "currency": "TL",
               "value": 899,
-              "firebaseCurrency": "TRY"
+              "firebaseCurrency": "TRY",
+              "formattedValue": "59,45 TL"
             },
             "categories": [
               {
@@ -392,7 +398,8 @@
               "currentPriceDecimalNUmber": "00",
               "currency": "TL",
               "value": 899,
-              "firebaseCurrency": "TRY"
+              "firebaseCurrency": "TRY",
+              "formattedValue": "59,45 TL"
             },
             "categories": [
               {
@@ -405,7 +412,7 @@
                 "name": "Hamur İşi Ürünler"
               }
             ],
-             "promotions": []
+            "promotions": []
           },
           {
             "productId": "PR-S221508-3000202800040YESIL",
@@ -421,7 +428,8 @@
               "currentPriceDecimalNUmber": "00",
               "currency": "TL",
               "value": 899,
-              "firebaseCurrency": "TRY"
+              "firebaseCurrency": "TRY",
+              "formattedValue": "129,00 TL"
             },
             "categories": [
               {
@@ -450,7 +458,8 @@
               "currentPriceDecimalNUmber": "00",
               "currency": "TL",
               "value": 899,
-              "firebaseCurrency": "TRY"
+              "firebaseCurrency": "TRY",
+              "formattedValue": "89,00 TL"
             },
             "categories": [
               {
@@ -467,7 +476,7 @@
               {
                 "text": "2 al 1 öde"
               },
-               {
+              {
                 "text": "3 al 2 öde"
               }
             ]
@@ -598,7 +607,8 @@
               "currentPriceDecimalNUmber": "00",
               "currency": "TL",
               "value": 899,
-              "firebaseCurrency": "TRY"
+              "firebaseCurrency": "TRY",
+              "formattedValue": "99,00 TL"
             },
             "categories": [
               {
@@ -631,7 +641,8 @@
               "currentPriceDecimalNUmber": "00",
               "currency": "TL",
               "value": 899,
-              "firebaseCurrency": "TRY"
+              "firebaseCurrency": "TRY",
+              "formattedValue": "199,00 TL"
             },
             "categories": [
               {
@@ -660,7 +671,8 @@
               "currentPriceDecimalNUmber": "00",
               "currency": "TL",
               "value": 899,
-              "firebaseCurrency": "TRY"
+              "firebaseCurrency": "TRY",
+              "formattedValue": "1299,00 TL"
             },
             "categories": [
               {
@@ -689,7 +701,8 @@
               "currentPriceDecimalNUmber": "00",
               "currency": "TL",
               "value": 899,
-              "firebaseCurrency": "TRY"
+              "firebaseCurrency": "TRY",
+              "formattedValue": "1299,00 TL - 1399,00 TL"
             },
             "categories": [
               {
