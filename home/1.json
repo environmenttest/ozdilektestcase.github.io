@@ -694,8 +694,8 @@
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDkyOTY2fGltYWdlL2pwZWd8aGZhL2g1Yy85MjU2ODc0NDQyNzgyfDc3YmQ2MmYzNDc4OGYxYWYzZjFiNWZkYTdmZmMwMTZkZGJiMzY5ZGEzZWEyM2I1YWJkOTU2NzcxODQxZTNmMTA",
             "colorCount": null,
             "price": {
-              "discountRate": null,
-              "oldPrice":null,
+              "discountRate": "40",
+              "oldPrice":"3000,00 TL",
               "currentPriceWholeNumber": "899",
               "separator": ",",
               "currentPriceDecimalNUmber": "00",
