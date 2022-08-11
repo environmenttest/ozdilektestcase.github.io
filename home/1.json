@@ -600,8 +600,8 @@
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTIwNTc3MHxpbWFnZS9qcGVnfGgxMi9oYjIvOTIwMjUyNDc4MjYyMnwwMTU0OTM4MmI2ODIyZmY0MDFiY2M5ODQ2MmM0YTRiOTI0NDI1NzQ2M2YyMjY4OWQ4NTUzOWIyMzQ0NTYwYTUx",
             "colorCount": null,
             "price": {
-              "discountRate": "10",
-              "oldPrice": "999,00",
+              "discountRate": null,
+              "oldPrice": null,
               "currentPriceWholeNumber": "899",
               "separator": ",",
               "currentPriceDecimalNUmber": "00",
@@ -694,8 +694,8 @@
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDkyOTY2fGltYWdlL2pwZWd8aGZhL2g1Yy85MjU2ODc0NDQyNzgyfDc3YmQ2MmYzNDc4OGYxYWYzZjFiNWZkYTdmZmMwMTZkZGJiMzY5ZGEzZWEyM2I1YWJkOTU2NzcxODQxZTNmMTA",
             "colorCount": null,
             "price": {
-              "discountRate": "10",
-              "oldPrice": "999,00",
+              "discountRate": null,
+              "oldPrice":null,
               "currentPriceWholeNumber": "899",
               "separator": ",",
               "currentPriceDecimalNUmber": "00",
