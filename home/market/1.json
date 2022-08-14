@@ -16,8 +16,16 @@
         },
         "items": [
           {
-            "title": "Alo Platinum",
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDE3NDA1fGltYWdlL2pwZWd8aDJhL2gxYy85MjA5MjMxNDQxOTUwfDI4MTRjNjQ5OWRkMTNhMDIxYjhhNTczMzQ3MWY4YTRjZGEzNjNjZGQxOTQzYzc5NzAyNWJhYTU4NzcwMzEzZGM",
+            "title": "Süt",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjgyMjc5fGltYWdlL2pwZWd8aDY0L2g4Yy85MzI5NDE5ODEyODk0fDU0YWUyMjFiYzhhZDEzMjhiMTNiZGZlYjRiYTEwNzZhOTdmYjVmZDZhM2NmOTdlMDMzMDVmMGYyNjg2YTkzM2E",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Karpuz",
+            "imageUrl": "https://img-ozdilek.mncdn.com/images/catalog/200x310/5542.jpg",
             "navigation": {
               "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
@@ -42,6 +50,14 @@
           {
             "title": "Nestle Pure ",
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHByb2R1Y3RpbWd8MTEzMDYxfGltYWdlL2pwZWd8aDUzL2g4Ny85MTk3NTExMjc4NjIyfGQ2YjExMzgzZjJkYWJlZTY5ODg5NjI2MWEyMjU2MDgyZjEwYjc5YjJmZDcwNWVjOTBlYTgxZTdjYzIwNTczMWQ",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Alo Platinum",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDE3NDA1fGltYWdlL2pwZWd8aDJhL2gxYy85MjA5MjMxNDQxOTUwfDI4MTRjNjQ5OWRkMTNhMDIxYjhhNTczMzQ3MWY4YTRjZGEzNjNjZGQxOTQzYzc5NzAyNWJhYTU4NzcwMzEzZGM",
             "navigation": {
               "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
