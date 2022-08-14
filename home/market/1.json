@@ -53,7 +53,8 @@
             "navigation": {
               "landingTitle": "2 al 1 öde",
               "deeplink": "ozd://"
-            },
+            }
+          },
           {
             "title": "Nestle Pure ",
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHByb2R1Y3RpbWd8MTEzMDYxfGltYWdlL2pwZWd8aDUzL2g4Ny85MTk3NTExMjc4NjIyfGQ2YjExMzgzZjJkYWJlZTY5ODg5NjI2MWEyMjU2MDgyZjEwYjc5YjJmZDcwNWVjOTBlYTgxZTdjYzIwNTczMWQ",
@@ -670,7 +671,7 @@
             "colorCount": null,
             "price": {
               "discountRate": "40",
-              "oldPrice":"3000,00 TL",
+              "oldPrice": "3000,00 TL",
               "currentPriceWholeNumber": "899",
               "separator": ",",
               "currentPriceDecimalNUmber": "00",
