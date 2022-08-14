@@ -16,6 +16,14 @@
         },
         "items": [
           {
+            "title": "Alo Platinum",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDE3NDA1fGltYWdlL2pwZWd8aDJhL2gxYy85MjA5MjMxNDQxOTUwfDI4MTRjNjQ5OWRkMTNhMDIxYjhhNTczMzQ3MWY4YTRjZGEzNjNjZGQxOTQzYzc5NzAyNWJhYTU4NzcwMzEzZGM",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
+          },
+          {
             "title": "Şener Premium",
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHByb2R1Y3RpbWd8MTM1NDEwfGltYWdlL2pwZWd8aGMxL2g2YS85MjA1NjM5NDc5MzI2fGYyNzIwNjQ4NDVjNmRhNmU1NzI0NzA2YWVkMmVlZjkzNjM1ZmQzMzM4MDMxM2QxZWI4NTgxMDUxNjY1NmEyMzY",
             "navigation": {
