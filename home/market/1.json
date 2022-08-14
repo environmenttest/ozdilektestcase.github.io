@@ -92,16 +92,9 @@
         },
         "items": [
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/floretta-koltukortusu-1200x300.jpg?context=bWFzdGVyfGJhbm5lcnN8MzUwNTY4fGltYWdlL2pwZWd8aDE1L2hkZi85NjUxNTc0NTA1NTAyL2Zsb3JldHRhX2tvbHR1a29ydHVzdV8xMjAweDMwMC5qcGd8MDAyNWE2Y2Y5NjBjNGVlNTE4YTlkNWU5ZGU4YzVkZjRmZTFjOTdjOTgzYjczZGM0NjE3Njg1NTJjNDE3NmRmMA",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735px.jpg?context=bWFzdGVyfGJhbm5lcnN8NTE4NDUyfGltYWdlL2pwZWd8aDI2L2gzOC85NDk5MzMyMDgzNzQyLzE5MjB4NzM1cHguanBnfGQ5YzVhNTNjYTJiYTM1ZDMwMmU5NWI1Y2Y4MTM5ZGM0OGExYjkxODQ0ZTIxM2NiZDg3Yjk3YjJhZDBlYjdmZmM",
             "navigation": {
-              "landingTitle": "Floretta Koltuk Örtüsü",
-              "deeplink": "ozd://"
-            }
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/guess-1200x300.jpg?context=bWFzdGVyfGJhbm5lcnN8Mjg2MTE3fGltYWdlL2pwZWd8aDBlL2g1Yi85NjQ5OTEzNzU3NzI2L2d1ZXNzXzEyMDB4MzAwLmpwZ3xiZjk1OTQ5Yjk2YzMxZmZmYjJhMjBlNzU3ZWU5ZDQzYWMzZTRmOWUyYWNlMWFkYTY5NGRkYzg0NjA4YzU3YzY2",
-            "navigation": {
-              "landingTitle": "Guess Koleksiyonu",
+              "landingTitle": "Gel Al",
               "deeplink": "ozd://"
             }
           }
