@@ -473,34 +473,6 @@
       }
     },
     {
-      "widgetType": "SINGLE_BANNER",
-      "data": {
-        "widgetHeader": {
-          "title": "SINGLE_BANNER",
-          "widgetNavigation": {
-            "title": "Tümü",
-            "landingTitle": "En çok satılanlar",
-            "deeplink": "ozd://",
-            "navigationType": "REDIRECT"
-          }
-        },
-        "items": [
-          {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1170x450-diesel.jpg?context=bWFzdGVyfGJhbm5lcnN8MjYzNTc1fGltYWdlL2pwZWd8aDQ5L2gyMi85MDU4MDc0OTUxNzEwLzExNzB4NDUwX2RpZXNlbC5qcGd8NzU0OTEzYzRlMTIyOGIyZWRhZGI3NDdjM2EzYTJiMjJhYmE4NWM3NmY4ODAxYjMwNzJlNTc1NTFlY2Y1M2JmMA",
-            "navigation": {
-              "landingTitle": "Kol Saatleri",
-              "deeplink": "ozd://"
-            }
-          }
-        ],
-        "viewProperties": {
-          "imageAspectRatio": 2.57,
-          "visibleItemCount": 1,
-          "cornerRadius": 16
-        }
-      }
-    },
-    {
       "widgetType": "SLIDER_BANNER",
       "data": {
         "widgetHeader": {
@@ -513,44 +485,44 @@
         },
         "items": [
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/ozdilek-evteks-logo.png?context=bWFzdGVyfHJvb3R8MjkxNXxpbWFnZS9wbmd8aDRmL2hjYS84ODA0MDc0MjkxMjMwL296ZGlsZWstZXZ0ZWtzLWxvZ28ucG5nfDA1MTNjMjdkYzM3NGI1M2I4MTNlNjhmZjBlODBlMmMxNmJjMjJiOWUzZTM1NTJmMDI4MzY3MDdjNWRiZGQyZGQ",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/sutfest.png?context=bWFzdGVyfHJvb3R8MTkyNjV8aW1hZ2UvcG5nfGhiZS9oZmIvOTIyMjEwMDAyNTM3NC9zdXRmZXN0LnBuZ3wxMGJmZGFhM2ZhMzdiNjRlNDYyNDYxOGJmNzkzMWJjZWZmYmE5ZGNlYzkxNDQ2ZDhhOTYwYWRmMmEwZTI0ZTA5",
             "navigation": {
-              "landingTitle": "Özdilek",
+              "landingTitle": "Sütfest",
               "deeplink": "ozd://"
             }
           },
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/sademorganik.jpg?context=bWFzdGVyfGJhbm5lcnN8MzgyN3xpbWFnZS9qcGVnfGhmNC9oMGIvOTAwNzkwNjc1MDQ5NC9zYWRlbW9yZ2FuaWsuanBnfGE5YjY3MmJkM2I1NzdiYzExNTE4MmU2OGYxNzI0YTY4ZDEyMTkyM2JmOTcxYTBlMDNjYjZkYTgyODZiZTA5YzQ",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/milka.png?context=bWFzdGVyfHJvb3R8OTk3NHxpbWFnZS9wbmd8aDUyL2hjNy84ODA0MDc0MzU2NzY2L21pbGthLnBuZ3w1YzM1NDZjNmZiNGRiZmQ3ODhhODI4NThkNGIzMjdhNGVhY2U1ODY3ZTZkNzA1MGJiYzkwY2MyZDgzZGU0ZTdl",
             "navigation": {
-              "landingTitle": "Sadem",
+              "landingTitle": "Milka",
               "deeplink": "ozd://"
             }
           },
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/shefame.png?context=bWFzdGVyfHJvb3R8NDI1M3xpbWFnZS9wbmd8aDgzL2hiZC84ODA0MDc0NjE4OTEwL3NoZWZhbWUucG5nfDdmY2MzYTBlNjIwMDc2MjMwZWUxZjdmMjg4YTI1NzFjMTU0MjBmNDM1YjkyOWNhNDhhNDczYmYyMjk3MGU5YmU",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/durdane-ana-firini.png?context=bWFzdGVyfHJvb3R8NTUyM3xpbWFnZS9wbmd8aDkyL2hjMy84ODA0MDc0NDg3ODM4L2R1cmRhbmUtYW5hLWZpcmluaS5wbmd8Mzg0ZmU0YjkxNDlmY2UxZTIwZDRkZGYyNTMwNTA2MTc4N2ZlZWM0NDYyNGZlNjgxZDMzNTEzNjIwMTVlY2M2YQ",
             "navigation": {
-              "landingTitle": "Shafame",
+              "landingTitle": "Dürdane Ana",
               "deeplink": "ozd://"
             }
           },
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/mavi.png?context=bWFzdGVyfHJvb3R8MTczMHxpbWFnZS9wbmd8aDg5L2g2Ny84ODA0MDc1MDc3NjYyL21hdmkucG5nfDk2Mjc3YzFjMmU2YjExOGZlNmM3MjRhNjA4ZjlkNjY3NmY4MmZhYTFmZGZlNDliNjhhZTI4YTUwMTZjYzA1MDA",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/dr-oetker.png?context=bWFzdGVyfHJvb3R8NjIwM3xpbWFnZS9wbmd8aGMyL2hiYy84ODA0MDc0Njg0NDQ2L2RyLW9ldGtlci5wbmd8NTI4YWRiYjM1ZDNhOWI5MDc4MjBmZTIzODU2MTNjNWNkYzc5NjUzMDkwNGI5NGYxZmNiYTM4ZjYzYzBiNWZmOA",
             "navigation": {
-              "landingTitle": "Mavi",
+              "landingTitle": "Dr Oetker",
               "deeplink": "ozd://"
             }
           },
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/nike.png?context=bWFzdGVyfHJvb3R8MTk5Mjl8aW1hZ2UvcG5nfGgwOC9oODIvOTI1MDA2NTM1MDY4Ni9uaWtlLnBuZ3wwNzdiOTc1NzIwYmFhNDJhN2VkMjJkOTdmODA2MTg0ZmE2MGNjNzJiZjliZjg0ODA4MzA5MmY5NmIyZDI2NmQ2",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/torku.png?context=bWFzdGVyfHJvb3R8NjMyNnxpbWFnZS9wbmd8aGY0L2hiMi84ODA0MDc0OTQ2NTkwL3Rvcmt1LnBuZ3xhYjZhZDY5MDZjZTFlNWI5OGM3Y2Q1YzRiMzY4NjdkMzM5MDBlZDI1OTcwM2NjOTUxNDM1ODU4MTY3YjU0ZjAz",
             "navigation": {
-              "landingTitle": "Nike",
+              "landingTitle": "Torku",
               "deeplink": "ozd://"
             }
           },
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/cengiz-pakel.png?context=bWFzdGVyfHJvb3R8Mzg5OHxpbWFnZS9wbmd8aGQ5L2g1My84ODA0MDc1NjAxOTUwL2Nlbmdpei1wYWtlbC5wbmd8YmYxZjM1ZGZjMWZjOGFhMmQ0NTNhYWM0NGUwYTIxMTllNjE1ODA4NDRjOWY4ZmVhNTUzZDkxZTEwZmYzZmRjNw",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/peyman.png?context=bWFzdGVyfHJvb3R8MTEyMjd8aW1hZ2UvcG5nfGhlYS9oNTYvODgwNDA3NTUzNjQxNC9wZXltYW4ucG5nfGU5YjkwYzc3Y2NkZDU1Zjk5ZmViZDE2NWEyOTFkZDE4NjA5MmVlNWQyZjcwN2E3OGNhMmMzNjI2ZGVjNDJlNzA",
             "navigation": {
-              "landingTitle": "Cengiz Pakel",
+              "landingTitle": "Peyman",
               "deeplink": "ozd://"
             }
           }
