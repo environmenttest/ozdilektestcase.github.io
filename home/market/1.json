@@ -120,49 +120,41 @@
         },
         "items": [
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/adidas-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8OTA5OTgwfGltYWdlL2pwZWd8aDZjL2g3NS85NjQ5OTI0NDcyODYyL2FkaWRhc18xOTIweDczNS5qcGd8MWFkOGNjODEzMmEyZDZhYTBmODg5NTRmZmU3NWMwZWU2MTBlNWY3OWVjZTIyMmNmY2IxOWY1ZTQ0NzE4MzAzNw",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/salc-a-1920x735-.jpg?context=bWFzdGVyfGJhbm5lcnN8NjM2MzUzfGltYWdlL2pwZWd8aDk1L2hkNi85NjU5NzIxNTgwNTc0L3NhbGPCpsSfYV8xOTIweDczNS0tLmpwZ3w2MmJkZGRiOTIyODFiMjExMGI4NjgxNTM5YjEwMGI0N2MxNTNlOTA5OWY0OGE1NTk4MTQzYjFlOTc4OTgyZTVm",
             "navigation": {
-              "landingTitle": "Spor Giyim Ve Ayakkabı Koleksiyonu",
+              "landingTitle": "Aşurelik",
               "deeplink": "ozd://"
             }
           },
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/birkenstock-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8ODIwMDk3fGltYWdlL2pwZWd8aDJjL2g3Ni85NjQ5OTI0NDA3MzI2L2JpcmtlbnN0b2NrXzE5MjB4NzM1LmpwZ3xhODhkNTc2MTIzZGMyYTRmNTQ0Zjk5N2IxYTg5NWE0MWVkMTNhYzk2YzlhNTFmM2U5NzUzNmEyMjk3Y2ZiZjlh",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/Asurelikler-Slider-1920x735px.jpg?context=bWFzdGVyfGJhbm5lcnN8MTAzMzgwMHxpbWFnZS9qcGVnfGhjOC9oNWMvOTY1MjY5MTgyODc2Ni9Bc3VyZWxpa2xlcl9TbGlkZXJfMTkyMHg3MzVweC5qcGd8ZjQwNDI0MGIzOTNhYTViNjE3YjE2ZTRlMDJjNTU1NjE2ZmJkNTIzN2Q3NThlNGJkNWRiZDJlMGY5MTcxY2E3Mg",
             "navigation": {
-              "landingTitle": "Birkenstock Terlik Koleksiyonu",
+              "landingTitle": "Aşurelik",
               "type": "REDIRECT",
               "deeplink": "ozd://"
             }
           },
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735px.jpg?context=bWFzdGVyfGJhbm5lcnN8NTE4NDUyfGltYWdlL2pwZWd8aDI2L2gzOC85NDk5MzMyMDgzNzQyLzE5MjB4NzM1cHguanBnfGQ5YzVhNTNjYTJiYTM1ZDMwMmU5NWI1Y2Y4MTM5ZGM0OGExYjkxODQ0ZTIxM2NiZDg3Yjk3YjJhZDBlYjdmZmM",
-            "navigation": null
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735-.jpg?context=bWFzdGVyfGJhbm5lcnN8NDg1MjkyfGltYWdlL2pwZWd8aDMwL2g2Zi85NjQ2ODg0NzQ5MzQyLzE5MjB4NzM1LS5qcGd8OGI2Yjk2NmJlZWUzMDIyYTA5YzgxYmQxODVjNjIyNGY4NmI2NWExMDQzMDk4NTFjZDM3MWI3Y2ZmNDYzZDc3Mg",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1170x450.jpg?context=bWFzdGVyfGJhbm5lcnN8MzAzNzE2fGltYWdlL2pwZWd8aDQwL2g0YS85NjUwOTEzMzc4MzM0LzExNzB4NDUwLmpwZ3xmZDg4ZmNkZDQzNTJmM2Q0NzM4NjZlY2VjOGQ1ODZmYTQ1NWQxMjQwNWJiYWJhZTg0YTQxN2Q3MTg0NGNlNDU1",
             "navigation": {
-              "landingTitle": "Birkenstock Terlik Koleksiyonu",
+              "landingTitle": "Aşurelik",
+              "type": "REDIRECT",
               "deeplink": "ozd://"
             }
           },
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pierreCardin-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTI2OTMxOHxpbWFnZS9qcGVnfGhlYS9oN2MvOTY0OTkyNDIxMDcxOC9waWVycmVDYXJkaW5fMTkyMHg3MzUuanBnfGViMGI0NTRlYmFlNDczZjJlN2JlMzIwNTA3M2M0YzEzZWU5NWRiMjU3Zjc2N2QxZTRmNzc0N2UxNTJmMDViMTY",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735-Kozmetik-Revize.jpg?context=bWFzdGVyfGJhbm5lcnN8MTUwNzM3MXxpbWFnZS9qcGVnfGg4Yi9oNmEvOTY1Mjc5ODg4MTgyMi8xOTIweDczNV9Lb3ptZXRpa19SZXZpemUuanBnfDhmYTc3NmY3OTY0ZjcyNDk4YTYzOGQyNTExYzRkZGU5MGUwY2IwNGRiZTNjYmYxMDIzNWNkZTFiZTBlNGM0NWM",
             "navigation": {
-              "landingTitle": "Kadın Giyim Koleksiyonu",
+              "landingTitle": "Aşurelik",
+              "type": "REDIRECT",
               "deeplink": "ozd://"
             }
           },
           {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/kappa-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE3MDIwMXxpbWFnZS9qcGVnfGg3Zi9oZDcvOTY1MTQzNTI0MTUwMi9rYXBwYV8xOTIweDczNS5qcGd8MTdjNWE4ZDFlOTdmN2RmMTQwOThjNzgwZWNmYmQxYmY0OWZiYmJmNzlmN2Q5OTg3NWNhYmY4MmFjOGIxM2QwMA",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/aquadipolo-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8NjEwMTU3fGltYWdlL2pwZWd8aDdhL2hmOC85NjU2NzEyMDY5MTUwL2FxdWFkaXBvbG9fMTkyMHg3MzUuanBnfDA1ZGI1ZThiMGQ2MTM1ZTQ4ODg0N2RjYWZmNzBlM2ZmMDkwZjQwODdiODE0ZjdjMmY1ZjQxNTllYjI1OGEyMDg",
             "navigation": {
-              "title": "Giyim Koleksiyonu",
-              "deeplink": "ozd://"
-            }
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pacorabanne.jpg?context=bWFzdGVyfHJvb3R8NTM1ODl8aW1hZ2UvanBlZ3xoNGEvaDhkLzg4MDczODc5MjI0NjIvcGFjb3JhYmFubmUuanBnfDNjZDE4OTljZTQ3ZmYyOWYxYTBkOWFmOTQ2ODIzNmQxYTZlOWVmZWQzYmIyOTFkN2MyZDAwMjhjMjk1MTJlYTU",
-            "navigation": {
-              "landingTitle": "Paco Rabanne",
+              "landingTitle": "Aşurelik",
+              "type": "REDIRECT",
               "deeplink": "ozd://"
             }
           }
