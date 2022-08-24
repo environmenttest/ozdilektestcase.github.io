@@ -13,7 +13,7 @@
     "widgets": [
       {
         "widgetType": "CIRCLED_SLIDER_BANNER",
-        "data": {
+        "content": {
           "widgetHeader": {
             "title": "CIRCLED_SLIDER_BANNER",
             "widgetNavigation": {
@@ -89,7 +89,7 @@
       },
       {
         "widgetType": "SINGLE_BANNER",
-        "data": {
+        "content": {
           "widgetHeader": {
             "title": "SINGLE_BANNER",
             "widgetNavigation": {
@@ -117,7 +117,7 @@
       },
       {
         "widgetType": "CAROUSEL_BANNER",
-        "data": {
+        "content": {
           "widgetHeader": {
             "title": "CAROUSEL_BANNER",
             "widgetNavigation": {
@@ -177,7 +177,7 @@
       },
       {
         "widgetType": "LISTING_BANNER",
-        "data": {
+        "content": {
           "widgetHeader": {
             "title": "LISTING_BANNER",
             "widgetNavigation": {
@@ -241,7 +241,7 @@
       },
       {
         "widgetType": "SLIDER_BANNER",
-        "data": {
+        "content": {
           "widgetHeader": {
             "title": "SLIDER_BANNER",
             "widgetNavigation": {
@@ -304,7 +304,7 @@
       },
       {
         "widgetType": "SLIDER_BANNER",
-        "data": {
+        "content": {
           "widgetHeader": {
             "title": "SLIDER_BANNER",
             "widgetNavigation": {
