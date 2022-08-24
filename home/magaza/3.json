@@ -4,7 +4,7 @@
   "data": {
     "pagination": {
       "currentPage": 3,
-      "pageSize": 3
+      "pageCount": 3
     },
     "searchContent":{
       "text":"Eve ne lazım?",
