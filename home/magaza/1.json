@@ -701,7 +701,28 @@
                 }
               ],
               "promotions": null
-            },
+            }
+          ],
+          "viewProperties": {
+            "imageAspectRatio": 0.66,
+            "visibleItemCount": 2,
+            "cornerRadius": 8,
+            "itemSpace": 16
+          }
+        }
+      },
+      {
+        "widgetType": "LISTING_PRODUCT",
+        "content": {
+          "widgetHeader": {
+            "title": "LISTING_PRODUCT",
+            "widgetNavigation": {
+              "title": "Tümü",
+              "landingTitle": "En çok satılanlar",
+              "deeplink": "ozd://"
+            }
+          },
+          "items": [
             {
               "productId": "PR-S221508-3000202800040YESIL",
               "contentId": "PR-S221508-3000202800040YESIL",
