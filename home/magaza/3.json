@@ -6,9 +6,9 @@
       "currentPage": 3,
       "pageCount": 3
     },
-    "searchContent":{
-      "text":"Eve ne lazım?",
-      "deeplink":"ozd://"
+    "searchContent": {
+      "text": "Eve ne lazım?",
+      "deeplink": "ozd://"
     },
     "widgets": [
       {
@@ -270,10 +270,12 @@
           },
           "items": [
             {
-              "productId": "PR-S221508-3000202800040YESIL",
+              "productId": "PR-12202099EKRU",
               "contentId": "PR-S221508-3000202800040YESIL",
               "name": "Koton Erkek Şort 2SAM40057BD",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzMjUzMHxpbWFnZS9qcGVnfGg2Yi9oZjcvOTU2OTczMTIxNTM5MHw2YjNlOWMwZTJkNjY3MGI2NzUxMzkxNWRlYTUxMzg1ODZjYjViNTE0NGU1OThlM2I5ZWYzODdiOTljMThhMmQ4",
+              "images": [
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzMjUzMHxpbWFnZS9qcGVnfGg2Yi9oZjcvOTU2OTczMTIxNTM5MHw2YjNlOWMwZTJkNjY3MGI2NzUxMzkxNWRlYTUxMzg1ODZjYjViNTE0NGU1OThlM2I5ZWYzODdiOTljMThhMmQ4"
+              ],
               "colorCount": null,
               "rating": {
                 "average": 4.8,
@@ -304,10 +306,12 @@
               "promotions": null
             },
             {
-              "productId": "PR-S221508-3000202800040YESIL",
+              "productId": "PR-10138789BORDO",
               "contentId": "PR-S221508-3000202800040YESIL",
               "name": "Koton Kadın Atlet 2YAL38002OK",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTMyMDA2OXxpbWFnZS9qcGVnfGgxZS9oZWYvOTU2OTA4MTg4NDcwMnxmMzc5Y2QzN2E3NmI0MTgzYzJmNGU3NjdkZGQwZWMxYTc0MmY0Mzk5ODFhNjlkMDMzY2Q4MWNiMDliODgwMzA5",
+              "images": [
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTMyMDA2OXxpbWFnZS9qcGVnfGgxZS9oZWYvOTU2OTA4MTg4NDcwMnxmMzc5Y2QzN2E3NmI0MTgzYzJmNGU3NjdkZGQwZWMxYTc0MmY0Mzk5ODFhNjlkMDMzY2Q4MWNiMDliODgwMzA5"
+              ],
               "colorCount": "2",
               "rating": {
                 "average": 1.1,
@@ -342,7 +346,7 @@
               ]
             },
             {
-              "productId": "PR-S221508-3000202800040YESIL",
+              "productId": "PR-10138789KAHVERENGI",
               "contentId": "PR-S221508-3000202800040YESIL",
               "name": "U.S. Polo Assn. Kadın Bermuda 1357381",
               "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NjIzMzkxfGltYWdlL2pwZWd8aDNmL2gyNC85NTUwMTgxNjk1NTE4fDM5ODM1ZDg2M2JiMGE3NTkwYjZkODNkMDJiNGI2NTRhMDJjYjk4ZDA0NzVmMDU1MzM1MDFlNjU1YjgwOGY3MDM",
@@ -379,7 +383,9 @@
               "productId": "PR-S221508-3000202800040YESIL",
               "contentId": "PR-S221508-3000202800040YESIL",
               "name": "Defacto Kadın Şapka W7207AZTRASTD",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTYxOTA3fGltYWdlL2pwZWd8aDExL2g2Ny85NTk5NDI5NjQwMjIyfGQwZjhiNjhiN2M2YWU3Njk1NTYwOWEwMmJhN2QyMzUxZjJhOGZmMWM2ZTg3YmQ5MGU0NTM2YmY5MDY3ODZjNGM",
+              "images": [
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTYxOTA3fGltYWdlL2pwZWd8aDExL2g2Ny85NTk5NDI5NjQwMjIyfGQwZjhiNjhiN2M2YWU3Njk1NTYwOWEwMmJhN2QyMzUxZjJhOGZmMWM2ZTg3YmQ5MGU0NTM2YmY5MDY3ODZjNGM"
+              ],
               "colorCount": null,
               "rating": {
                 "average": 3.5,
@@ -413,7 +419,9 @@
               "productId": "PR-S221508-3000202800040YESIL",
               "contentId": "PR-S221508-3000202800040YESIL",
               "name": "Koton Erkek Şort 2SAM40057BD",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzMjUzMHxpbWFnZS9qcGVnfGg2Yi9oZjcvOTU2OTczMTIxNTM5MHw2YjNlOWMwZTJkNjY3MGI2NzUxMzkxNWRlYTUxMzg1ODZjYjViNTE0NGU1OThlM2I5ZWYzODdiOTljMThhMmQ4",
+              "images": [
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzMjUzMHxpbWFnZS9qcGVnfGg2Yi9oZjcvOTU2OTczMTIxNTM5MHw2YjNlOWMwZTJkNjY3MGI2NzUxMzkxNWRlYTUxMzg1ODZjYjViNTE0NGU1OThlM2I5ZWYzODdiOTljMThhMmQ4"
+              ],
               "colorCount": "5",
               "rating": {
                 "average": 4.5,
@@ -447,7 +455,9 @@
               "productId": "PR-S221508-3000202800040YESIL",
               "contentId": "PR-S221508-3000202800040YESIL",
               "name": "Özdilek Princess Time Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Çocuk Pike Takımı",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDkyOTY2fGltYWdlL2pwZWd8aDBhL2g2MC85MjU2ODc0Mzc3MjQ2fGFjYzM1YzJhOWQzODk1MWI5ZWY5Zjk2ZmJiOTQzODM2NmMyODkzNTE4NzM3NmYxODIxOTY4ZDVjNWU0MmRmYzQ",
+              "images": [
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDkyOTY2fGltYWdlL2pwZWd8aDBhL2g2MC85MjU2ODc0Mzc3MjQ2fGFjYzM1YzJhOWQzODk1MWI5ZWY5Zjk2ZmJiOTQzODM2NmMyODkzNTE4NzM3NmYxODIxOTY4ZDVjNWU0MmRmYzQ"
+              ],
               "colorCount": null,
               "rating": {
                 "average": 5,
@@ -481,7 +491,9 @@
               "productId": "PR-S221508-3000202800040YESIL",
               "contentId": "PR-S221508-3000202800040YESIL",
               "name": "Robin Kadın Triko Elbise T93586",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8OTYxNzR8aW1hZ2UvanBlZ3xoNDQvaDUwLzk1NDUwMzk1NzcxMTh8YzhlNGYwNjVhMjRjNjhjODI1NDRkNGY0NmQ4MmMwMTdjZjk0MjVhZDJjN2Q0OTNkZWExMWI5ZWJmYTk2OWIyYg",
+              "images": [
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8OTYxNzR8aW1hZ2UvanBlZ3xoNDQvaDUwLzk1NDUwMzk1NzcxMTh8YzhlNGYwNjVhMjRjNjhjODI1NDRkNGY0NmQ4MmMwMTdjZjk0MjVhZDJjN2Q0OTNkZWExMWI5ZWJmYTk2OWIyYg"
+              ],
               "colorCount": null,
               "rating": {
                 "average": 0,
@@ -631,10 +643,15 @@
           },
           "items": [
             {
-              "productId": "PR-S221508-3000202800040YESIL",
+              "productId": "PR-10138789BAKIR",
               "contentId": "PR-S221508-3000202800040YESIL",
               "name": "Mavi Kadın Tişört 1600740-900",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTIwNTc3MHxpbWFnZS9qcGVnfGgxMi9oYjIvOTIwMjUyNDc4MjYyMnwwMTU0OTM4MmI2ODIyZmY0MDFiY2M5ODQ2MmM0YTRiOTI0NDI1NzQ2M2YyMjY4OWQ4NTUzOWIyMzQ0NTYwYTUx",
+              "images": [
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTI5MjQ0NXxpbWFnZS9qcGVnfGg2OC9oNDgvOTIwMjUyMzc5OTU4MnwwZTE3OTIzNWE2NDJiNDQ2ZmY2NjJkMjk4YjM3NWY0M2JlZmJlNTg4ZmU4MTY1NTAyMWYxMGI5OTRlMTUwMDVj",
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ3OTI1MXxpbWFnZS9qcGVnfGhmNS9oOTkvOTIwMjUyNDA2MTcyNnxiMjk4MjQyYTk3MzRlN2ZlMzZkOWM1MDkxZjZmYTFiOTE3MTQyZGE4MWUyZDQ3ZGE0MTRmMmU0YTZlMDk1NTcz",
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTE4NDU1M3xpbWFnZS9qcGVnfGgyMS9oYjgvOTIwMjUyNDkxMzY5NHxlNjQwY2QwODFjMWQ2ZWQ5ZjhhYjg5ODk3N2E3NmMwNDU0YWNiY2UzZjBkNzNjOWM0NDY5ZjE0ZGEyYjI0Y2Vl",
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTIwNTc3MHxpbWFnZS9qcGVnfGg1My9oYWUvOTIwMjUyNDY1MTU1MHw1NjcwOTg0YmJlMGM5M2NjY2E2NDVkM2U2MTg2N2JiMzExZjc5NTBkOGRmM2Q0ZjNmYjA2NTViMzEyNTdmYjFh"
+              ],
               "colorCount": null,
               "rating": {
                 "average": 4.8,
@@ -669,10 +686,15 @@
               ]
             },
             {
-              "productId": "PR-S221508-3000202800040YESIL",
+              "productId": "PR-19Y4BS204001.2.ATA0068700001BEYAZ",
               "contentId": "PR-S221508-3000202800040YESIL",
               "name": "U.S. Polo Assn. Erkek Eşofman Altı 1350355.VR046",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzMyOTI2fGltYWdlL2pwZWd8aGNkL2g5My85NDg3NDY2NzU4MTc0fDM1NjM1MDBkMWE4ZDBkODMwMDZmZGZjOTEyZTgyNWUwMTMwNTc5M2Q3MjdiOTg0YjExODNiMzliMmIxM2U5OGE",
+              "images": [
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzI4MTQ0fGltYWdlL2pwZWd8aDNmL2g4Ni85NDg3NDY2MzY0OTU4fDcyMWI2NTBmOTFmOGY5MzRmZWZiY2NlOGYzOWNjMzUwY2I1YzYyNGY2NDlkZmQ0ZWFmMGM4NjM4Y2Y5ODc0Y2M",
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzMyOTI2fGltYWdlL2pwZWd8aDBkL2g5MC85NDg3NDY2NjI3MTAyfDdiZWFlMDY1YjI5NzI5MjZhOWU1ZGU5NmU0MzY3NzM4NGY1NGEzMmMyNDEwN2Y1MThlN2M1ZmI3ZmI2NTBlYjY",
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Njg1MDA3fGltYWdlL2pwZWd8aDhjL2g5Ny85NDg3NDY2ODg5MjQ2fGZiMGE5YTc3MDViMTcxMjUxODI2MzliOTczOWQxMjgxMzcxODRlMjIzYjBlM2VlYjI5NDZjYzA1OWU3Nzg3NDY",
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTMxNjQ3OHxpbWFnZS9qcGVnfGgxOS9oZTkvOTQ4NzQ2NzE1MTM5MHxkYjljMjBmMGUzOWNjOWRmYjc5YzdjMjAwYzZkZTc1YTEzZjdlZDcyZTYwZWQ5MzllZTc0NWVjMDA5ZWVhMDlm"
+              ],
               "colorCount": "2",
               "rating": {
                 "average": 3,
@@ -701,12 +723,35 @@
                 }
               ],
               "promotions": null
-            },
+            }
+          ],
+          "viewProperties": {
+            "imageAspectRatio": 0.66,
+            "visibleItemCount": 2,
+            "cornerRadius": 8,
+            "itemSpace": 16
+          }
+        }
+      },
+      {
+        "widgetType": "LISTING_PRODUCT",
+        "content": {
+          "widgetHeader": {
+            "title": "LISTING_PRODUCT",
+            "widgetNavigation": {
+              "title": "Tümü",
+              "landingTitle": "En çok satılanlar",
+              "deeplink": "ozd://"
+            }
+          },
+          "items": [
             {
               "productId": "PR-S221508-3000202800040YESIL",
               "contentId": "PR-S221508-3000202800040YESIL",
               "name": "Pierre Cardin Kadın Bikini 227285",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8OTExODY1fGltYWdlL2pwZWd8aDVhL2gzYy85NTIxMjI0MzUxNzc0fGRkNDg4NjUxOGQ5YmJkNjdkOTg0YzBkNjk3NDA0ZTk5NmYzMWQ2OGZhMzRjNWRmNzJjYzRlMzk1N2YyZDMzMjk",
+              "images": [
+                "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8OTExODY1fGltYWdlL2pwZWd8aDVhL2gzYy85NTIxMjI0MzUxNzc0fGRkNDg4NjUxOGQ5YmJkNjdkOTg0YzBkNjk3NDA0ZTk5NmYzMWQ2OGZhMzRjNWRmNzJjYzRlMzk1N2YyZDMzMjk"
+              ],
               "colorCount": "2",
               "price": {
                 "discountRate": "10",
@@ -736,7 +781,10 @@
               "productId": "PR-S221508-3000202800040YESIL",
               "contentId": "PR-S221508-3000202800040YESIL",
               "name": "Özdilek Princess Time Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Çocuk Pike Takımı",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDkyOTY2fGltYWdlL2pwZWd8aGZhL2g1Yy85MjU2ODc0NDQyNzgyfDc3YmQ2MmYzNDc4OGYxYWYzZjFiNWZkYTdmZmMwMTZkZGJiMzY5ZGEzZWEyM2I1YWJkOTU2NzcxODQxZTNmMTA",
+              "images": [
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDkyOTY2fGltYWdlL2pwZWd8aGZhL2g1Yy85MjU2ODc0NDQyNzgyfDc3YmQ2MmYzNDc4OGYxYWYzZjFiNWZkYTdmZmMwMTZkZGJiMzY5ZGEzZWEyM2I1YWJkOTU2NzcxODQxZTNmMTA",
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDEwMzUwfGltYWdlL2pwZWd8aGZiL2g1OS85MjU2ODc0NTA4MzE4fGEwOGRhNDViM2FjYjgyNGE1Y2UwNzc2MWQxODBjOGU0NmQ3MGNkZTE4MzdhMGUwZDA3MGFlZjAwNmJmZGY3ZDM"
+              ],
               "colorCount": null,
               "price": {
                 "discountRate": "40",
