@@ -13,6 +13,7 @@
     "widgets": [
       {
         "widgetType": "CIRCLED_SLIDER_BANNER",
+        "id": "120000",
         "content": {
           "widgetHeader": {
             "title": "CIRCLED_SLIDER_BANNER",
@@ -113,6 +114,7 @@
       },
       {
         "widgetType": "SINGLE_BANNER",
+        "id": "120001",
         "content": {
           "widgetHeader": {
             "title": "SINGLE_BANNER",
@@ -148,6 +150,7 @@
       },
       {
         "widgetType": "CAROUSEL_BANNER",
+        "id": "120002",
         "content": {
           "widgetHeader": {
             "title": "CAROUSEL_BANNER",
@@ -216,6 +219,7 @@
       },
       {
         "widgetType": "LISTING_BANNER",
+        "id": "120003",
         "content": {
           "widgetHeader": {
             "title": "LISTING_BANNER",
@@ -259,6 +263,7 @@
       },
       {
         "widgetType": "SLIDER_PRODUCT",
+        "id": "120004",
         "content": {
           "widgetHeader": {
             "title": "SLIDER_PRODUCT",
@@ -541,6 +546,7 @@
       },
       {
         "widgetType": "SINGLE_BANNER",
+        "id": "120005",
         "content": {
           "widgetHeader": {
             "title": "SINGLE_BANNER",
@@ -569,6 +575,7 @@
       },
       {
         "widgetType": "SLIDER_BANNER",
+        "id": "120006",
         "content": {
           "widgetHeader": {
             "title": "SLIDER_BANNER",
@@ -632,6 +639,7 @@
       },
       {
         "widgetType": "LISTING_PRODUCT",
+        "id": "120007",
         "content": {
           "widgetHeader": {
             "title": "LISTING_PRODUCT",
@@ -735,6 +743,7 @@
       },
       {
         "widgetType": "LISTING_PRODUCT",
+        "id": "120008",
         "content": {
           "widgetHeader": {
             "title": "LISTING_PRODUCT",
