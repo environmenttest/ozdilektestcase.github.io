@@ -504,7 +504,7 @@
           ],
           "viewProperties": {
             "imageAspectRatio": 1,
-            "visibleItemCount": 2,
+            "visibleItemCount": 2.5,
             "cornerRadius": 8,
             "itemSpace": 16
           }
