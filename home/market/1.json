@@ -419,6 +419,96 @@
             "itemSpace": 8
           }
         }
+      },
+      {
+        "widgetType": "SLIDER_PRODUCT",
+        "id": "120007",
+        "content": {
+          "widgetHeader": {
+            "title": "LISTING_PRODUCT",
+            "widgetNavigation": {
+              "title": "Tümü",
+              "landingTitle": "En çok satılanlar",
+              "deeplink": "ozd://"
+            }
+          },
+          "items": [
+            {
+              "productId": "10122186",
+              "contentId": "10122186",
+              "name": "Heinz Ketçap 1000 g",
+              "images": [
+                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHByb2R1Y3RpbWd8NTQ2NjF8aW1hZ2UvanBlZ3xoYTYvaGVkLzkyMDU3MTI1NTE5NjZ8MTA2NWNjMGE5MjgxMzY5MWEyNjEyYzg4YTZkNzNiYTZhMzAwNGY2ZmQ3MTQ1Nzc3MGUwZDAzOWY1MjA2Y2MxYw"
+              ],
+              "colorCount": null,
+              "price": {
+                "discountRate": "10",
+                "oldPrice": "38,95",
+                "currentPriceWholeNumber": "34",
+                "separator": ",",
+                "currentPriceDecimalNUmber": "95",
+                "currency": "TL",
+                "value": 38.95,
+                "firebaseCurrency": "TRY",
+                "formattedValue": "34,95 TL"
+              },
+              "categories": null,
+              "promotions": [
+                {
+                  "text": "2 al 1 öde"
+                }
+              ]
+            },
+            {
+              "productId": "10005734",
+              "contentId": "10005734",
+              "name": "Domates Kg.",
+              "images": [
+                "https://img-ozdilek.mncdn.com/images/catalog/200x310/5770.jpg"
+              ],
+              "price": {
+                "discountRate": null,
+                "oldPrice": null,
+                "currentPriceWholeNumber": "11",
+                "separator": ",",
+                "currentPriceDecimalNUmber": "99",
+                "currency": "TL",
+                "value": 11.94,
+                "firebaseCurrency": "TRY",
+                "formattedValue": "11,99TL"
+              },
+              "categories": null,
+              "promotions": null
+            },
+            {
+              "productId": "10120951",
+              "contentId": "10120951",
+              "name": "Yudum Ayçiçek Yağı 5 L Pet",
+              "images": [
+                "https://img-ozdilek.mncdn.com/images/catalog/200x310/8690876101097.jpg"
+              ],
+              "price": {
+                "discountRate": "11",
+                "oldPrice": "225,95",
+                "currentPriceWholeNumber": "225",
+                "separator": ",",
+                "currentPriceDecimalNUmber": "95",
+                "currency": "TL",
+                "value": 225.95,
+                "firebaseCurrency": "TRY",
+                "formattedValue": "198,95 TL"
+              },
+              "categories": null,
+              "promotions": null
+            }
+          ],
+          "viewProperties": {
+            "imageAspectRatio": 1,
+            "visibleItemCount": 2,
+            "cornerRadius": 8,
+            "itemSpace": 16
+          }
+        }
       }
     ]
   }
