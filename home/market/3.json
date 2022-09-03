@@ -125,7 +125,7 @@
             "navigationType": "REDIRECT"
           }
         },
-        "items": [
+        "banners": [
           {
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/salc-a-1920x735-.jpg?context=bWFzdGVyfGJhbm5lcnN8NjM2MzUzfGltYWdlL2pwZWd8aDk1L2hkNi85NjU5NzIxNTgwNTc0L3NhbGPCpsSfYV8xOTIweDczNS0tLmpwZ3w2MmJkZGRiOTIyODFiMjExMGI4NjgxNTM5YjEwMGI0N2MxNTNlOTA5OWY0OGE1NTk4MTQzYjFlOTc4OTgyZTVm",
             "navigation": {
