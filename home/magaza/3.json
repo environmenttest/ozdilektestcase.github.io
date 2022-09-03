@@ -12,635 +12,621 @@
     },
     "widgets": [
       {
+        "id": "140000",
         "widgetType": "CIRCLED_SLIDER_BANNER",
-        "id": "120018",
-        "content": {
-          "widgetHeader": {
-            "title": "CIRCLED_SLIDER_BANNER",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
-              "deeplink": "ozd://",
-              "navigationType": "REDIRECT"
+        "widgetHeader": {
+          "title": "CIRCLED_SLIDER_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "banners": [
+          {
+            "title": "Elbise",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/7.jpg?context=bWFzdGVyfGJhbm5lcnN8MzI1MjYxfGltYWdlL2pwZWd8aDUwL2hjZC85NTMwODYzMzUzODg2LzcuanBnfDU3NWQwZjc1MzBlNWRiMGJhYWM2MzAxOWZmNTMxZjViMDE0NGQ3NjQ4M2MwYjAxOGY2N2JiZjhiYTdjMWVkYTU",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
             }
           },
-          "items": [
-            {
-              "title": "Elbise",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/7.jpg?context=bWFzdGVyfGJhbm5lcnN8MzI1MjYxfGltYWdlL2pwZWd8aDUwL2hjZC85NTMwODYzMzUzODg2LzcuanBnfDU3NWQwZjc1MzBlNWRiMGJhYWM2MzAxOWZmNTMxZjViMDE0NGQ3NjQ4M2MwYjAxOGY2N2JiZjhiYTdjMWVkYTU",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Tişört",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/8.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY5NDY4fGltYWdlL2pwZWd8aGZiL2hkMi85NTMxNTQxNjE4NzE4LzguanBnfDU1NTcyMWZlOWQ3NmQ1ZGZmZWM3ZWU3ZWI0MGZlODBiNGM0YjQyZWQzYzgyMWM4NjBlNjVlOTBkZGJhYWI2YTk",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Terlik Ürünleri",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/yaz-s-k-adimlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTUzMDAwfGltYWdlL2pwZWd8aDk5L2gzYS85NjQ1ODEwMDI0NDc4L3lhel9zwqYta19hZGltbGFyXzM4MHgzNDkuanBnfDFkMzQ2YTVlZjA1NmJhMDdkYWZkZDljZWEzMDM4YWEwYTg3YjQ4MmFmYjRhN2YwMWI0ZDgxYTg0ZGQ3MmVjNWI",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Yaz Ürünleri",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/goz-alici-tarzlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE4NTg0fGltYWdlL2pwZWd8aGE4L2hjMS85NjQ1ODA5ODI3ODcwL2dvel9hbGljaV90YXJ6bGFyXzM4MHgzNDkuanBnfDllNWE5MDc2NGZkZWE3MWQwNzE2Mzc4Mzc2MTU5Yjc0OTljYTEyMjVhZmNmOTMyNmZmMzlmYmU1ODBjZTVjOGY",
-              "navigation": {
-                "landingTitle": "Sepette %20 indirim",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Tatil zamanı",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/tatilheyecani-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8ODU1OTB8aW1hZ2UvanBlZ3xoZTYvaGMwLzk2NDU4MDk4OTM0MDYvdGF0aWxoZXllY2FuaV8zODB4MzQ5LmpwZ3xkOGI2YzlkY2QxNTJlNmY2YTNlYjU2NTAyMjU5NTdiYmZjNzhmYWJkOTAyMmM1NjczZTA2N2EwNzI0YjczYTBk",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Plaj",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/tarzy-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY1OTE2fGltYWdlL2pwZWd8aDU4L2gzZS85NjQ1ODEwMTU1NTUwL3Rhcnp5XzM4MHgzNDkuanBnfDE2OGM5MDJlOTg2NGE2Zjk4MjM2ZmM2YjFmNGI1M2I5OTk3MDcwMDQ2MTEyYmRiMzA5NGY3MDYxMjU0Y2M2NTY",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Nevresim",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pike-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTExNDc4fGltYWdlL2pwZWd8aDVhL2gzYi85NjQ1ODEwMDkwMDE0L3Bpa2VfMzgweDM0OS5qcGd8NWNlNWU4OWE5ZmE0MjFmYTljOGI3MmFhYWNjY2JmM2Q1YjE0NmFlNWZkYTczMzBiYjVlMWI5ZjE5NTk1YWJlMQ",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Kozmetik",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/kozmetik-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTM0NDgwfGltYWdlL2pwZWd8aDY5L2g0MS85NjQ1ODEwMjIxMDg2L2tvem1ldGlrXzM4MHgzNDkuanBnfDkzZGUzYzZmYjNjMTg3Y2E1NjEwNGNjNWQ2NjhiMGEzOGE1NGNlODA1YmY3NmEyZDc4MDQ2MThiYjBmYTQwYmI",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Paspas",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/alden-paspas-350x327.jpg?context=bWFzdGVyfHJvb3R8MTEwMjIzfGltYWdlL2pwZWd8aDMzL2g1NS85NTI0MDIyMjQ3NDU0L2FsZGVuX3Bhc3Bhc18zNTB4MzI3LmpwZ3wxN2I5NmNhYWU4YWM4YjZkMmM2ODE1YjZhOGM4MTVkOTc4YWQ1Nzk4Njk5MzkyOWVlYjM5ZGY1NDZhY2RmMWQ2",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "2 al 1 öde",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
+          {
+            "title": "Tişört",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/8.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY5NDY4fGltYWdlL2pwZWd8aGZiL2hkMi85NTMxNTQxNjE4NzE4LzguanBnfDU1NTcyMWZlOWQ3NmQ1ZGZmZWM3ZWU3ZWI0MGZlODBiNGM0YjQyZWQzYzgyMWM4NjBlNjVlOTBkZGJhYWI2YTk",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
             }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 1,
-            "visibleItemCount": 4.5
+          },
+          {
+            "title": "Terlik Ürünleri",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/yaz-s-k-adimlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTUzMDAwfGltYWdlL2pwZWd8aDk5L2gzYS85NjQ1ODEwMDI0NDc4L3lhel9zwqYta19hZGltbGFyXzM4MHgzNDkuanBnfDFkMzQ2YTVlZjA1NmJhMDdkYWZkZDljZWEzMDM4YWEwYTg3YjQ4MmFmYjRhN2YwMWI0ZDgxYTg0ZGQ3MmVjNWI",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Yaz Ürünleri",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/goz-alici-tarzlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE4NTg0fGltYWdlL2pwZWd8aGE4L2hjMS85NjQ1ODA5ODI3ODcwL2dvel9hbGljaV90YXJ6bGFyXzM4MHgzNDkuanBnfDllNWE5MDc2NGZkZWE3MWQwNzE2Mzc4Mzc2MTU5Yjc0OTljYTEyMjVhZmNmOTMyNmZmMzlmYmU1ODBjZTVjOGY",
+            "navigation": {
+              "landingTitle": "Sepette %20 indirim",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Tatil zamanı",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/tatilheyecani-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8ODU1OTB8aW1hZ2UvanBlZ3xoZTYvaGMwLzk2NDU4MDk4OTM0MDYvdGF0aWxoZXllY2FuaV8zODB4MzQ5LmpwZ3xkOGI2YzlkY2QxNTJlNmY2YTNlYjU2NTAyMjU5NTdiYmZjNzhmYWJkOTAyMmM1NjczZTA2N2EwNzI0YjczYTBk",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Plaj",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/tarzy-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY1OTE2fGltYWdlL2pwZWd8aDU4L2gzZS85NjQ1ODEwMTU1NTUwL3Rhcnp5XzM4MHgzNDkuanBnfDE2OGM5MDJlOTg2NGE2Zjk4MjM2ZmM2YjFmNGI1M2I5OTk3MDcwMDQ2MTEyYmRiMzA5NGY3MDYxMjU0Y2M2NTY",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Nevresim",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pike-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTExNDc4fGltYWdlL2pwZWd8aDVhL2gzYi85NjQ1ODEwMDkwMDE0L3Bpa2VfMzgweDM0OS5qcGd8NWNlNWU4OWE5ZmE0MjFmYTljOGI3MmFhYWNjY2JmM2Q1YjE0NmFlNWZkYTczMzBiYjVlMWI5ZjE5NTk1YWJlMQ",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Kozmetik",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/kozmetik-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTM0NDgwfGltYWdlL2pwZWd8aDY5L2g0MS85NjQ1ODEwMjIxMDg2L2tvem1ldGlrXzM4MHgzNDkuanBnfDkzZGUzYzZmYjNjMTg3Y2E1NjEwNGNjNWQ2NjhiMGEzOGE1NGNlODA1YmY3NmEyZDc4MDQ2MThiYjBmYTQwYmI",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Paspas",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/alden-paspas-350x327.jpg?context=bWFzdGVyfHJvb3R8MTEwMjIzfGltYWdlL2pwZWd8aDMzL2g1NS85NTI0MDIyMjQ3NDU0L2FsZGVuX3Bhc3Bhc18zNTB4MzI3LmpwZ3wxN2I5NmNhYWU4YWM4YjZkMmM2ODE1YjZhOGM4MTVkOTc4YWQ1Nzk4Njk5MzkyOWVlYjM5ZGY1NDZhY2RmMWQ2",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "2 al 1 öde",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
           }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 1,
+          "visibleItemCount": 4.5
         }
       },
       {
+        "id": "140001",
         "widgetType": "SINGLE_BANNER",
-        "id": "120019",
-        "content": {
-          "widgetHeader": {
-            "title": "SINGLE_BANNER",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
-              "deeplink": "ozd://",
-              "navigationType": "REDIRECT"
+        "widgetHeader": {
+          "title": "SINGLE_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "banners": [
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/floretta-koltukortusu-1200x300.jpg?context=bWFzdGVyfGJhbm5lcnN8MzUwNTY4fGltYWdlL2pwZWd8aDE1L2hkZi85NjUxNTc0NTA1NTAyL2Zsb3JldHRhX2tvbHR1a29ydHVzdV8xMjAweDMwMC5qcGd8MDAyNWE2Y2Y5NjBjNGVlNTE4YTlkNWU5ZGU4YzVkZjRmZTFjOTdjOTgzYjczZGM0NjE3Njg1NTJjNDE3NmRmMA",
+            "navigation": {
+              "landingTitle": "Floretta Koltuk Örtüsü",
+              "deeplink": "ozd://"
             }
           },
-          "items": [
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/floretta-koltukortusu-1200x300.jpg?context=bWFzdGVyfGJhbm5lcnN8MzUwNTY4fGltYWdlL2pwZWd8aDE1L2hkZi85NjUxNTc0NTA1NTAyL2Zsb3JldHRhX2tvbHR1a29ydHVzdV8xMjAweDMwMC5qcGd8MDAyNWE2Y2Y5NjBjNGVlNTE4YTlkNWU5ZGU4YzVkZjRmZTFjOTdjOTgzYjczZGM0NjE3Njg1NTJjNDE3NmRmMA",
-              "navigation": {
-                "landingTitle": "Floretta Koltuk Örtüsü",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/guess-1200x300.jpg?context=bWFzdGVyfGJhbm5lcnN8Mjg2MTE3fGltYWdlL2pwZWd8aDBlL2g1Yi85NjQ5OTEzNzU3NzI2L2d1ZXNzXzEyMDB4MzAwLmpwZ3xiZjk1OTQ5Yjk2YzMxZmZmYjJhMjBlNzU3ZWU5ZDQzYWMzZTRmOWUyYWNlMWFkYTY5NGRkYzg0NjA4YzU3YzY2",
-              "navigation": {
-                "landingTitle": "Guess Koleksiyonu",
-                "deeplink": "ozd://"
-              }
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/guess-1200x300.jpg?context=bWFzdGVyfGJhbm5lcnN8Mjg2MTE3fGltYWdlL2pwZWd8aDBlL2g1Yi85NjQ5OTEzNzU3NzI2L2d1ZXNzXzEyMDB4MzAwLmpwZ3xiZjk1OTQ5Yjk2YzMxZmZmYjJhMjBlNzU3ZWU5ZDQzYWMzZTRmOWUyYWNlMWFkYTY5NGRkYzg0NjA4YzU3YzY2",
+            "navigation": {
+              "landingTitle": "Guess Koleksiyonu",
+              "deeplink": "ozd://"
             }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 4,
-            "visibleItemCount": 1,
-            "cornerRadius": 16
           }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 4,
+          "visibleItemCount": 1,
+          "cornerRadius": 16
         }
       },
       {
+        "id": "140002",
         "widgetType": "CAROUSEL_BANNER",
-        "id": "120020",
-        "content": {
-          "widgetHeader": {
-            "title": "CAROUSEL_BANNER",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
-              "deeplink": "ozd://",
-              "navigationType": "REDIRECT"
+        "widgetHeader": {
+          "title": "CAROUSEL_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "banners": [
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/adidas-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8OTA5OTgwfGltYWdlL2pwZWd8aDZjL2g3NS85NjQ5OTI0NDcyODYyL2FkaWRhc18xOTIweDczNS5qcGd8MWFkOGNjODEzMmEyZDZhYTBmODg5NTRmZmU3NWMwZWU2MTBlNWY3OWVjZTIyMmNmY2IxOWY1ZTQ0NzE4MzAzNw",
+            "navigation": {
+              "landingTitle": "Spor Giyim Ve Ayakkabı Koleksiyonu",
+              "deeplink": "ozd://"
             }
           },
-          "items": [
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/adidas-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8OTA5OTgwfGltYWdlL2pwZWd8aDZjL2g3NS85NjQ5OTI0NDcyODYyL2FkaWRhc18xOTIweDczNS5qcGd8MWFkOGNjODEzMmEyZDZhYTBmODg5NTRmZmU3NWMwZWU2MTBlNWY3OWVjZTIyMmNmY2IxOWY1ZTQ0NzE4MzAzNw",
-              "navigation": {
-                "landingTitle": "Spor Giyim Ve Ayakkabı Koleksiyonu",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/birkenstock-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8ODIwMDk3fGltYWdlL2pwZWd8aDJjL2g3Ni85NjQ5OTI0NDA3MzI2L2JpcmtlbnN0b2NrXzE5MjB4NzM1LmpwZ3xhODhkNTc2MTIzZGMyYTRmNTQ0Zjk5N2IxYTg5NWE0MWVkMTNhYzk2YzlhNTFmM2U5NzUzNmEyMjk3Y2ZiZjlh",
-              "navigation": {
-                "landingTitle": "Birkenstock Terlik Koleksiyonu",
-                "type": "REDIRECT",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735px.jpg?context=bWFzdGVyfGJhbm5lcnN8NTE4NDUyfGltYWdlL2pwZWd8aDI2L2gzOC85NDk5MzMyMDgzNzQyLzE5MjB4NzM1cHguanBnfGQ5YzVhNTNjYTJiYTM1ZDMwMmU5NWI1Y2Y4MTM5ZGM0OGExYjkxODQ0ZTIxM2NiZDg3Yjk3YjJhZDBlYjdmZmM",
-              "navigation": null
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735-.jpg?context=bWFzdGVyfGJhbm5lcnN8NDg1MjkyfGltYWdlL2pwZWd8aDMwL2g2Zi85NjQ2ODg0NzQ5MzQyLzE5MjB4NzM1LS5qcGd8OGI2Yjk2NmJlZWUzMDIyYTA5YzgxYmQxODVjNjIyNGY4NmI2NWExMDQzMDk4NTFjZDM3MWI3Y2ZmNDYzZDc3Mg",
-              "navigation": {
-                "landingTitle": "Birkenstock Terlik Koleksiyonu",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pierreCardin-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTI2OTMxOHxpbWFnZS9qcGVnfGhlYS9oN2MvOTY0OTkyNDIxMDcxOC9waWVycmVDYXJkaW5fMTkyMHg3MzUuanBnfGViMGI0NTRlYmFlNDczZjJlN2JlMzIwNTA3M2M0YzEzZWU5NWRiMjU3Zjc2N2QxZTRmNzc0N2UxNTJmMDViMTY",
-              "navigation": {
-                "landingTitle": "Kadın Giyim Koleksiyonu",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/kappa-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE3MDIwMXxpbWFnZS9qcGVnfGg3Zi9oZDcvOTY1MTQzNTI0MTUwMi9rYXBwYV8xOTIweDczNS5qcGd8MTdjNWE4ZDFlOTdmN2RmMTQwOThjNzgwZWNmYmQxYmY0OWZiYmJmNzlmN2Q5OTg3NWNhYmY4MmFjOGIxM2QwMA",
-              "navigation": {
-                "title": "Giyim Koleksiyonu",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pacorabanne.jpg?context=bWFzdGVyfHJvb3R8NTM1ODl8aW1hZ2UvanBlZ3xoNGEvaDhkLzg4MDczODc5MjI0NjIvcGFjb3JhYmFubmUuanBnfDNjZDE4OTljZTQ3ZmYyOWYxYTBkOWFmOTQ2ODIzNmQxYTZlOWVmZWQzYmIyOTFkN2MyZDAwMjhjMjk1MTJlYTU",
-              "navigation": {
-                "landingTitle": "Paco Rabanne",
-                "deeplink": "ozd://"
-              }
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/birkenstock-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8ODIwMDk3fGltYWdlL2pwZWd8aDJjL2g3Ni85NjQ5OTI0NDA3MzI2L2JpcmtlbnN0b2NrXzE5MjB4NzM1LmpwZ3xhODhkNTc2MTIzZGMyYTRmNTQ0Zjk5N2IxYTg5NWE0MWVkMTNhYzk2YzlhNTFmM2U5NzUzNmEyMjk3Y2ZiZjlh",
+            "navigation": {
+              "landingTitle": "Birkenstock Terlik Koleksiyonu",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
             }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 2.61,
-            "visibleItemCount": 1,
-            "cornerRadius": 16
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735px.jpg?context=bWFzdGVyfGJhbm5lcnN8NTE4NDUyfGltYWdlL2pwZWd8aDI2L2gzOC85NDk5MzMyMDgzNzQyLzE5MjB4NzM1cHguanBnfGQ5YzVhNTNjYTJiYTM1ZDMwMmU5NWI1Y2Y4MTM5ZGM0OGExYjkxODQ0ZTIxM2NiZDg3Yjk3YjJhZDBlYjdmZmM",
+            "navigation": null
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735-.jpg?context=bWFzdGVyfGJhbm5lcnN8NDg1MjkyfGltYWdlL2pwZWd8aDMwL2g2Zi85NjQ2ODg0NzQ5MzQyLzE5MjB4NzM1LS5qcGd8OGI2Yjk2NmJlZWUzMDIyYTA5YzgxYmQxODVjNjIyNGY4NmI2NWExMDQzMDk4NTFjZDM3MWI3Y2ZmNDYzZDc3Mg",
+            "navigation": {
+              "landingTitle": "Birkenstock Terlik Koleksiyonu",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pierreCardin-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTI2OTMxOHxpbWFnZS9qcGVnfGhlYS9oN2MvOTY0OTkyNDIxMDcxOC9waWVycmVDYXJkaW5fMTkyMHg3MzUuanBnfGViMGI0NTRlYmFlNDczZjJlN2JlMzIwNTA3M2M0YzEzZWU5NWRiMjU3Zjc2N2QxZTRmNzc0N2UxNTJmMDViMTY",
+            "navigation": {
+              "landingTitle": "Kadın Giyim Koleksiyonu",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/kappa-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE3MDIwMXxpbWFnZS9qcGVnfGg3Zi9oZDcvOTY1MTQzNTI0MTUwMi9rYXBwYV8xOTIweDczNS5qcGd8MTdjNWE4ZDFlOTdmN2RmMTQwOThjNzgwZWNmYmQxYmY0OWZiYmJmNzlmN2Q5OTg3NWNhYmY4MmFjOGIxM2QwMA",
+            "navigation": {
+              "title": "Giyim Koleksiyonu",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pacorabanne.jpg?context=bWFzdGVyfHJvb3R8NTM1ODl8aW1hZ2UvanBlZ3xoNGEvaDhkLzg4MDczODc5MjI0NjIvcGFjb3JhYmFubmUuanBnfDNjZDE4OTljZTQ3ZmYyOWYxYTBkOWFmOTQ2ODIzNmQxYTZlOWVmZWQzYmIyOTFkN2MyZDAwMjhjMjk1MTJlYTU",
+            "navigation": {
+              "landingTitle": "Paco Rabanne",
+              "deeplink": "ozd://"
+            }
           }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 2.61,
+          "visibleItemCount": 1,
+          "cornerRadius": 16
         }
       },
       {
+        "id": "140003",
         "widgetType": "LISTING_BANNER",
-        "id": "120021",
-        "content": {
-          "widgetHeader": {
-            "title": "LISTING_BANNER",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
-              "deeplink": "ozd://",
-              "navigationType": "REDIRECT"
+        "widgetHeader": {
+          "title": "LISTING_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "banners": [
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/350x327-rosebud-bornoz.jpg?context=bWFzdGVyfHJvb3R8MTE5MDMzfGltYWdlL2pwZWd8aGJmL2g5Yy85NDkwODY3NDUzOTgyLzM1MHgzMjdfcm9zZWJ1ZF9ib3Jub3ouanBnfDE4ZWUyYzIyM2I3ODAzMzI4MGQ4NTdkYzhjNTMyMzIwOGJjMmEwNzU4NmJlZmU1MjU0MDM2ODM4YTg5MTY2Njk",
+            "navigation": {
+              "landingTitle": "Bornoz",
+              "deeplink": "ozd://"
             }
           },
-          "items": [
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/350x327-rosebud-bornoz.jpg?context=bWFzdGVyfHJvb3R8MTE5MDMzfGltYWdlL2pwZWd8aGJmL2g5Yy85NDkwODY3NDUzOTgyLzM1MHgzMjdfcm9zZWJ1ZF9ib3Jub3ouanBnfDE4ZWUyYzIyM2I3ODAzMzI4MGQ4NTdkYzhjNTMyMzIwOGJjMmEwNzU4NmJlZmU1MjU0MDM2ODM4YTg5MTY2Njk",
-              "navigation": {
-                "landingTitle": "Bornoz",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/24.jpg?context=bWFzdGVyfGJhbm5lcnN8MzE3MTgzfGltYWdlL2pwZWd8aGFkL2g3Ny85NTMwODYyOTI3OTAyLzI0LmpwZ3xlZjhkYTBjYTk3Y2FkMDMzMTNjYWFjNzUwMDRiMGU5MGU3ODBhY2U2MDVlZjE3YmJlMGFkNTE1MWFiODVkNjAy",
-              "navigation": {
-                "landingTitle": "Outdoor Ayakkabı & Bot",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/2.jpg?context=bWFzdGVyfGJhbm5lcnN8MjcyMzU3fGltYWdlL2pwZWd8aDE3L2hjMy85NTMwODYzMDU4OTc0LzIuanBnfDZmODFjYWM1NWNkMTc2MWIxZDI3M2M3NjkwNzdiOGM3NDdhMzA5YzQ1OWY4ZmJmNWE3YWU2ODBjMTQ1MzFlM2U",
-              "navigation": {
-                "landingTitle": "Outdoor Ayakkabı & Bot",
-                "deeplink": "ozd://"
-              }
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/24.jpg?context=bWFzdGVyfGJhbm5lcnN8MzE3MTgzfGltYWdlL2pwZWd8aGFkL2g3Ny85NTMwODYyOTI3OTAyLzI0LmpwZ3xlZjhkYTBjYTk3Y2FkMDMzMTNjYWFjNzUwMDRiMGU5MGU3ODBhY2U2MDVlZjE3YmJlMGFkNTE1MWFiODVkNjAy",
+            "navigation": {
+              "landingTitle": "Outdoor Ayakkabı & Bot",
+              "deeplink": "ozd://"
             }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 1.07,
-            "visibleItemCount": 3,
-            "cornerRadius": 16,
-            "itemSpace": 8
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/2.jpg?context=bWFzdGVyfGJhbm5lcnN8MjcyMzU3fGltYWdlL2pwZWd8aDE3L2hjMy85NTMwODYzMDU4OTc0LzIuanBnfDZmODFjYWM1NWNkMTc2MWIxZDI3M2M3NjkwNzdiOGM3NDdhMzA5YzQ1OWY4ZmJmNWE3YWU2ODBjMTQ1MzFlM2U",
+            "navigation": {
+              "landingTitle": "Outdoor Ayakkabı & Bot",
+              "deeplink": "ozd://"
+            }
           }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 1.07,
+          "visibleItemCount": 3,
+          "cornerRadius": 16,
+          "itemSpace": 8
         }
       },
       {
+        "id": "140004",
         "widgetType": "SLIDER_PRODUCT",
-        "id": "120022",
-        "content": {
-          "widgetHeader": {
-            "title": "SLIDER_PRODUCT",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
-              "deeplink": "ozd://"
-            }
-          },
-          "items": [
-            {
-              "productId": "PR-12202099EKRU",
-              "contentId": "PR-S221508-3000202800040YESIL",
-              "name": "Koton Erkek Şort 2SAM40057BD",
-              "images": [
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzMjUzMHxpbWFnZS9qcGVnfGg2Yi9oZjcvOTU2OTczMTIxNTM5MHw2YjNlOWMwZTJkNjY3MGI2NzUxMzkxNWRlYTUxMzg1ODZjYjViNTE0NGU1OThlM2I5ZWYzODdiOTljMThhMmQ4"
-              ],
-              "colorCount": null,
-              "rating": {
-                "average": 4.8,
-                "count": 48
-              },
-              "price": {
-                "discountRate": null,
-                "oldPrice": null,
-                "currentPriceWholeNumber": "899",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "00",
-                "currency": "TL",
-                "value": 899,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "95,49 TL"
-              },
-              "categories": [
-                {
-                  "name": "Unlu Mamuller"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                }
-              ],
-              "promotions": null
-            },
-            {
-              "productId": "PR-10138789BORDO",
-              "contentId": "PR-S221508-3000202800040YESIL",
-              "name": "Koton Kadın Atlet 2YAL38002OK",
-              "images": [
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTMyMDA2OXxpbWFnZS9qcGVnfGgxZS9oZWYvOTU2OTA4MTg4NDcwMnxmMzc5Y2QzN2E3NmI0MTgzYzJmNGU3NjdkZGQwZWMxYTc0MmY0Mzk5ODFhNjlkMDMzY2Q4MWNiMDliODgwMzA5"
-              ],
-              "colorCount": "2",
-              "rating": {
-                "average": 1.1,
-                "count": 4
-              },
-              "price": {
-                "discountRate": "10",
-                "oldPrice": "999,00",
-                "currentPriceWholeNumber": "899",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "00",
-                "currency": "TL",
-                "value": 899,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "59,45 TL"
-              },
-              "categories": [
-                {
-                  "name": "Unlu Mamuller"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                }
-              ],
-              "promotions": [
-                {
-                  "text": "1000 TL' ye_100 TL indirim"
-                }
-              ]
-            },
-            {
-              "productId": "PR-10138789KAHVERENGI",
-              "contentId": "PR-S221508-3000202800040YESIL",
-              "name": "U.S. Polo Assn. Kadın Bermuda 1357381",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NjIzMzkxfGltYWdlL2pwZWd8aDNmL2gyNC85NTUwMTgxNjk1NTE4fDM5ODM1ZDg2M2JiMGE3NTkwYjZkODNkMDJiNGI2NTRhMDJjYjk4ZDA0NzVmMDU1MzM1MDFlNjU1YjgwOGY3MDM",
-              "colorCount": "2",
-              "rating": {
-                "average": 2.1,
-                "count": 44
-              },
-              "price": {
-                "discountRate": "10",
-                "oldPrice": "999,00",
-                "currentPriceWholeNumber": "899",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "00",
-                "currency": "TL",
-                "value": 899,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "59,45 TL"
-              },
-              "categories": [
-                {
-                  "name": "Unlu Mamuller"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                }
-              ],
-              "promotions": null
-            },
-            {
-              "productId": "PR-S221508-3000202800040YESIL",
-              "contentId": "PR-S221508-3000202800040YESIL",
-              "name": "Defacto Kadın Şapka W7207AZTRASTD",
-              "images": [
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTYxOTA3fGltYWdlL2pwZWd8aDExL2g2Ny85NTk5NDI5NjQwMjIyfGQwZjhiNjhiN2M2YWU3Njk1NTYwOWEwMmJhN2QyMzUxZjJhOGZmMWM2ZTg3YmQ5MGU0NTM2YmY5MDY3ODZjNGM"
-              ],
-              "colorCount": null,
-              "rating": {
-                "average": 3.5,
-                "count": 13
-              },
-              "price": {
-                "discountRate": "10",
-                "oldPrice": "999,00",
-                "currentPriceWholeNumber": "899",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "00",
-                "currency": "TL",
-                "value": 899,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "59,45 TL"
-              },
-              "categories": [
-                {
-                  "name": "Unlu Mamuller"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                }
-              ],
-              "promotions": []
-            },
-            {
-              "productId": "PR-S221508-3000202800040YESIL",
-              "contentId": "PR-S221508-3000202800040YESIL",
-              "name": "Koton Erkek Şort 2SAM40057BD",
-              "images": [
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzMjUzMHxpbWFnZS9qcGVnfGg2Yi9oZjcvOTU2OTczMTIxNTM5MHw2YjNlOWMwZTJkNjY3MGI2NzUxMzkxNWRlYTUxMzg1ODZjYjViNTE0NGU1OThlM2I5ZWYzODdiOTljMThhMmQ4"
-              ],
-              "colorCount": "5",
-              "rating": {
-                "average": 4.5,
-                "count": 3
-              },
-              "price": {
-                "discountRate": "10",
-                "oldPrice": "999,00",
-                "currentPriceWholeNumber": "899",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "00",
-                "currency": "TL",
-                "value": 899,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "59,45 TL"
-              },
-              "categories": [
-                {
-                  "name": "Unlu Mamuller"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                }
-              ],
-              "promotions": []
-            },
-            {
-              "productId": "PR-S221508-3000202800040YESIL",
-              "contentId": "PR-S221508-3000202800040YESIL",
-              "name": "Özdilek Princess Time Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Çocuk Pike Takımı",
-              "images": [
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDkyOTY2fGltYWdlL2pwZWd8aDBhL2g2MC85MjU2ODc0Mzc3MjQ2fGFjYzM1YzJhOWQzODk1MWI5ZWY5Zjk2ZmJiOTQzODM2NmMyODkzNTE4NzM3NmYxODIxOTY4ZDVjNWU0MmRmYzQ"
-              ],
-              "colorCount": null,
-              "rating": {
-                "average": 5,
-                "count": 1
-              },
-              "price": {
-                "discountRate": "10",
-                "oldPrice": "999,00",
-                "currentPriceWholeNumber": "899",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "00",
-                "currency": "TL",
-                "value": 899,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "129,00 TL"
-              },
-              "categories": [
-                {
-                  "name": "Unlu Mamuller"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                }
-              ],
-              "promotions": null
-            },
-            {
-              "productId": "PR-S221508-3000202800040YESIL",
-              "contentId": "PR-S221508-3000202800040YESIL",
-              "name": "Robin Kadın Triko Elbise T93586",
-              "images": [
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8OTYxNzR8aW1hZ2UvanBlZ3xoNDQvaDUwLzk1NDUwMzk1NzcxMTh8YzhlNGYwNjVhMjRjNjhjODI1NDRkNGY0NmQ4MmMwMTdjZjk0MjVhZDJjN2Q0OTNkZWExMWI5ZWJmYTk2OWIyYg"
-              ],
-              "colorCount": null,
-              "rating": {
-                "average": 0,
-                "count": 0
-              },
-              "price": {
-                "discountRate": "10",
-                "oldPrice": "999,00",
-                "currentPriceWholeNumber": "899",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "00",
-                "currency": "TL",
-                "value": 899,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "89,00 TL"
-              },
-              "categories": [
-                {
-                  "name": "Unlu Mamuller"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                }
-              ],
-              "promotions": [
-                {
-                  "text": "2 al 1 öde"
-                },
-                {
-                  "text": "3 al 2 öde"
-                }
-              ]
-            }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 0.66,
-            "visibleItemCount": 2.5,
-            "cornerRadius": 8,
-            "itemSpace": 8
+        "widgetHeader": {
+          "title": "SLIDER_PRODUCT",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
           }
+        },
+        "products": [
+          {
+            "productId": "PR-12202099EKRU",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Koton Erkek Şort 2SAM40057BD",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzMjUzMHxpbWFnZS9qcGVnfGg2Yi9oZjcvOTU2OTczMTIxNTM5MHw2YjNlOWMwZTJkNjY3MGI2NzUxMzkxNWRlYTUxMzg1ODZjYjViNTE0NGU1OThlM2I5ZWYzODdiOTljMThhMmQ4"
+            ],
+            "colorCount": null,
+            "rating": {
+              "average": 4.8,
+              "count": 48
+            },
+            "price": {
+              "discountRate": null,
+              "oldPrice": null,
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "95,49 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": null
+          },
+          {
+            "productId": "PR-10138789BORDO",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Koton Kadın Atlet 2YAL38002OK",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTMyMDA2OXxpbWFnZS9qcGVnfGgxZS9oZWYvOTU2OTA4MTg4NDcwMnxmMzc5Y2QzN2E3NmI0MTgzYzJmNGU3NjdkZGQwZWMxYTc0MmY0Mzk5ODFhNjlkMDMzY2Q4MWNiMDliODgwMzA5"
+            ],
+            "colorCount": "2",
+            "rating": {
+              "average": 1.1,
+              "count": 4
+            },
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "59,45 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": [
+              {
+                "text": "1000 TL' ye_100 TL indirim"
+              }
+            ]
+          },
+          {
+            "productId": "PR-10138789KAHVERENGI",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "U.S. Polo Assn. Kadın Bermuda 1357381",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NjIzMzkxfGltYWdlL2pwZWd8aDNmL2gyNC85NTUwMTgxNjk1NTE4fDM5ODM1ZDg2M2JiMGE3NTkwYjZkODNkMDJiNGI2NTRhMDJjYjk4ZDA0NzVmMDU1MzM1MDFlNjU1YjgwOGY3MDM",
+            "colorCount": "2",
+            "rating": {
+              "average": 2.1,
+              "count": 44
+            },
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "59,45 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": null
+          },
+          {
+            "productId": "PR-S221508-3000202800040YESIL",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Defacto Kadın Şapka W7207AZTRASTD",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTYxOTA3fGltYWdlL2pwZWd8aDExL2g2Ny85NTk5NDI5NjQwMjIyfGQwZjhiNjhiN2M2YWU3Njk1NTYwOWEwMmJhN2QyMzUxZjJhOGZmMWM2ZTg3YmQ5MGU0NTM2YmY5MDY3ODZjNGM"
+            ],
+            "colorCount": null,
+            "rating": {
+              "average": 3.5,
+              "count": 13
+            },
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "59,45 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": []
+          },
+          {
+            "productId": "PR-S221508-3000202800040YESIL",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Koton Erkek Şort 2SAM40057BD",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzMjUzMHxpbWFnZS9qcGVnfGg2Yi9oZjcvOTU2OTczMTIxNTM5MHw2YjNlOWMwZTJkNjY3MGI2NzUxMzkxNWRlYTUxMzg1ODZjYjViNTE0NGU1OThlM2I5ZWYzODdiOTljMThhMmQ4"
+            ],
+            "colorCount": "5",
+            "rating": {
+              "average": 4.5,
+              "count": 3
+            },
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "59,45 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": []
+          },
+          {
+            "productId": "PR-S221508-3000202800040YESIL",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Özdilek Princess Time Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Çocuk Pike Takımı",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDkyOTY2fGltYWdlL2pwZWd8aDBhL2g2MC85MjU2ODc0Mzc3MjQ2fGFjYzM1YzJhOWQzODk1MWI5ZWY5Zjk2ZmJiOTQzODM2NmMyODkzNTE4NzM3NmYxODIxOTY4ZDVjNWU0MmRmYzQ"
+            ],
+            "colorCount": null,
+            "rating": {
+              "average": 5,
+              "count": 1
+            },
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "129,00 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": null
+          },
+          {
+            "productId": "PR-S221508-3000202800040YESIL",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Robin Kadın Triko Elbise T93586",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8OTYxNzR8aW1hZ2UvanBlZ3xoNDQvaDUwLzk1NDUwMzk1NzcxMTh8YzhlNGYwNjVhMjRjNjhjODI1NDRkNGY0NmQ4MmMwMTdjZjk0MjVhZDJjN2Q0OTNkZWExMWI5ZWJmYTk2OWIyYg"
+            ],
+            "colorCount": null,
+            "rating": {
+              "average": 0,
+              "count": 0
+            },
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "89,00 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": [
+              {
+                "text": "2 al 1 öde"
+              },
+              {
+                "text": "3 al 2 öde"
+              }
+            ]
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 0.66,
+          "visibleItemCount": 2.5,
+          "cornerRadius": 8,
+          "itemSpace": 8
         }
       },
       {
+        "id": "140005",
         "widgetType": "SINGLE_BANNER",
-        "id": "120023",
-        "content": {
-          "widgetHeader": {
-            "title": "SINGLE_BANNER",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
-              "deeplink": "ozd://",
-              "navigationType": "REDIRECT"
-            }
-          },
-          "items": [
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1170x450-diesel.jpg?context=bWFzdGVyfGJhbm5lcnN8MjYzNTc1fGltYWdlL2pwZWd8aDQ5L2gyMi85MDU4MDc0OTUxNzEwLzExNzB4NDUwX2RpZXNlbC5qcGd8NzU0OTEzYzRlMTIyOGIyZWRhZGI3NDdjM2EzYTJiMjJhYmE4NWM3NmY4ODAxYjMwNzJlNTc1NTFlY2Y1M2JmMA",
-              "navigation": {
-                "landingTitle": "Kol Saatleri",
-                "deeplink": "ozd://"
-              }
-            }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 2.57,
-            "visibleItemCount": 1,
-            "cornerRadius": 16
+        "widgetHeader": {
+          "title": "SINGLE_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
           }
+        },
+        "banners": [
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1170x450-diesel.jpg?context=bWFzdGVyfGJhbm5lcnN8MjYzNTc1fGltYWdlL2pwZWd8aDQ5L2gyMi85MDU4MDc0OTUxNzEwLzExNzB4NDUwX2RpZXNlbC5qcGd8NzU0OTEzYzRlMTIyOGIyZWRhZGI3NDdjM2EzYTJiMjJhYmE4NWM3NmY4ODAxYjMwNzJlNTc1NTFlY2Y1M2JmMA",
+            "navigation": {
+              "landingTitle": "Kol Saatleri",
+              "deeplink": "ozd://"
+            }
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 2.57,
+          "visibleItemCount": 1,
+          "cornerRadius": 16
         }
       },
       {
+        "id": "140006",
         "widgetType": "SLIDER_BANNER",
-        "id": "120024",
-        "content": {
-          "widgetHeader": {
-            "title": "SLIDER_BANNER",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
+        "widgetHeader": {
+          "title": "SLIDER_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
+        },
+        "banners": [
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/ozdilek-evteks-logo.png?context=bWFzdGVyfHJvb3R8MjkxNXxpbWFnZS9wbmd8aDRmL2hjYS84ODA0MDc0MjkxMjMwL296ZGlsZWstZXZ0ZWtzLWxvZ28ucG5nfDA1MTNjMjdkYzM3NGI1M2I4MTNlNjhmZjBlODBlMmMxNmJjMjJiOWUzZTM1NTJmMDI4MzY3MDdjNWRiZGQyZGQ",
+            "navigation": {
+              "landingTitle": "Özdilek",
               "deeplink": "ozd://"
             }
           },
-          "items": [
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/ozdilek-evteks-logo.png?context=bWFzdGVyfHJvb3R8MjkxNXxpbWFnZS9wbmd8aDRmL2hjYS84ODA0MDc0MjkxMjMwL296ZGlsZWstZXZ0ZWtzLWxvZ28ucG5nfDA1MTNjMjdkYzM3NGI1M2I4MTNlNjhmZjBlODBlMmMxNmJjMjJiOWUzZTM1NTJmMDI4MzY3MDdjNWRiZGQyZGQ",
-              "navigation": {
-                "landingTitle": "Özdilek",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/sademorganik.jpg?context=bWFzdGVyfGJhbm5lcnN8MzgyN3xpbWFnZS9qcGVnfGhmNC9oMGIvOTAwNzkwNjc1MDQ5NC9zYWRlbW9yZ2FuaWsuanBnfGE5YjY3MmJkM2I1NzdiYzExNTE4MmU2OGYxNzI0YTY4ZDEyMTkyM2JmOTcxYTBlMDNjYjZkYTgyODZiZTA5YzQ",
-              "navigation": {
-                "landingTitle": "Sadem",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/shefame.png?context=bWFzdGVyfHJvb3R8NDI1M3xpbWFnZS9wbmd8aDgzL2hiZC84ODA0MDc0NjE4OTEwL3NoZWZhbWUucG5nfDdmY2MzYTBlNjIwMDc2MjMwZWUxZjdmMjg4YTI1NzFjMTU0MjBmNDM1YjkyOWNhNDhhNDczYmYyMjk3MGU5YmU",
-              "navigation": {
-                "landingTitle": "Shafame",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/mavi.png?context=bWFzdGVyfHJvb3R8MTczMHxpbWFnZS9wbmd8aDg5L2g2Ny84ODA0MDc1MDc3NjYyL21hdmkucG5nfDk2Mjc3YzFjMmU2YjExOGZlNmM3MjRhNjA4ZjlkNjY3NmY4MmZhYTFmZGZlNDliNjhhZTI4YTUwMTZjYzA1MDA",
-              "navigation": {
-                "landingTitle": "Mavi",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/nike.png?context=bWFzdGVyfHJvb3R8MTk5Mjl8aW1hZ2UvcG5nfGgwOC9oODIvOTI1MDA2NTM1MDY4Ni9uaWtlLnBuZ3wwNzdiOTc1NzIwYmFhNDJhN2VkMjJkOTdmODA2MTg0ZmE2MGNjNzJiZjliZjg0ODA4MzA5MmY5NmIyZDI2NmQ2",
-              "navigation": {
-                "landingTitle": "Nike",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/cengiz-pakel.png?context=bWFzdGVyfHJvb3R8Mzg5OHxpbWFnZS9wbmd8aGQ5L2g1My84ODA0MDc1NjAxOTUwL2Nlbmdpei1wYWtlbC5wbmd8YmYxZjM1ZGZjMWZjOGFhMmQ0NTNhYWM0NGUwYTIxMTllNjE1ODA4NDRjOWY4ZmVhNTUzZDkxZTEwZmYzZmRjNw",
-              "navigation": {
-                "landingTitle": "Cengiz Pakel",
-                "deeplink": "ozd://"
-              }
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/sademorganik.jpg?context=bWFzdGVyfGJhbm5lcnN8MzgyN3xpbWFnZS9qcGVnfGhmNC9oMGIvOTAwNzkwNjc1MDQ5NC9zYWRlbW9yZ2FuaWsuanBnfGE5YjY3MmJkM2I1NzdiYzExNTE4MmU2OGYxNzI0YTY4ZDEyMTkyM2JmOTcxYTBlMDNjYjZkYTgyODZiZTA5YzQ",
+            "navigation": {
+              "landingTitle": "Sadem",
+              "deeplink": "ozd://"
             }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 1,
-            "visibleItemCount": 3.5,
-            "cornerRadius": 16,
-            "itemSpace": 8
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/shefame.png?context=bWFzdGVyfHJvb3R8NDI1M3xpbWFnZS9wbmd8aDgzL2hiZC84ODA0MDc0NjE4OTEwL3NoZWZhbWUucG5nfDdmY2MzYTBlNjIwMDc2MjMwZWUxZjdmMjg4YTI1NzFjMTU0MjBmNDM1YjkyOWNhNDhhNDczYmYyMjk3MGU5YmU",
+            "navigation": {
+              "landingTitle": "Shafame",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/mavi.png?context=bWFzdGVyfHJvb3R8MTczMHxpbWFnZS9wbmd8aDg5L2g2Ny84ODA0MDc1MDc3NjYyL21hdmkucG5nfDk2Mjc3YzFjMmU2YjExOGZlNmM3MjRhNjA4ZjlkNjY3NmY4MmZhYTFmZGZlNDliNjhhZTI4YTUwMTZjYzA1MDA",
+            "navigation": {
+              "landingTitle": "Mavi",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/nike.png?context=bWFzdGVyfHJvb3R8MTk5Mjl8aW1hZ2UvcG5nfGgwOC9oODIvOTI1MDA2NTM1MDY4Ni9uaWtlLnBuZ3wwNzdiOTc1NzIwYmFhNDJhN2VkMjJkOTdmODA2MTg0ZmE2MGNjNzJiZjliZjg0ODA4MzA5MmY5NmIyZDI2NmQ2",
+            "navigation": {
+              "landingTitle": "Nike",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/cengiz-pakel.png?context=bWFzdGVyfHJvb3R8Mzg5OHxpbWFnZS9wbmd8aGQ5L2g1My84ODA0MDc1NjAxOTUwL2Nlbmdpei1wYWtlbC5wbmd8YmYxZjM1ZGZjMWZjOGFhMmQ0NTNhYWM0NGUwYTIxMTllNjE1ODA4NDRjOWY4ZmVhNTUzZDkxZTEwZmYzZmRjNw",
+            "navigation": {
+              "landingTitle": "Cengiz Pakel",
+              "deeplink": "ozd://"
+            }
           }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 1,
+          "visibleItemCount": 3.5,
+          "cornerRadius": 16,
+          "itemSpace": 8
         }
       },
       {
+        "id": "140007",
         "widgetType": "LISTING_PRODUCT",
-        "id": "120025",
-        "content": {
+        "products": {
           "widgetHeader": {
             "title": "LISTING_PRODUCT",
             "widgetNavigation": {
@@ -649,7 +635,7 @@
               "deeplink": "ozd://"
             }
           },
-          "items": [
+          "products": [
             {
               "productId": "PR-10138789BAKIR",
               "contentId": "PR-S221508-3000202800040YESIL",
@@ -742,90 +728,88 @@
         }
       },
       {
+        "id": "140008",
         "widgetType": "LISTING_PRODUCT",
-        "id": "120026",
-        "content": {
-          "widgetHeader": {
-            "title": "LISTING_PRODUCT",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
-              "deeplink": "ozd://"
-            }
-          },
-          "items": [
-            {
-              "productId": "PR-S221508-3000202800040YESIL",
-              "contentId": "PR-S221508-3000202800040YESIL",
-              "name": "Pierre Cardin Kadın Bikini 227285",
-              "images": [
-                "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8OTExODY1fGltYWdlL2pwZWd8aDVhL2gzYy85NTIxMjI0MzUxNzc0fGRkNDg4NjUxOGQ5YmJkNjdkOTg0YzBkNjk3NDA0ZTk5NmYzMWQ2OGZhMzRjNWRmNzJjYzRlMzk1N2YyZDMzMjk"
-              ],
-              "colorCount": "2",
-              "price": {
-                "discountRate": "10",
-                "oldPrice": "999,00",
-                "currentPriceWholeNumber": "899",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "00",
-                "currency": "TL",
-                "value": 899,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "1299,00 TL"
-              },
-              "categories": [
-                {
-                  "name": "Unlu Mamuller"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                }
-              ],
-              "promotions": null
-            },
-            {
-              "productId": "PR-S221508-3000202800040YESIL",
-              "contentId": "PR-S221508-3000202800040YESIL",
-              "name": "Özdilek Princess Time Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Çocuk Pike Takımı",
-              "images": [
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDkyOTY2fGltYWdlL2pwZWd8aGZhL2g1Yy85MjU2ODc0NDQyNzgyfDc3YmQ2MmYzNDc4OGYxYWYzZjFiNWZkYTdmZmMwMTZkZGJiMzY5ZGEzZWEyM2I1YWJkOTU2NzcxODQxZTNmMTA",
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDEwMzUwfGltYWdlL2pwZWd8aGZiL2g1OS85MjU2ODc0NTA4MzE4fGEwOGRhNDViM2FjYjgyNGE1Y2UwNzc2MWQxODBjOGU0NmQ3MGNkZTE4MzdhMGUwZDA3MGFlZjAwNmJmZGY3ZDM"
-              ],
-              "colorCount": null,
-              "price": {
-                "discountRate": "40",
-                "oldPrice": "3000,00 TL",
-                "currentPriceWholeNumber": "899",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "00",
-                "currency": "TL",
-                "value": 899,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "1299,00 - 1399,00 TL"
-              },
-              "categories": [
-                {
-                  "name": "Unlu Mamuller"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                }
-              ],
-              "promotions": null
-            }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 0.66,
-            "visibleItemCount": 2,
-            "cornerRadius": 8,
-            "itemSpace": 16
+        "widgetHeader": {
+          "title": "LISTING_PRODUCT",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
           }
+        },
+        "products": [
+          {
+            "productId": "PR-S221508-3000202800040YESIL",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Pierre Cardin Kadın Bikini 227285",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8OTExODY1fGltYWdlL2pwZWd8aDVhL2gzYy85NTIxMjI0MzUxNzc0fGRkNDg4NjUxOGQ5YmJkNjdkOTg0YzBkNjk3NDA0ZTk5NmYzMWQ2OGZhMzRjNWRmNzJjYzRlMzk1N2YyZDMzMjk"
+            ],
+            "colorCount": "2",
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "1299,00 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": null
+          },
+          {
+            "productId": "PR-S221508-3000202800040YESIL",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Özdilek Princess Time Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Çocuk Pike Takımı",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDkyOTY2fGltYWdlL2pwZWd8aGZhL2g1Yy85MjU2ODc0NDQyNzgyfDc3YmQ2MmYzNDc4OGYxYWYzZjFiNWZkYTdmZmMwMTZkZGJiMzY5ZGEzZWEyM2I1YWJkOTU2NzcxODQxZTNmMTA",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDEwMzUwfGltYWdlL2pwZWd8aGZiL2g1OS85MjU2ODc0NTA4MzE4fGEwOGRhNDViM2FjYjgyNGE1Y2UwNzc2MWQxODBjOGU0NmQ3MGNkZTE4MzdhMGUwZDA3MGFlZjAwNmJmZGY3ZDM"
+            ],
+            "colorCount": null,
+            "price": {
+              "discountRate": "40",
+              "oldPrice": "3000,00 TL",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "1299,00 - 1399,00 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": null
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 0.66,
+          "visibleItemCount": 2,
+          "cornerRadius": 8,
+          "itemSpace": 16
         }
       }
     ]
