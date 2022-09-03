@@ -12,502 +12,488 @@
     },
     "widgets": [
       {
+        "id": "230000",
         "widgetType": "CIRCLED_SLIDER_BANNER",
-        "id": "130100",
-        "content": {
-          "widgetHeader": {
-            "title": "CIRCLED_SLIDER_BANNER",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
-              "deeplink": "ozd://",
-              "navigationType": "REDIRECT"
+        "widgetHeader": {
+          "title": "CIRCLED_SLIDER_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "banners": [
+          {
+            "title": "Süt",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjgyMjc5fGltYWdlL2pwZWd8aDY0L2g4Yy85MzI5NDE5ODEyODk0fDU0YWUyMjFiYzhhZDEzMjhiMTNiZGZlYjRiYTEwNzZhOTdmYjVmZDZhM2NmOTdlMDMzMDVmMGYyNjg2YTkzM2E",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
             }
           },
-          "items": [
-            {
-              "title": "Süt",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjgyMjc5fGltYWdlL2pwZWd8aDY0L2g4Yy85MzI5NDE5ODEyODk0fDU0YWUyMjFiYzhhZDEzMjhiMTNiZGZlYjRiYTEwNzZhOTdmYjVmZDZhM2NmOTdlMDMzMDVmMGYyNjg2YTkzM2E",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Karpuz",
-              "imageUrl": "https://img-ozdilek.mncdn.com/images/catalog/200x310/5542.jpg",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Şener Premium",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHByb2R1Y3RpbWd8MTM1NDEwfGltYWdlL2pwZWd8aGMxL2g2YS85MjA1NjM5NDc5MzI2fGYyNzIwNjQ4NDVjNmRhNmU1NzI0NzA2YWVkMmVlZjkzNjM1ZmQzMzM4MDMxM2QxZWI4NTgxMDUxNjY1NmEyMzY",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Nescafe Classıc",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHByb2R1Y3RpbWd8MTM0NTY5fGltYWdlL2pwZWd8aGQ4L2gwMS85MTkzOTEyNjMxMzI2fGU5ZDQyYjlkNjRiM2E0NmE0Mjc4MDMxYmFjMmQyMjliYTIyMDQ1OWFmYTY2NzRjMDgyMWU0NDg1MTJlZmE1YjU",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Solo",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjQxNDQ5fGltYWdlL2pwZWd8aDQ1L2g2NC85NTM2MzAwNjQ2NDMwfGNjNzkxOTVlYzc0NWU0NGMwNDg4YWVkNDliOWVkYmIyYmE3MmRlOWFiYTIwOWFlZjg1MGYzZjQxNDJlNTg0YzM",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Nestle Pure ",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHByb2R1Y3RpbWd8MTEzMDYxfGltYWdlL2pwZWd8aDUzL2g4Ny85MTk3NTExMjc4NjIyfGQ2YjExMzgzZjJkYWJlZTY5ODg5NjI2MWEyMjU2MDgyZjEwYjc5YjJmZDcwNWVjOTBlYTgxZTdjYzIwNTczMWQ",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "title": "Alo Platinum",
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDE3NDA1fGltYWdlL2pwZWd8aDJhL2gxYy85MjA5MjMxNDQxOTUwfDI4MTRjNjQ5OWRkMTNhMDIxYjhhNTczMzQ3MWY4YTRjZGEzNjNjZGQxOTQzYzc5NzAyNWJhYTU4NzcwMzEzZGM",
-              "navigation": {
-                "landingTitle": "2 al 1 öde",
-                "deeplink": "ozd://"
-              }
+          {
+            "title": "Karpuz",
+            "imageUrl": "https://img-ozdilek.mncdn.com/images/catalog/200x310/5542.jpg",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
             }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 1,
-            "visibleItemCount": 4.5
+          },
+          {
+            "title": "Şener Premium",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHByb2R1Y3RpbWd8MTM1NDEwfGltYWdlL2pwZWd8aGMxL2g2YS85MjA1NjM5NDc5MzI2fGYyNzIwNjQ4NDVjNmRhNmU1NzI0NzA2YWVkMmVlZjkzNjM1ZmQzMzM4MDMxM2QxZWI4NTgxMDUxNjY1NmEyMzY",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Nescafe Classıc",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHByb2R1Y3RpbWd8MTM0NTY5fGltYWdlL2pwZWd8aGQ4L2gwMS85MTkzOTEyNjMxMzI2fGU5ZDQyYjlkNjRiM2E0NmE0Mjc4MDMxYmFjMmQyMjliYTIyMDQ1OWFmYTY2NzRjMDgyMWU0NDg1MTJlZmE1YjU",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Solo",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/337/506/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjQxNDQ5fGltYWdlL2pwZWd8aDQ1L2g2NC85NTM2MzAwNjQ2NDMwfGNjNzkxOTVlYzc0NWU0NGMwNDg4YWVkNDliOWVkYmIyYmE3MmRlOWFiYTIwOWFlZjg1MGYzZjQxNDJlNTg0YzM",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Nestle Pure ",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHByb2R1Y3RpbWd8MTEzMDYxfGltYWdlL2pwZWd8aDUzL2g4Ny85MTk3NTExMjc4NjIyfGQ2YjExMzgzZjJkYWJlZTY5ODg5NjI2MWEyMjU2MDgyZjEwYjc5YjJmZDcwNWVjOTBlYTgxZTdjYzIwNTczMWQ",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "title": "Alo Platinum",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDE3NDA1fGltYWdlL2pwZWd8aDJhL2gxYy85MjA5MjMxNDQxOTUwfDI4MTRjNjQ5OWRkMTNhMDIxYjhhNTczMzQ3MWY4YTRjZGEzNjNjZGQxOTQzYzc5NzAyNWJhYTU4NzcwMzEzZGM",
+            "navigation": {
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
+            }
           }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 1,
+          "visibleItemCount": 4.5
         }
       },
       {
+        "id": "230001",
         "widgetType": "SINGLE_BANNER",
-        "id": "130101",
-        "content": {
-          "widgetHeader": {
-            "title": "SINGLE_BANNER",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
-              "deeplink": "ozd://",
-              "navigationType": "REDIRECT"
-            }
-          },
-          "items": [
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/kirtasiye-landingpage.jpg?context=bWFzdGVyfGJhbm5lcnN8NzA3MTg0fGltYWdlL2pwZWd8aDVjL2gxYS85NjY0NjkzMzM4MTQyL2tpcnRhc2l5ZV9sYW5kaW5ncGFnZS5qcGd8N2RjOTU3NmEyYmIyOTllOWU4Y2UwYjMxYTIyZjQzYWE1YzYwYTQ1MWQwMDhlNDRhYWE2MTU0ODVlNGI2YTdmNA",
-              "navigation": {
-                "landingTitle": "Gel Al",
-                "deeplink": "ozd://"
-              }
-            }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 2.61,
-            "visibleItemCount": 1,
-            "cornerRadius": 16
+        "widgetHeader": {
+          "title": "SINGLE_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
           }
+        },
+        "banners": [
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/kirtasiye-landingpage.jpg?context=bWFzdGVyfGJhbm5lcnN8NzA3MTg0fGltYWdlL2pwZWd8aDVjL2gxYS85NjY0NjkzMzM4MTQyL2tpcnRhc2l5ZV9sYW5kaW5ncGFnZS5qcGd8N2RjOTU3NmEyYmIyOTllOWU4Y2UwYjMxYTIyZjQzYWE1YzYwYTQ1MWQwMDhlNDRhYWE2MTU0ODVlNGI2YTdmNA",
+            "navigation": {
+              "landingTitle": "Gel Al",
+              "deeplink": "ozd://"
+            }
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 2.61,
+          "visibleItemCount": 1,
+          "cornerRadius": 16
         }
       },
       {
+        "id": "230002",
         "widgetType": "CAROUSEL_BANNER",
-        "id": "130102",
-        "content": {
-          "widgetHeader": {
-            "title": "CAROUSEL_BANNER",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
-              "deeplink": "ozd://",
-              "navigationType": "REDIRECT"
+        "widgetHeader": {
+          "title": "CAROUSEL_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
+          }
+        },
+        "items": [
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/salc-a-1920x735-.jpg?context=bWFzdGVyfGJhbm5lcnN8NjM2MzUzfGltYWdlL2pwZWd8aDk1L2hkNi85NjU5NzIxNTgwNTc0L3NhbGPCpsSfYV8xOTIweDczNS0tLmpwZ3w2MmJkZGRiOTIyODFiMjExMGI4NjgxNTM5YjEwMGI0N2MxNTNlOTA5OWY0OGE1NTk4MTQzYjFlOTc4OTgyZTVm",
+            "navigation": {
+              "landingTitle": "Aşurelik",
+              "deeplink": "ozd://"
             }
           },
-          "items": [
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/salc-a-1920x735-.jpg?context=bWFzdGVyfGJhbm5lcnN8NjM2MzUzfGltYWdlL2pwZWd8aDk1L2hkNi85NjU5NzIxNTgwNTc0L3NhbGPCpsSfYV8xOTIweDczNS0tLmpwZ3w2MmJkZGRiOTIyODFiMjExMGI4NjgxNTM5YjEwMGI0N2MxNTNlOTA5OWY0OGE1NTk4MTQzYjFlOTc4OTgyZTVm",
-              "navigation": {
-                "landingTitle": "Aşurelik",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/Asurelikler-Slider-1920x735px.jpg?context=bWFzdGVyfGJhbm5lcnN8MTAzMzgwMHxpbWFnZS9qcGVnfGhjOC9oNWMvOTY1MjY5MTgyODc2Ni9Bc3VyZWxpa2xlcl9TbGlkZXJfMTkyMHg3MzVweC5qcGd8ZjQwNDI0MGIzOTNhYTViNjE3YjE2ZTRlMDJjNTU1NjE2ZmJkNTIzN2Q3NThlNGJkNWRiZDJlMGY5MTcxY2E3Mg",
-              "navigation": {
-                "landingTitle": "Aşurelik",
-                "type": "REDIRECT",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1170x450.jpg?context=bWFzdGVyfGJhbm5lcnN8MzAzNzE2fGltYWdlL2pwZWd8aDQwL2g0YS85NjUwOTEzMzc4MzM0LzExNzB4NDUwLmpwZ3xmZDg4ZmNkZDQzNTJmM2Q0NzM4NjZlY2VjOGQ1ODZmYTQ1NWQxMjQwNWJiYWJhZTg0YTQxN2Q3MTg0NGNlNDU1",
-              "navigation": {
-                "landingTitle": "Aşurelik",
-                "type": "REDIRECT",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735-Kozmetik-Revize.jpg?context=bWFzdGVyfGJhbm5lcnN8MTUwNzM3MXxpbWFnZS9qcGVnfGg4Yi9oNmEvOTY1Mjc5ODg4MTgyMi8xOTIweDczNV9Lb3ptZXRpa19SZXZpemUuanBnfDhmYTc3NmY3OTY0ZjcyNDk4YTYzOGQyNTExYzRkZGU5MGUwY2IwNGRiZTNjYmYxMDIzNWNkZTFiZTBlNGM0NWM",
-              "navigation": {
-                "landingTitle": "Aşurelik",
-                "type": "REDIRECT",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/aquadipolo-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8NjEwMTU3fGltYWdlL2pwZWd8aDdhL2hmOC85NjU2NzEyMDY5MTUwL2FxdWFkaXBvbG9fMTkyMHg3MzUuanBnfDA1ZGI1ZThiMGQ2MTM1ZTQ4ODg0N2RjYWZmNzBlM2ZmMDkwZjQwODdiODE0ZjdjMmY1ZjQxNTllYjI1OGEyMDg",
-              "navigation": {
-                "landingTitle": "Aşurelik",
-                "type": "REDIRECT",
-                "deeplink": "ozd://"
-              }
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/Asurelikler-Slider-1920x735px.jpg?context=bWFzdGVyfGJhbm5lcnN8MTAzMzgwMHxpbWFnZS9qcGVnfGhjOC9oNWMvOTY1MjY5MTgyODc2Ni9Bc3VyZWxpa2xlcl9TbGlkZXJfMTkyMHg3MzVweC5qcGd8ZjQwNDI0MGIzOTNhYTViNjE3YjE2ZTRlMDJjNTU1NjE2ZmJkNTIzN2Q3NThlNGJkNWRiZDJlMGY5MTcxY2E3Mg",
+            "navigation": {
+              "landingTitle": "Aşurelik",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
             }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 2.61,
-            "visibleItemCount": 1,
-            "cornerRadius": 16
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1170x450.jpg?context=bWFzdGVyfGJhbm5lcnN8MzAzNzE2fGltYWdlL2pwZWd8aDQwL2g0YS85NjUwOTEzMzc4MzM0LzExNzB4NDUwLmpwZ3xmZDg4ZmNkZDQzNTJmM2Q0NzM4NjZlY2VjOGQ1ODZmYTQ1NWQxMjQwNWJiYWJhZTg0YTQxN2Q3MTg0NGNlNDU1",
+            "navigation": {
+              "landingTitle": "Aşurelik",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735-Kozmetik-Revize.jpg?context=bWFzdGVyfGJhbm5lcnN8MTUwNzM3MXxpbWFnZS9qcGVnfGg4Yi9oNmEvOTY1Mjc5ODg4MTgyMi8xOTIweDczNV9Lb3ptZXRpa19SZXZpemUuanBnfDhmYTc3NmY3OTY0ZjcyNDk4YTYzOGQyNTExYzRkZGU5MGUwY2IwNGRiZTNjYmYxMDIzNWNkZTFiZTBlNGM0NWM",
+            "navigation": {
+              "landingTitle": "Aşurelik",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/aquadipolo-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8NjEwMTU3fGltYWdlL2pwZWd8aDdhL2hmOC85NjU2NzEyMDY5MTUwL2FxdWFkaXBvbG9fMTkyMHg3MzUuanBnfDA1ZGI1ZThiMGQ2MTM1ZTQ4ODg0N2RjYWZmNzBlM2ZmMDkwZjQwODdiODE0ZjdjMmY1ZjQxNTllYjI1OGEyMDg",
+            "navigation": {
+              "landingTitle": "Aşurelik",
+              "type": "REDIRECT",
+              "deeplink": "ozd://"
+            }
           }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 2.61,
+          "visibleItemCount": 1,
+          "cornerRadius": 16
         }
       },
       {
+        "id": "230003",
         "widgetType": "LISTING_BANNER",
-        "id": "130103",
-        "content": {
-          "widgetHeader": {
-            "title": "LISTING_BANNER",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
-              "deeplink": "ozd://",
-              "navigationType": "REDIRECT"
-            }
-          },
-          "items": [
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/Yoresel-Urunler-3-new.jpg?context=bWFzdGVyfGJhbm5lcnN8MTQ2MTAzfGltYWdlL2pwZWd8aGFlL2hlMi85MzE3MDcyNjMzODg2L1lvcmVzZWxfVXJ1bmxlcl8zX25ldy5qcGd8YWQyNzEyNGRiNjUzN2IxODMyNTA5YWUzZTdiZjJmNzczMmEwOWE4NTM3ZTRiNWM2M2IzY2Y5N2I5NmMyZjcyYg",
-              "navigation": {
-                "landingTitle": "Bornoz",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8NzE1OTh8aW1hZ2UvanBlZ3xoNDEvaDIwLzk2NTY4MjAxMzgwMTQvMzgweDM0OV9rYXBhay5qcGd8NGRjZjEzNTAyNDZhOTFmMzY3OTc4M2E5NzMwNTgzNWY5Y2MxY2EwZmMzNzg4N2M2MDAxZmIxMTY4MjdiYmRkYw",
-              "navigation": {
-                "landingTitle": "Outdoor Ayakkabı & Bot",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-1.jpg?context=bWFzdGVyfGJhbm5lcnN8NTAxNzV8aW1hZ2UvanBlZ3xoNTcvaGRjLzk2NTY4MTk5MDg2MzgvMzgweDM0OV8xLmpwZ3xiNzY0MWJkZDE5YTY1ZWIyM2ZhZGI5NDRjOTA2NmQ1NmZmMmZkNmI3ZjI0NDRlZTkzNGU5ODA4ZmI3ZGQ1MmNl",
-              "navigation": {
-                "landingTitle": "Outdoor Ayakkabı & Bot",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-2.jpg?context=bWFzdGVyfGJhbm5lcnN8NzA1OTZ8aW1hZ2UvanBlZ3xoOTYvaGRiLzk2NTY4MTk5NzQxNzQvMzgweDM0OV8yLmpwZ3w1ODBmNzE5ZDJjMTNhYjkzMzEwMTkzNmY0OTdhOTMxODQxYTM3YzgxNzk1Yjg5MzA3NDk2ZTFjMDU0ZDlkMjE5",
-              "navigation": {
-                "landingTitle": "Bornoz",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-3.jpg?context=bWFzdGVyfGJhbm5lcnN8NTM0NTN8aW1hZ2UvanBlZ3xoZDgvaDFjLzk2NTY4MjAwMzk3MTAvMzgweDM0OV8zLmpwZ3w3Zjk1Mjg0OWMxMTI4OTE0YjNkYWU4MjczYzMwNzhhMjBiYzE1YzQ5MzUyMmZkYmZjM2FhOTA0MTdjMjE3MDc2",
-              "navigation": {
-                "landingTitle": "Outdoor Ayakkabı & Bot",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-4.jpg?context=bWFzdGVyfGJhbm5lcnN8ODM3NDB8aW1hZ2UvanBlZ3xoZWEvaDFmLzk2NTY4MjAxMDUyNDYvMzgweDM0OV80LmpwZ3wzMjkxMWIwMDAzYTZiMWJmNjI3OGE4NDFmZjVhMDc3OWNlYTRkMjJmZGFiZGM1OTgxNWZhYzI4ZTMxYTVmNjY1",
-              "navigation": {
-                "landingTitle": "Outdoor Ayakkabı & Bot",
-                "deeplink": "ozd://"
-              }
-            }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 1.07,
-            "visibleItemCount": 2,
-            "cornerRadius": 16,
-            "itemSpace": 8
+        "widgetHeader": {
+          "title": "LISTING_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://",
+            "navigationType": "REDIRECT"
           }
-        }
-      },
-      {
-        "widgetType": "SLIDER_BANNER",
-        "id": 130104,
-        "content": {
-          "widgetHeader": {
-            "title": "SLIDER_BANNER",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
+        },
+        "banners": [
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/Yoresel-Urunler-3-new.jpg?context=bWFzdGVyfGJhbm5lcnN8MTQ2MTAzfGltYWdlL2pwZWd8aGFlL2hlMi85MzE3MDcyNjMzODg2L1lvcmVzZWxfVXJ1bmxlcl8zX25ldy5qcGd8YWQyNzEyNGRiNjUzN2IxODMyNTA5YWUzZTdiZjJmNzczMmEwOWE4NTM3ZTRiNWM2M2IzY2Y5N2I5NmMyZjcyYg",
+            "navigation": {
+              "landingTitle": "Bornoz",
               "deeplink": "ozd://"
             }
           },
-          "items": [
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/sutfest.png?context=bWFzdGVyfHJvb3R8MTkyNjV8aW1hZ2UvcG5nfGhiZS9oZmIvOTIyMjEwMDAyNTM3NC9zdXRmZXN0LnBuZ3wxMGJmZGFhM2ZhMzdiNjRlNDYyNDYxOGJmNzkzMWJjZWZmYmE5ZGNlYzkxNDQ2ZDhhOTYwYWRmMmEwZTI0ZTA5",
-              "navigation": {
-                "landingTitle": "Sütfest",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/milka.png?context=bWFzdGVyfHJvb3R8OTk3NHxpbWFnZS9wbmd8aDUyL2hjNy84ODA0MDc0MzU2NzY2L21pbGthLnBuZ3w1YzM1NDZjNmZiNGRiZmQ3ODhhODI4NThkNGIzMjdhNGVhY2U1ODY3ZTZkNzA1MGJiYzkwY2MyZDgzZGU0ZTdl",
-              "navigation": {
-                "landingTitle": "Milka",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/durdane-ana-firini.png?context=bWFzdGVyfHJvb3R8NTUyM3xpbWFnZS9wbmd8aDkyL2hjMy84ODA0MDc0NDg3ODM4L2R1cmRhbmUtYW5hLWZpcmluaS5wbmd8Mzg0ZmU0YjkxNDlmY2UxZTIwZDRkZGYyNTMwNTA2MTc4N2ZlZWM0NDYyNGZlNjgxZDMzNTEzNjIwMTVlY2M2YQ",
-              "navigation": {
-                "landingTitle": "Dürdane Ana",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/dr-oetker.png?context=bWFzdGVyfHJvb3R8NjIwM3xpbWFnZS9wbmd8aGMyL2hiYy84ODA0MDc0Njg0NDQ2L2RyLW9ldGtlci5wbmd8NTI4YWRiYjM1ZDNhOWI5MDc4MjBmZTIzODU2MTNjNWNkYzc5NjUzMDkwNGI5NGYxZmNiYTM4ZjYzYzBiNWZmOA",
-              "navigation": {
-                "landingTitle": "Dr Oetker",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/torku.png?context=bWFzdGVyfHJvb3R8NjMyNnxpbWFnZS9wbmd8aGY0L2hiMi84ODA0MDc0OTQ2NTkwL3Rvcmt1LnBuZ3xhYjZhZDY5MDZjZTFlNWI5OGM3Y2Q1YzRiMzY4NjdkMzM5MDBlZDI1OTcwM2NjOTUxNDM1ODU4MTY3YjU0ZjAz",
-              "navigation": {
-                "landingTitle": "Torku",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/peyman.png?context=bWFzdGVyfHJvb3R8MTEyMjd8aW1hZ2UvcG5nfGhlYS9oNTYvODgwNDA3NTUzNjQxNC9wZXltYW4ucG5nfGU5YjkwYzc3Y2NkZDU1Zjk5ZmViZDE2NWEyOTFkZDE4NjA5MmVlNWQyZjcwN2E3OGNhMmMzNjI2ZGVjNDJlNzA",
-              "navigation": {
-                "landingTitle": "Peyman",
-                "deeplink": "ozd://"
-              }
-            }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 1,
-            "visibleItemCount": 3.5,
-            "cornerRadius": 16,
-            "itemSpace": 8
-          }
-        }
-      },
-      {
-        "widgetType": "SLIDER_BANNER",
-        "id": "130105",
-        "content": {
-          "widgetHeader": {
-            "title": "SLIDER_BANNER",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8NzE1OTh8aW1hZ2UvanBlZ3xoNDEvaDIwLzk2NTY4MjAxMzgwMTQvMzgweDM0OV9rYXBhay5qcGd8NGRjZjEzNTAyNDZhOTFmMzY3OTc4M2E5NzMwNTgzNWY5Y2MxY2EwZmMzNzg4N2M2MDAxZmIxMTY4MjdiYmRkYw",
+            "navigation": {
+              "landingTitle": "Outdoor Ayakkabı & Bot",
               "deeplink": "ozd://"
             }
           },
-          "items": [
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-1.jpg?context=bWFzdGVyfGJhbm5lcnN8Njg4MTR8aW1hZ2UvanBlZ3xoMTEvaDI3Lzk2NTY4MjAzMzQ2MjIvNDAweDMwMF8xLmpwZ3w0M2ZiMzIxZWY5ZWEzMzZiYTNlNDg4N2NhODdiODRmYzhmOGFjYzlmZDQ1Yjk0MmUwNjdmMzI3MWNiYWRkNDA1",
-              "navigation": {
-                "landingTitle": "Sütfest",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-2.jpg?context=bWFzdGVyfGJhbm5lcnN8OTIwODh8aW1hZ2UvanBlZ3xoNjgvaDI3Lzk2NTY4MjAzNjczOTAvNDAweDMwMF8yLmpwZ3wxYjgyOGE2ODZhMGMwMjRhZjM1OTIxODVjYzc1NWU0ZjEzYjg0ODM2NTBhNTBmYjE2NmM5Y2Q3NmRjNWY5MmU2",
-              "navigation": {
-                "landingTitle": "Milka",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-3.jpg?context=bWFzdGVyfGJhbm5lcnN8NTI2NjJ8aW1hZ2UvanBlZ3xoMjIvaDJhLzk2NTY4MjA0MDAxNTgvNDAweDMwMF8zLmpwZ3xkZjAxMjViZmUwNWM0ZmZmOWEwYWUxOWU0MDY0N2Y5NTIzN2NkOWE3NjI3MjFlYTI2ZjIwMjFjODdlZjQyYzNh",
-              "navigation": {
-                "landingTitle": "Dürdane Ana",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-4.jpg?context=bWFzdGVyfGJhbm5lcnN8NTc3OTd8aW1hZ2UvanBlZ3xoNzkvaDJhLzk2NTY4MjA0MzI5MjYvNDAweDMwMF80LmpwZ3w4OWQ5MWM2NjVmNzEzMDBjMzc3OTEwNTIwNTI2MzhlNmFlMjU5YmFjZDI0YWE5ZjEyMzdiNWM4MTgzOWQxOWY0",
-              "navigation": {
-                "landingTitle": "Dr Oetker",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-5.jpg?context=bWFzdGVyfGJhbm5lcnN8NjM3NzB8aW1hZ2UvanBlZ3xoMjcvaDJiLzk2NTY4MjA0OTg0NjIvNDAweDMwMF81LmpwZ3wwNjEwYzE5NjkzMjNmNDMyNmZkODU2MzRlNzYzMWMyNzZlZjM0ZjljM2ViNjY2NGM2OGMwOTk0ZDdhZGYyZjhj",
-              "navigation": {
-                "landingTitle": "Torku",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-6.jpg?context=bWFzdGVyfGJhbm5lcnN8ODUyOTN8aW1hZ2UvanBlZ3xoMzgvaDJlLzk2NTY4MjA1NjM5OTgvNDAweDMwMF82LmpwZ3wyYTEwMzM3NzYxMzEzZGMzNmZiMzIzY2NmNWE5NWU3ZGRmZjBhZTcyMmVlMmUzYmQ4ZTgyMWY0ZjM1ZDFlNWE4",
-              "navigation": {
-                "landingTitle": "Peyman",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-7.jpg?context=bWFzdGVyfGJhbm5lcnN8NzIyODN8aW1hZ2UvanBlZ3xoOGYvaDJlLzk2NTY4MjA1OTY3NjYvNDAweDMwMF83LmpwZ3xlMDc3OGYxZGM3YTNlZjg3YjUzNThjNmFiN2Q4YTMzNDYyNGVlNmRlOWNkODRhMDVlZTFjZjNkMTBhNGQ3MmI1",
-              "navigation": {
-                "landingTitle": "Peyman",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-8.jpg?context=bWFzdGVyfGJhbm5lcnN8NTk4NTR8aW1hZ2UvanBlZ3xoYTEvaDMxLzk2NTY4MjA2NjIzMDIvNDAweDMwMF84LmpwZ3w0NmY0NjQyNTAwNDJmMDI0NjczMmQ4NTg2MWQ4MDg3YzEwZTgwNmYyZWVlODg1N2Q5Y2YzNWU1ZDI4YWIxOTdk",
-              "navigation": {
-                "landingTitle": "Peyman",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-9.jpg?context=bWFzdGVyfGJhbm5lcnN8NTMzMjB8aW1hZ2UvanBlZ3xoOWUvaDM0Lzk2NTY4MjA3Mjc4MzgvNDAweDMwMF85LmpwZ3xjOGY2M2Q4NDA2ZWZmMDVjZmM3ZDY0MGQ3NDA3NDA4NGI2YjUzYTBjMGQ5ZjhmM2Q5MmFiYmZiOWExNThkMTY3",
-              "navigation": {
-                "landingTitle": "Peyman",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-10.jpg?context=bWFzdGVyfGJhbm5lcnN8NjMxMjF8aW1hZ2UvanBlZ3xoNjAvaDM1Lzk2NTY4MjA3OTMzNzQvNDAweDMwMF8xMC5qcGd8Y2FkMWYxYzY2Mjk5MWFkNTVlMTk4Y2Y0MWFlZDQ1Mjk1M2ViYWNjNDEyOWJkMDFiMWU5NjczNzk3MzFhOTg4MA",
-              "navigation": {
-                "landingTitle": "Peyman",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-11.jpg?context=bWFzdGVyfGJhbm5lcnN8NTY4NTl8aW1hZ2UvanBlZ3xoNWQvaDM4Lzk2NTY4MjA4NTg5MTAvNDAweDMwMF8xMS5qcGd8NWI2MjljYjllNzdmNzE0YTNlNGEwZGQyYzQyNmIxZTEzMjBmZTlmODU3ODc3ZjBlMDk3NDkzODZkYjhjNDc2NA",
-              "navigation": {
-                "landingTitle": "Peyman",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-12.jpg?context=bWFzdGVyfGJhbm5lcnN8NTA1MjJ8aW1hZ2UvanBlZ3xoNzAvaGYwLzk2NTY4MjIwMzg1NTgvNDAweDMwMF8xMi5qcGd8OTM5OGQwODY0OWQ0NjBhNzU1OTljNTc0MDg1YTk1NjkzODZiNGU3NjU1MTY1YWViMDkzMGZmYjMzYzMwNmE4MA",
-              "navigation": {
-                "landingTitle": "Peyman",
-                "deeplink": "ozd://"
-              }
-            },
-            {
-              "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-14.jpg?context=bWFzdGVyfGJhbm5lcnN8NjkyODd8aW1hZ2UvanBlZ3xoODIvaGYzLzk2NTY4MjIxMDQwOTQvNDAweDMwMF8xNC5qcGd8OWUwYTM4YzFjODM2YzJkYTBhMmMzZGM4YmIyYTYwMzVlZDMxYzc2Yjc5MDZlNGVlZjVlNDBkMGZkNzRmNWZiYQ",
-              "navigation": {
-                "landingTitle": "Peyman",
-                "deeplink": "ozd://"
-              }
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-1.jpg?context=bWFzdGVyfGJhbm5lcnN8NTAxNzV8aW1hZ2UvanBlZ3xoNTcvaGRjLzk2NTY4MTk5MDg2MzgvMzgweDM0OV8xLmpwZ3xiNzY0MWJkZDE5YTY1ZWIyM2ZhZGI5NDRjOTA2NmQ1NmZmMmZkNmI3ZjI0NDRlZTkzNGU5ODA4ZmI3ZGQ1MmNl",
+            "navigation": {
+              "landingTitle": "Outdoor Ayakkabı & Bot",
+              "deeplink": "ozd://"
             }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 1.33,
-            "visibleItemCount": 1.7,
-            "cornerRadius": 16,
-            "itemSpace": 8
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-2.jpg?context=bWFzdGVyfGJhbm5lcnN8NzA1OTZ8aW1hZ2UvanBlZ3xoOTYvaGRiLzk2NTY4MTk5NzQxNzQvMzgweDM0OV8yLmpwZ3w1ODBmNzE5ZDJjMTNhYjkzMzEwMTkzNmY0OTdhOTMxODQxYTM3YzgxNzk1Yjg5MzA3NDk2ZTFjMDU0ZDlkMjE5",
+            "navigation": {
+              "landingTitle": "Bornoz",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-3.jpg?context=bWFzdGVyfGJhbm5lcnN8NTM0NTN8aW1hZ2UvanBlZ3xoZDgvaDFjLzk2NTY4MjAwMzk3MTAvMzgweDM0OV8zLmpwZ3w3Zjk1Mjg0OWMxMTI4OTE0YjNkYWU4MjczYzMwNzhhMjBiYzE1YzQ5MzUyMmZkYmZjM2FhOTA0MTdjMjE3MDc2",
+            "navigation": {
+              "landingTitle": "Outdoor Ayakkabı & Bot",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-4.jpg?context=bWFzdGVyfGJhbm5lcnN8ODM3NDB8aW1hZ2UvanBlZ3xoZWEvaDFmLzk2NTY4MjAxMDUyNDYvMzgweDM0OV80LmpwZ3wzMjkxMWIwMDAzYTZiMWJmNjI3OGE4NDFmZjVhMDc3OWNlYTRkMjJmZGFiZGM1OTgxNWZhYzI4ZTMxYTVmNjY1",
+            "navigation": {
+              "landingTitle": "Outdoor Ayakkabı & Bot",
+              "deeplink": "ozd://"
+            }
           }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 1.07,
+          "visibleItemCount": 2,
+          "cornerRadius": 16,
+          "itemSpace": 8
         }
       },
       {
+        "id": 230004,
+        "widgetType": "SLIDER_BANNER",
+        "widgetHeader": {
+          "title": "SLIDER_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
+        },
+        "banners": [
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/sutfest.png?context=bWFzdGVyfHJvb3R8MTkyNjV8aW1hZ2UvcG5nfGhiZS9oZmIvOTIyMjEwMDAyNTM3NC9zdXRmZXN0LnBuZ3wxMGJmZGFhM2ZhMzdiNjRlNDYyNDYxOGJmNzkzMWJjZWZmYmE5ZGNlYzkxNDQ2ZDhhOTYwYWRmMmEwZTI0ZTA5",
+            "navigation": {
+              "landingTitle": "Sütfest",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/milka.png?context=bWFzdGVyfHJvb3R8OTk3NHxpbWFnZS9wbmd8aDUyL2hjNy84ODA0MDc0MzU2NzY2L21pbGthLnBuZ3w1YzM1NDZjNmZiNGRiZmQ3ODhhODI4NThkNGIzMjdhNGVhY2U1ODY3ZTZkNzA1MGJiYzkwY2MyZDgzZGU0ZTdl",
+            "navigation": {
+              "landingTitle": "Milka",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/durdane-ana-firini.png?context=bWFzdGVyfHJvb3R8NTUyM3xpbWFnZS9wbmd8aDkyL2hjMy84ODA0MDc0NDg3ODM4L2R1cmRhbmUtYW5hLWZpcmluaS5wbmd8Mzg0ZmU0YjkxNDlmY2UxZTIwZDRkZGYyNTMwNTA2MTc4N2ZlZWM0NDYyNGZlNjgxZDMzNTEzNjIwMTVlY2M2YQ",
+            "navigation": {
+              "landingTitle": "Dürdane Ana",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/dr-oetker.png?context=bWFzdGVyfHJvb3R8NjIwM3xpbWFnZS9wbmd8aGMyL2hiYy84ODA0MDc0Njg0NDQ2L2RyLW9ldGtlci5wbmd8NTI4YWRiYjM1ZDNhOWI5MDc4MjBmZTIzODU2MTNjNWNkYzc5NjUzMDkwNGI5NGYxZmNiYTM4ZjYzYzBiNWZmOA",
+            "navigation": {
+              "landingTitle": "Dr Oetker",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/torku.png?context=bWFzdGVyfHJvb3R8NjMyNnxpbWFnZS9wbmd8aGY0L2hiMi84ODA0MDc0OTQ2NTkwL3Rvcmt1LnBuZ3xhYjZhZDY5MDZjZTFlNWI5OGM3Y2Q1YzRiMzY4NjdkMzM5MDBlZDI1OTcwM2NjOTUxNDM1ODU4MTY3YjU0ZjAz",
+            "navigation": {
+              "landingTitle": "Torku",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/peyman.png?context=bWFzdGVyfHJvb3R8MTEyMjd8aW1hZ2UvcG5nfGhlYS9oNTYvODgwNDA3NTUzNjQxNC9wZXltYW4ucG5nfGU5YjkwYzc3Y2NkZDU1Zjk5ZmViZDE2NWEyOTFkZDE4NjA5MmVlNWQyZjcwN2E3OGNhMmMzNjI2ZGVjNDJlNzA",
+            "navigation": {
+              "landingTitle": "Peyman",
+              "deeplink": "ozd://"
+            }
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 1,
+          "visibleItemCount": 3.5,
+          "cornerRadius": 16,
+          "itemSpace": 8
+        }
+      },
+      {
+        "id": "230005",
+        "widgetType": "SLIDER_BANNER",
+        "widgetHeader": {
+          "title": "SLIDER_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
+        },
+        "banners": [
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-1.jpg?context=bWFzdGVyfGJhbm5lcnN8Njg4MTR8aW1hZ2UvanBlZ3xoMTEvaDI3Lzk2NTY4MjAzMzQ2MjIvNDAweDMwMF8xLmpwZ3w0M2ZiMzIxZWY5ZWEzMzZiYTNlNDg4N2NhODdiODRmYzhmOGFjYzlmZDQ1Yjk0MmUwNjdmMzI3MWNiYWRkNDA1",
+            "navigation": {
+              "landingTitle": "Sütfest",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-2.jpg?context=bWFzdGVyfGJhbm5lcnN8OTIwODh8aW1hZ2UvanBlZ3xoNjgvaDI3Lzk2NTY4MjAzNjczOTAvNDAweDMwMF8yLmpwZ3wxYjgyOGE2ODZhMGMwMjRhZjM1OTIxODVjYzc1NWU0ZjEzYjg0ODM2NTBhNTBmYjE2NmM5Y2Q3NmRjNWY5MmU2",
+            "navigation": {
+              "landingTitle": "Milka",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-3.jpg?context=bWFzdGVyfGJhbm5lcnN8NTI2NjJ8aW1hZ2UvanBlZ3xoMjIvaDJhLzk2NTY4MjA0MDAxNTgvNDAweDMwMF8zLmpwZ3xkZjAxMjViZmUwNWM0ZmZmOWEwYWUxOWU0MDY0N2Y5NTIzN2NkOWE3NjI3MjFlYTI2ZjIwMjFjODdlZjQyYzNh",
+            "navigation": {
+              "landingTitle": "Dürdane Ana",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-4.jpg?context=bWFzdGVyfGJhbm5lcnN8NTc3OTd8aW1hZ2UvanBlZ3xoNzkvaDJhLzk2NTY4MjA0MzI5MjYvNDAweDMwMF80LmpwZ3w4OWQ5MWM2NjVmNzEzMDBjMzc3OTEwNTIwNTI2MzhlNmFlMjU5YmFjZDI0YWE5ZjEyMzdiNWM4MTgzOWQxOWY0",
+            "navigation": {
+              "landingTitle": "Dr Oetker",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-5.jpg?context=bWFzdGVyfGJhbm5lcnN8NjM3NzB8aW1hZ2UvanBlZ3xoMjcvaDJiLzk2NTY4MjA0OTg0NjIvNDAweDMwMF81LmpwZ3wwNjEwYzE5NjkzMjNmNDMyNmZkODU2MzRlNzYzMWMyNzZlZjM0ZjljM2ViNjY2NGM2OGMwOTk0ZDdhZGYyZjhj",
+            "navigation": {
+              "landingTitle": "Torku",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-6.jpg?context=bWFzdGVyfGJhbm5lcnN8ODUyOTN8aW1hZ2UvanBlZ3xoMzgvaDJlLzk2NTY4MjA1NjM5OTgvNDAweDMwMF82LmpwZ3wyYTEwMzM3NzYxMzEzZGMzNmZiMzIzY2NmNWE5NWU3ZGRmZjBhZTcyMmVlMmUzYmQ4ZTgyMWY0ZjM1ZDFlNWE4",
+            "navigation": {
+              "landingTitle": "Peyman",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-7.jpg?context=bWFzdGVyfGJhbm5lcnN8NzIyODN8aW1hZ2UvanBlZ3xoOGYvaDJlLzk2NTY4MjA1OTY3NjYvNDAweDMwMF83LmpwZ3xlMDc3OGYxZGM3YTNlZjg3YjUzNThjNmFiN2Q4YTMzNDYyNGVlNmRlOWNkODRhMDVlZTFjZjNkMTBhNGQ3MmI1",
+            "navigation": {
+              "landingTitle": "Peyman",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-8.jpg?context=bWFzdGVyfGJhbm5lcnN8NTk4NTR8aW1hZ2UvanBlZ3xoYTEvaDMxLzk2NTY4MjA2NjIzMDIvNDAweDMwMF84LmpwZ3w0NmY0NjQyNTAwNDJmMDI0NjczMmQ4NTg2MWQ4MDg3YzEwZTgwNmYyZWVlODg1N2Q5Y2YzNWU1ZDI4YWIxOTdk",
+            "navigation": {
+              "landingTitle": "Peyman",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-9.jpg?context=bWFzdGVyfGJhbm5lcnN8NTMzMjB8aW1hZ2UvanBlZ3xoOWUvaDM0Lzk2NTY4MjA3Mjc4MzgvNDAweDMwMF85LmpwZ3xjOGY2M2Q4NDA2ZWZmMDVjZmM3ZDY0MGQ3NDA3NDA4NGI2YjUzYTBjMGQ5ZjhmM2Q5MmFiYmZiOWExNThkMTY3",
+            "navigation": {
+              "landingTitle": "Peyman",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-10.jpg?context=bWFzdGVyfGJhbm5lcnN8NjMxMjF8aW1hZ2UvanBlZ3xoNjAvaDM1Lzk2NTY4MjA3OTMzNzQvNDAweDMwMF8xMC5qcGd8Y2FkMWYxYzY2Mjk5MWFkNTVlMTk4Y2Y0MWFlZDQ1Mjk1M2ViYWNjNDEyOWJkMDFiMWU5NjczNzk3MzFhOTg4MA",
+            "navigation": {
+              "landingTitle": "Peyman",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-11.jpg?context=bWFzdGVyfGJhbm5lcnN8NTY4NTl8aW1hZ2UvanBlZ3xoNWQvaDM4Lzk2NTY4MjA4NTg5MTAvNDAweDMwMF8xMS5qcGd8NWI2MjljYjllNzdmNzE0YTNlNGEwZGQyYzQyNmIxZTEzMjBmZTlmODU3ODc3ZjBlMDk3NDkzODZkYjhjNDc2NA",
+            "navigation": {
+              "landingTitle": "Peyman",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-12.jpg?context=bWFzdGVyfGJhbm5lcnN8NTA1MjJ8aW1hZ2UvanBlZ3xoNzAvaGYwLzk2NTY4MjIwMzg1NTgvNDAweDMwMF8xMi5qcGd8OTM5OGQwODY0OWQ0NjBhNzU1OTljNTc0MDg1YTk1NjkzODZiNGU3NjU1MTY1YWViMDkzMGZmYjMzYzMwNmE4MA",
+            "navigation": {
+              "landingTitle": "Peyman",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/400x300-14.jpg?context=bWFzdGVyfGJhbm5lcnN8NjkyODd8aW1hZ2UvanBlZ3xoODIvaGYzLzk2NTY4MjIxMDQwOTQvNDAweDMwMF8xNC5qcGd8OWUwYTM4YzFjODM2YzJkYTBhMmMzZGM4YmIyYTYwMzVlZDMxYzc2Yjc5MDZlNGVlZjVlNDBkMGZkNzRmNWZiYQ",
+            "navigation": {
+              "landingTitle": "Peyman",
+              "deeplink": "ozd://"
+            }
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 1.33,
+          "visibleItemCount": 1.7,
+          "cornerRadius": 16,
+          "itemSpace": 8
+        }
+      },
+      {
+        "id": "230006",
         "widgetType": "SLIDER_PRODUCT",
-        "id": "130106",
-        "content": {
-          "widgetHeader": {
-            "title": "LISTING_PRODUCT",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
-              "deeplink": "ozd://"
-            }
-          },
-          "items": [
-            {
-              "productId": "10122186",
-              "contentId": "10122186",
-              "name": "Heinz Ketçap 1000 g",
-              "images": [
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHByb2R1Y3RpbWd8NTQ2NjF8aW1hZ2UvanBlZ3xoYTYvaGVkLzkyMDU3MTI1NTE5NjZ8MTA2NWNjMGE5MjgxMzY5MWEyNjEyYzg4YTZkNzNiYTZhMzAwNGY2ZmQ3MTQ1Nzc3MGUwZDAzOWY1MjA2Y2MxYw"
-              ],
-              "colorCount": null,
-              "price": {
-                "discountRate": "10",
-                "oldPrice": "38,95",
-                "currentPriceWholeNumber": "34",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "95",
-                "currency": "TL",
-                "value": 38.95,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "34,95 TL"
-              },
-              "categories": null,
-              "promotions": [
-                {
-                  "text": "2 al 1 öde"
-                }
-              ]
-            },
-            {
-              "productId": "10005734",
-              "contentId": "10005734",
-              "name": "Domates Kg.",
-              "images": [
-                "https://img-ozdilek.mncdn.com/images/catalog/200x310/5770.jpg"
-              ],
-              "price": {
-                "discountRate": null,
-                "oldPrice": null,
-                "currentPriceWholeNumber": "11",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "99",
-                "currency": "TL",
-                "value": 11.94,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "11,99TL"
-              },
-              "categories": null,
-              "promotions": null
-            },
-            {
-              "productId": "10120951",
-              "contentId": "10120951",
-              "name": "Yudum Ayçiçek Yağı 5 L Pet",
-              "images": [
-                "https://img-ozdilek.mncdn.com/images/catalog/200x310/8690876101097.jpg"
-              ],
-              "price": {
-                "discountRate": "11",
-                "oldPrice": "225,95",
-                "currentPriceWholeNumber": "225",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "95",
-                "currency": "TL",
-                "value": 225.95,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "198,95 TL"
-              },
-              "categories": null,
-              "promotions": null
-            }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 1,
-            "visibleItemCount": 2,
-            "cornerRadius": 8,
-            "itemSpace": 16
+        "widgetHeader": {
+          "title": "SLIDER_PRODUCT",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
           }
+        },
+        "products": [
+          {
+            "productId": "10122186",
+            "contentId": "10122186",
+            "name": "Heinz Ketçap 1000 g",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHByb2R1Y3RpbWd8NTQ2NjF8aW1hZ2UvanBlZ3xoYTYvaGVkLzkyMDU3MTI1NTE5NjZ8MTA2NWNjMGE5MjgxMzY5MWEyNjEyYzg4YTZkNzNiYTZhMzAwNGY2ZmQ3MTQ1Nzc3MGUwZDAzOWY1MjA2Y2MxYw"
+            ],
+            "colorCount": null,
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "38,95",
+              "currentPriceWholeNumber": "34",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value": 38.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "34,95 TL"
+            },
+            "categories": null,
+            "promotions": [
+              {
+                "text": "2 al 1 öde"
+              }
+            ]
+          },
+          {
+            "productId": "10005734",
+            "contentId": "10005734",
+            "name": "Domates Kg.",
+            "images": [
+              "https://img-ozdilek.mncdn.com/images/catalog/200x310/5770.jpg"
+            ],
+            "price": {
+              "discountRate": null,
+              "oldPrice": null,
+              "currentPriceWholeNumber": "11",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "99",
+              "currency": "TL",
+              "value": 11.94,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "11,99TL"
+            },
+            "categories": null,
+            "promotions": null
+          },
+          {
+            "productId": "10120951",
+            "contentId": "10120951",
+            "name": "Yudum Ayçiçek Yağı 5 L Pet",
+            "images": [
+              "https://img-ozdilek.mncdn.com/images/catalog/200x310/8690876101097.jpg"
+            ],
+            "price": {
+              "discountRate": "11",
+              "oldPrice": "225,95",
+              "currentPriceWholeNumber": "225",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value": 225.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "198,95 TL"
+            },
+            "categories": null,
+            "promotions": null
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 1,
+          "visibleItemCount": 2.5,
+          "cornerRadius": 8,
+          "itemSpace": 8
         }
       }
     ]
