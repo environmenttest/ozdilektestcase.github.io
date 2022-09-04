@@ -626,105 +626,103 @@
       {
         "id": "120007",
         "widgetType": "LISTING_PRODUCT",
-        "products": {
-          "widgetHeader": {
-            "title": "LISTING_PRODUCT",
-            "widgetNavigation": {
-              "title": "Tümü",
-              "landingTitle": "En çok satılanlar",
-              "deeplink": "ozd://"
-            }
-          },
-          "products": [
-            {
-              "productId": "PR-10138789BAKIR",
-              "contentId": "PR-S221508-3000202800040YESIL",
-              "name": "Mavi Kadın Tişört 1600740-900",
-              "images": [
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTI5MjQ0NXxpbWFnZS9qcGVnfGg2OC9oNDgvOTIwMjUyMzc5OTU4MnwwZTE3OTIzNWE2NDJiNDQ2ZmY2NjJkMjk4YjM3NWY0M2JlZmJlNTg4ZmU4MTY1NTAyMWYxMGI5OTRlMTUwMDVj",
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ3OTI1MXxpbWFnZS9qcGVnfGhmNS9oOTkvOTIwMjUyNDA2MTcyNnxiMjk4MjQyYTk3MzRlN2ZlMzZkOWM1MDkxZjZmYTFiOTE3MTQyZGE4MWUyZDQ3ZGE0MTRmMmU0YTZlMDk1NTcz",
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTE4NDU1M3xpbWFnZS9qcGVnfGgyMS9oYjgvOTIwMjUyNDkxMzY5NHxlNjQwY2QwODFjMWQ2ZWQ5ZjhhYjg5ODk3N2E3NmMwNDU0YWNiY2UzZjBkNzNjOWM0NDY5ZjE0ZGEyYjI0Y2Vl",
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTIwNTc3MHxpbWFnZS9qcGVnfGg1My9oYWUvOTIwMjUyNDY1MTU1MHw1NjcwOTg0YmJlMGM5M2NjY2E2NDVkM2U2MTg2N2JiMzExZjc5NTBkOGRmM2Q0ZjNmYjA2NTViMzEyNTdmYjFh"
-              ],
-              "colorCount": null,
-              "rating": {
-                "average": 4.8,
-                "count": 48
-              },
-              "price": {
-                "discountRate": null,
-                "oldPrice": null,
-                "currentPriceWholeNumber": "899",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "00",
-                "currency": "TL",
-                "value": 899,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "5999,00 - 6999,99 TL"
-              },
-              "categories": [
-                {
-                  "name": "Unlu Mamuller"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                }
-              ],
-              "promotions": [
-                {
-                  "text": "2 al 1 öde"
-                }
-              ]
-            },
-            {
-              "productId": "PR-19Y4BS204001.2.ATA0068700001BEYAZ",
-              "contentId": "PR-S221508-3000202800040YESIL",
-              "name": "U.S. Polo Assn. Erkek Eşofman Altı 1350355.VR046",
-              "images": [
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzI4MTQ0fGltYWdlL2pwZWd8aDNmL2g4Ni85NDg3NDY2MzY0OTU4fDcyMWI2NTBmOTFmOGY5MzRmZWZiY2NlOGYzOWNjMzUwY2I1YzYyNGY2NDlkZmQ0ZWFmMGM4NjM4Y2Y5ODc0Y2M",
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzMyOTI2fGltYWdlL2pwZWd8aDBkL2g5MC85NDg3NDY2NjI3MTAyfDdiZWFlMDY1YjI5NzI5MjZhOWU1ZGU5NmU0MzY3NzM4NGY1NGEzMmMyNDEwN2Y1MThlN2M1ZmI3ZmI2NTBlYjY",
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Njg1MDA3fGltYWdlL2pwZWd8aDhjL2g5Ny85NDg3NDY2ODg5MjQ2fGZiMGE5YTc3MDViMTcxMjUxODI2MzliOTczOWQxMjgxMzcxODRlMjIzYjBlM2VlYjI5NDZjYzA1OWU3Nzg3NDY",
-                "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTMxNjQ3OHxpbWFnZS9qcGVnfGgxOS9oZTkvOTQ4NzQ2NzE1MTM5MHxkYjljMjBmMGUzOWNjOWRmYjc5YzdjMjAwYzZkZTc1YTEzZjdlZDcyZTYwZWQ5MzllZTc0NWVjMDA5ZWVhMDlm"
-              ],
-              "colorCount": "2",
-              "rating": {
-                "average": 3,
-                "count": 13
-              },
-              "price": {
-                "discountRate": "10",
-                "oldPrice": "999,00",
-                "currentPriceWholeNumber": "899",
-                "separator": ",",
-                "currentPriceDecimalNUmber": "00",
-                "currency": "TL",
-                "value": 899,
-                "firebaseCurrency": "TRY",
-                "formattedValue": "199,00 TL"
-              },
-              "categories": [
-                {
-                  "name": "Unlu Mamuller"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                },
-                {
-                  "name": "Hamur İşi Ürünler"
-                }
-              ],
-              "promotions": null
-            }
-          ],
-          "viewProperties": {
-            "imageAspectRatio": 0.66,
-            "visibleItemCount": 2,
-            "cornerRadius": 8,
-            "itemSpace": 16
+        "widgetHeader": {
+          "title": "LISTING_PRODUCT",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
           }
+        },
+        "products": [
+          {
+            "productId": "PR-10138789BAKIR",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Mavi Kadın Tişört 1600740-900",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTI5MjQ0NXxpbWFnZS9qcGVnfGg2OC9oNDgvOTIwMjUyMzc5OTU4MnwwZTE3OTIzNWE2NDJiNDQ2ZmY2NjJkMjk4YjM3NWY0M2JlZmJlNTg4ZmU4MTY1NTAyMWYxMGI5OTRlMTUwMDVj",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ3OTI1MXxpbWFnZS9qcGVnfGhmNS9oOTkvOTIwMjUyNDA2MTcyNnxiMjk4MjQyYTk3MzRlN2ZlMzZkOWM1MDkxZjZmYTFiOTE3MTQyZGE4MWUyZDQ3ZGE0MTRmMmU0YTZlMDk1NTcz",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTE4NDU1M3xpbWFnZS9qcGVnfGgyMS9oYjgvOTIwMjUyNDkxMzY5NHxlNjQwY2QwODFjMWQ2ZWQ5ZjhhYjg5ODk3N2E3NmMwNDU0YWNiY2UzZjBkNzNjOWM0NDY5ZjE0ZGEyYjI0Y2Vl",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTIwNTc3MHxpbWFnZS9qcGVnfGg1My9oYWUvOTIwMjUyNDY1MTU1MHw1NjcwOTg0YmJlMGM5M2NjY2E2NDVkM2U2MTg2N2JiMzExZjc5NTBkOGRmM2Q0ZjNmYjA2NTViMzEyNTdmYjFh"
+            ],
+            "colorCount": null,
+            "rating": {
+              "average": 4.8,
+              "count": 48
+            },
+            "price": {
+              "discountRate": null,
+              "oldPrice": null,
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "5999,00 - 6999,99 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": [
+              {
+                "text": "2 al 1 öde"
+              }
+            ]
+          },
+          {
+            "productId": "PR-19Y4BS204001.2.ATA0068700001BEYAZ",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "U.S. Polo Assn. Erkek Eşofman Altı 1350355.VR046",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzI4MTQ0fGltYWdlL2pwZWd8aDNmL2g4Ni85NDg3NDY2MzY0OTU4fDcyMWI2NTBmOTFmOGY5MzRmZWZiY2NlOGYzOWNjMzUwY2I1YzYyNGY2NDlkZmQ0ZWFmMGM4NjM4Y2Y5ODc0Y2M",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzMyOTI2fGltYWdlL2pwZWd8aDBkL2g5MC85NDg3NDY2NjI3MTAyfDdiZWFlMDY1YjI5NzI5MjZhOWU1ZGU5NmU0MzY3NzM4NGY1NGEzMmMyNDEwN2Y1MThlN2M1ZmI3ZmI2NTBlYjY",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Njg1MDA3fGltYWdlL2pwZWd8aDhjL2g5Ny85NDg3NDY2ODg5MjQ2fGZiMGE5YTc3MDViMTcxMjUxODI2MzliOTczOWQxMjgxMzcxODRlMjIzYjBlM2VlYjI5NDZjYzA1OWU3Nzg3NDY",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTMxNjQ3OHxpbWFnZS9qcGVnfGgxOS9oZTkvOTQ4NzQ2NzE1MTM5MHxkYjljMjBmMGUzOWNjOWRmYjc5YzdjMjAwYzZkZTc1YTEzZjdlZDcyZTYwZWQ5MzllZTc0NWVjMDA5ZWVhMDlm"
+            ],
+            "colorCount": "2",
+            "rating": {
+              "average": 3,
+              "count": 13
+            },
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "199,00 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": null
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 0.66,
+          "visibleItemCount": 2,
+          "cornerRadius": 8,
+          "itemSpace": 16
         }
       },
       {
