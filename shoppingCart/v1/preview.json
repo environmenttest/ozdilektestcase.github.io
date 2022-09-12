@@ -1,0 +1,24 @@
+{
+  "code": 200,
+  "message": null,
+  "data": {
+    "totalProductCount": "1",
+    "totalPrice": {
+      "discountRate": null,
+      "oldPrice": null,
+      "currentPriceWholeNumber": "34",
+      "separator": ",",
+      "currentPriceDecimalNUmber": "95",
+      "currency": "TL",
+      "value": 38.95,
+      "firebaseCurrency": "TRY",
+      "formattedValue": "34,95 TL"
+    },
+    "cartItems": [
+      {
+        "productId": "10122186",
+        "quantity": 1
+      }
+    ]
+  }
+}
