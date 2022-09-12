@@ -444,7 +444,17 @@
               {
                 "text": "2 al 1 öde"
               }
-            ]
+            ],
+            "quantityPickerProperties": {
+              "min": 1.0,
+              "max": 5.0,
+              "default": 1.0,
+              "incrementValue": 1.0,
+              "unit": {
+                "type": "AD",
+                "text": "Adet"
+              }
+            }
           },
           {
             "productId": "10005734",
@@ -465,7 +475,17 @@
               "formattedValue": "11,99TL"
             },
             "categories": null,
-            "promotions": null
+            "promotions": null,
+            "quantityPickerProperties": {
+              "min": 1.0,
+              "max": 5.0,
+              "default": 1.0,
+              "incrementValue": 1.0,
+              "unit": {
+                "type": "KG",
+                "text": "kg"
+              }
+            }
           },
           {
             "productId": "10120951",
@@ -486,7 +506,17 @@
               "formattedValue": "198,95 TL"
             },
             "categories": null,
-            "promotions": null
+            "promotions": null,
+            "quantityPickerProperties": {
+              "min": 1.0,
+              "max": 5.0,
+              "default": 1.0,
+              "incrementValue": 1.0,
+              "unit": {
+                "type": "AD",
+                "text": "Adet"
+              }
+            }
           }
         ],
         "viewProperties": {
