@@ -13,14 +13,13 @@
     "widgets": [
       {
         "id": "120000",
-        "widgetType": "CIRCLED_SLIDER_BANNER",
+        "widgetType": 1,
         "widgetHeader": {
           "title": "CIRCLED_SLIDER_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
-            "deeplink": "ozd://",
-            "navigationType": "REDIRECT"
+            "deeplink": "ozd://"
           }
         },
         "banners": [
@@ -112,14 +111,13 @@
       },
       {
         "id": "120001",
-        "widgetType": "SINGLE_BANNER",
+        "widgetType": 5,
         "widgetHeader": {
           "title": "SINGLE_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
-            "deeplink": "ozd://",
-            "navigationType": "REDIRECT"
+            "deeplink": "ozd://"
           }
         },
         "banners": [
@@ -146,14 +144,13 @@
       },
       {
         "id": "120002",
-        "widgetType": "CAROUSEL_BANNER",
+        "widgetType": 2,
         "widgetHeader": {
           "title": "CAROUSEL_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
-            "deeplink": "ozd://",
-            "navigationType": "REDIRECT"
+            "deeplink": "ozd://"
           }
         },
         "banners": [
@@ -168,7 +165,6 @@
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/birkenstock-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8ODIwMDk3fGltYWdlL2pwZWd8aDJjL2g3Ni85NjQ5OTI0NDA3MzI2L2JpcmtlbnN0b2NrXzE5MjB4NzM1LmpwZ3xhODhkNTc2MTIzZGMyYTRmNTQ0Zjk5N2IxYTg5NWE0MWVkMTNhYzk2YzlhNTFmM2U5NzUzNmEyMjk3Y2ZiZjlh",
             "navigation": {
               "landingTitle": "Birkenstock Terlik Koleksiyonu",
-              "type": "REDIRECT",
               "deeplink": "ozd://"
             }
           },
@@ -213,14 +209,13 @@
       },
       {
         "id": "120003",
-        "widgetType": "LISTING_BANNER",
+        "widgetType": 4,
         "widgetHeader": {
           "title": "LISTING_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
-            "deeplink": "ozd://",
-            "navigationType": "REDIRECT"
+            "deeplink": "ozd://"
           }
         },
         "banners": [
@@ -255,7 +250,7 @@
       },
       {
         "id": "120004",
-        "widgetType": "SLIDER_PRODUCT",
+        "widgetType": 6,
         "widgetHeader": {
           "title": "SLIDER_PRODUCT",
           "widgetNavigation": {
@@ -536,14 +531,13 @@
       },
       {
         "id": "120005",
-        "widgetType": "SINGLE_BANNER",
+        "widgetType": 5,
         "widgetHeader": {
           "title": "SINGLE_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
-            "deeplink": "ozd://",
-            "navigationType": "REDIRECT"
+            "deeplink": "ozd://"
           }
         },
         "banners": [
@@ -563,7 +557,7 @@
       },
       {
         "id": "120006",
-        "widgetType": "SLIDER_BANNER",
+        "widgetType": 3,
         "widgetHeader": {
           "title": "SLIDER_BANNER",
           "widgetNavigation": {
@@ -625,7 +619,7 @@
       },
       {
         "id": "120007",
-        "widgetType": "LISTING_PRODUCT",
+        "widgetType": 7,
         "widgetHeader": {
           "title": "LISTING_PRODUCT",
           "widgetNavigation": {
@@ -727,7 +721,7 @@
       },
       {
         "id": "120008",
-        "widgetType": "LISTING_PRODUCT",
+        "widgetType": 7,
         "widgetHeader": {
           "title": "LISTING_PRODUCT",
           "widgetNavigation": {
