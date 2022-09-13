@@ -13,14 +13,13 @@
     "widgets": [
       {
         "id": "230000",
-        "widgetType": "CIRCLED_SLIDER_BANNER",
+        "widgetType": 1,
         "widgetHeader": {
           "title": "CIRCLED_SLIDER_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
-            "deeplink": "ozd://",
-            "navigationType": "REDIRECT"
+            "deeplink": "ozd://"
           }
         },
         "banners": [
@@ -88,14 +87,13 @@
       },
       {
         "id": "230001",
-        "widgetType": "SINGLE_BANNER",
+        "widgetType": 5,
         "widgetHeader": {
           "title": "SINGLE_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
-            "deeplink": "ozd://",
-            "navigationType": "REDIRECT"
+            "deeplink": "ozd://"
           }
         },
         "banners": [
@@ -115,14 +113,13 @@
       },
       {
         "id": "230002",
-        "widgetType": "CAROUSEL_BANNER",
+        "widgetType": 2,
         "widgetHeader": {
           "title": "CAROUSEL_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
-            "deeplink": "ozd://",
-            "navigationType": "REDIRECT"
+            "deeplink": "ozd://"
           }
         },
         "banners": [
@@ -137,7 +134,6 @@
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/Asurelikler-Slider-1920x735px.jpg?context=bWFzdGVyfGJhbm5lcnN8MTAzMzgwMHxpbWFnZS9qcGVnfGhjOC9oNWMvOTY1MjY5MTgyODc2Ni9Bc3VyZWxpa2xlcl9TbGlkZXJfMTkyMHg3MzVweC5qcGd8ZjQwNDI0MGIzOTNhYTViNjE3YjE2ZTRlMDJjNTU1NjE2ZmJkNTIzN2Q3NThlNGJkNWRiZDJlMGY5MTcxY2E3Mg",
             "navigation": {
               "landingTitle": "Aşurelik",
-              "type": "REDIRECT",
               "deeplink": "ozd://"
             }
           },
@@ -145,7 +141,6 @@
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1170x450.jpg?context=bWFzdGVyfGJhbm5lcnN8MzAzNzE2fGltYWdlL2pwZWd8aDQwL2g0YS85NjUwOTEzMzc4MzM0LzExNzB4NDUwLmpwZ3xmZDg4ZmNkZDQzNTJmM2Q0NzM4NjZlY2VjOGQ1ODZmYTQ1NWQxMjQwNWJiYWJhZTg0YTQxN2Q3MTg0NGNlNDU1",
             "navigation": {
               "landingTitle": "Aşurelik",
-              "type": "REDIRECT",
               "deeplink": "ozd://"
             }
           },
@@ -153,7 +148,6 @@
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735-Kozmetik-Revize.jpg?context=bWFzdGVyfGJhbm5lcnN8MTUwNzM3MXxpbWFnZS9qcGVnfGg4Yi9oNmEvOTY1Mjc5ODg4MTgyMi8xOTIweDczNV9Lb3ptZXRpa19SZXZpemUuanBnfDhmYTc3NmY3OTY0ZjcyNDk4YTYzOGQyNTExYzRkZGU5MGUwY2IwNGRiZTNjYmYxMDIzNWNkZTFiZTBlNGM0NWM",
             "navigation": {
               "landingTitle": "Aşurelik",
-              "type": "REDIRECT",
               "deeplink": "ozd://"
             }
           },
@@ -161,7 +155,6 @@
             "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/aquadipolo-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8NjEwMTU3fGltYWdlL2pwZWd8aDdhL2hmOC85NjU2NzEyMDY5MTUwL2FxdWFkaXBvbG9fMTkyMHg3MzUuanBnfDA1ZGI1ZThiMGQ2MTM1ZTQ4ODg0N2RjYWZmNzBlM2ZmMDkwZjQwODdiODE0ZjdjMmY1ZjQxNTllYjI1OGEyMDg",
             "navigation": {
               "landingTitle": "Aşurelik",
-              "type": "REDIRECT",
               "deeplink": "ozd://"
             }
           }
@@ -174,14 +167,13 @@
       },
       {
         "id": "230003",
-        "widgetType": "LISTING_BANNER",
+        "widgetType": 4,
         "widgetHeader": {
           "title": "LISTING_BANNER",
           "widgetNavigation": {
             "title": "Tümü",
             "landingTitle": "En çok satılanlar",
-            "deeplink": "ozd://",
-            "navigationType": "REDIRECT"
+            "deeplink": "ozd://"
           }
         },
         "banners": [
@@ -237,7 +229,7 @@
       },
       {
         "id": 230004,
-        "widgetType": "SLIDER_BANNER",
+        "widgetType": 3,
         "widgetHeader": {
           "title": "SLIDER_BANNER",
           "widgetNavigation": {
@@ -299,7 +291,7 @@
       },
       {
         "id": "230005",
-        "widgetType": "SLIDER_BANNER",
+        "widgetType": 3,
         "widgetHeader": {
           "title": "SLIDER_BANNER",
           "widgetNavigation": {
@@ -410,7 +402,7 @@
       },
       {
         "id": "230006",
-        "widgetType": "SLIDER_PRODUCT",
+        "widgetType": 6,
         "widgetHeader": {
           "title": "SLIDER_PRODUCT",
           "widgetNavigation": {
