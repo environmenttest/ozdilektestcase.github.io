@@ -2,7 +2,7 @@
   "code": 200,
   "message": null,
   "data": {
-    "totalProductCount": "1",
+    "totalProductCount": 1,
     "totalPrice": {
       "discountRate": null,
       "oldPrice": null,
