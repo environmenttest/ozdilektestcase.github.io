@@ -469,10 +469,10 @@
             "categories": null,
             "promotions": null,
             "quantityPickerProperties": {
-              "min": 1.0,
+              "min": 0.1,
               "max": 5.0,
               "default": 1.0,
-              "incrementValue": 1.0,
+              "incrementValue": 0.1,
               "unit": {
                 "type": "KG",
                 "text": "kg"
