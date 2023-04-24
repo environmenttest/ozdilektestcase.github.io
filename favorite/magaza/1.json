@@ -1,0 +1,211 @@
+{
+  "code": 200,
+  "message": null,
+  "data": {
+    "products": [
+      {
+        "productId": "PR-EVTEKSTILI-57881601327BEJ",
+        "name": "Özdilek Cadena Çift Kişilik Soft Life Saten Nevresim Takımı",
+        "images": [
+          "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTIyNjY1MnxpbWFnZS9qcGVnfGg5My9oYjYvOTg0MTkxODgzNjc2Nnw5NjQ4OGM2MzZjYWFmYzBiNTE4YWYzMDZjZjAwY2YxMzUyMmMzMTUwOWY0MmM1NDkwZGQ2MjRiYmQyMTY1MGZm"
+        ],
+        "rating": {
+          "average": 0.0,
+          "count": 0
+        },
+        "price": {
+          "discountRate": null,
+          "oldPrice": null,
+          "currentPriceWholeNumber": "1.649",
+          "separator": ",",
+          "currentPriceDecimalNUmber": "00",
+          "currency": "TL",
+          "value": 1649.0,
+          "firebaseCurrency": "TRY",
+          "formattedValue": "1.649,00 TL",
+          "isPriceRange": false
+        },
+        "isQuantityPickerVisible": false,
+        "quantityPickerProperties": {
+          "minimumQuantity": 1,
+          "maxQuantity": 100,
+          "defaultQuantity": 1,
+          "incrementValue": 1,
+          "unit": {
+            "type": "AD",
+            "text": "adet"
+          }
+        },
+        "colorCount": "1",
+        "promotions": null,
+        "categories": [
+          "Ev Tekstili",
+          "Yatak Odası Tekstili",
+          "Nevresim & Nevresim Takımı",
+          "Saten Nevresim Takımı"
+        ],
+        "variantProperty": [
+          {
+            "name": "Beden",
+            "value": "ÇİFT KİŞİLİK"
+          },
+          {
+            "name": "Renk",
+            "value": "BEJ"
+          }
+        ],
+        "isOutOfStock": true
+      },
+      {
+        "productId": "PR-EVTEKSTILI-57869401327MAVI",
+        "name": "Özdilek Color Silices Çift Kişilik Lastikli Fitted Çarşaf Nevresim Takımı",
+        "images": [
+          "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzI1NTEyfGltYWdlL2pwZWd8aGRmL2hjNy85ODQxOTE4MzEyNDc4fDdiY2UzYjZlNjIyNTcyNmVjNWU1MGExMTg4N2IzNzcyNTkwODQ0NTY3NGQyMjliZGM1ODk2N2MwMDZmNTY3NTc"
+        ],
+        "rating": {
+          "average": 0.0,
+          "count": 0
+        },
+        "price": {
+          "discountRate": null,
+          "oldPrice": null,
+          "currentPriceWholeNumber": "990",
+          "separator": ",",
+          "currentPriceDecimalNUmber": "00",
+          "currency": "TL",
+          "value": 990.0,
+          "firebaseCurrency": "TRY",
+          "formattedValue": "990,00 TL",
+          "isPriceRange": false
+        },
+        "isQuantityPickerVisible": false,
+        "quantityPickerProperties": {
+          "minimumQuantity": 1,
+          "maxQuantity": 100,
+          "defaultQuantity": 1,
+          "incrementValue": 1,
+          "unit": {
+            "type": "AD",
+            "text": "adet"
+          }
+        },
+        "colorCount": "1",
+        "promotions": null,
+        "categories": [
+          "Ev Tekstili",
+          "Yatak Odası Tekstili",
+          "Nevresim & Nevresim Takımı",
+          "Saten Nevresim Takımı"
+        ],
+        "variantProperty": [
+          {
+            "name": "Beden",
+            "value": "ÇİFT KİŞİLİK"
+          },
+          {
+            "name": "Renk",
+            "value": "MAVİ"
+          }
+        ],
+        "isOutOfStock": false
+      },
+      {
+        "productId": 13191023,
+        "name": "Amazfit Akıllı Saat GTR 3 Moonlight Grey",
+        "images": [
+          "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTA3MjM1fGltYWdlL2pwZWd8aDE5L2gwZC85ODMzMDQ4ODAxMzEwfGMzMDBlNWYzNDljMDMxZjRmMGViYjY0OTA3ZDA4NTNmNjE5ZDEyMmFkZjI2MTA4ZjM0ZGRlYWRiOTA2MTFlOTU"
+        ],
+        "rating": {
+          "average": 0.0,
+          "count": 0
+        },
+        "price": {
+          "discountRate": null,
+          "oldPrice": null,
+          "currentPriceWholeNumber": "3.599",
+          "separator": ",",
+          "currentPriceDecimalNUmber": "00",
+          "currency": "TL",
+          "value": 3599.0,
+          "firebaseCurrency": "TRY",
+          "formattedValue": "3.599,00 TL",
+          "isPriceRange": false
+        },
+        "isQuantityPickerVisible": false,
+        "quantityPickerProperties": {
+          "minimumQuantity": 1,
+          "maxQuantity": 100,
+          "defaultQuantity": 1,
+          "incrementValue": 1,
+          "unit": {
+            "type": "AD",
+            "text": "adet"
+          }
+        },
+        "colorCount": "1",
+        "promotions": null,
+        "categories": [
+          "Ev Tekstili",
+          "Yatak Odası Tekstili",
+          "Nevresim & Nevresim Takımı",
+          "Saten Nevresim Takımı"
+        ],
+        "variantProperty": null,
+        "isOutOfStock": false
+      },
+      {
+        "productId": "PR-M0210053-719050113200042YESIL",
+        "name": "Mavi Erkek Gömlek M0210053-71905",
+        "images": [
+          "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQwMTQ0MHxpbWFnZS9qcGVnfGhiOS9oYzYvOTQ5NzY5MzUxOTkwMnxjNDg4YzRkMjFmZGVhYjc1NmJlMjU4NGRjZGY1NmM3YjcyZGRiZWUxZjY3YjMwYzRiMTEzYjk0YTVmYWUyNDdi"
+        ],
+        "rating": {
+          "average": 0.0,
+          "count": 0
+        },
+        "price": {
+          "discountRate": null,
+          "oldPrice": null,
+          "currentPriceWholeNumber": "449",
+          "separator": ",",
+          "currentPriceDecimalNUmber": 99,
+          "currency": "TL",
+          "value": 449.99,
+          "firebaseCurrency": "TRY",
+          "formattedValue": "449,00 TL",
+          "isPriceRange": false
+        },
+        "isQuantityPickerVisible": false,
+        "quantityPickerProperties": {
+          "minimumQuantity": 1,
+          "maxQuantity": 100,
+          "defaultQuantity": 1,
+          "incrementValue": 1,
+          "unit": {
+            "type": "AD",
+            "text": "adet"
+          }
+        },
+        "colorCount": "1",
+        "promotions": null,
+        "categories": [
+          "Ev Tekstili",
+          "Yatak Odası Tekstili",
+          "Nevresim & Nevresim Takımı",
+          "Saten Nevresim Takımı"
+        ],
+        "variantProperty": [
+          {
+            "name": "Beden",
+            "value": "S"
+          },
+          {
+            "name": "Renk",
+            "value": "YEŞİL"
+          }
+        ],
+        "isOutOfStock": false
+      }
+    ]
+  }
+}
