@@ -54,7 +54,8 @@
             "value": "BEJ"
           }
         ],
-        "isOutOfStock": true
+        "isOutOfStock": true,
+        "shareUrl": "https://ozdilekteyim.com/magaza/loft-erkek-gomlek-lf2010395-prs-p-11849403/"
       },
       {
         "productId": "PR-EVTEKSTILI-57869401327MAVI",
@@ -107,7 +108,8 @@
             "value": "MAVİ"
           }
         ],
-        "isOutOfStock": false
+        "isOutOfStock": false,
+        "shareUrl": "https://ozdilekteyim.com/magaza/loft-erkek-gomlek-lf2010395-prs-p-11849403/"
       },
       {
         "productId": 13191023,
@@ -151,7 +153,8 @@
           "Saten Nevresim Takımı"
         ],
         "variantProperty": null,
-        "isOutOfStock": false
+        "isOutOfStock": false,
+        "shareUrl": "https://ozdilekteyim.com/magaza/loft-erkek-gomlek-lf2010395-prs-p-11849403/"
       },
       {
         "productId": "PR-M0210053-719050113200042YESIL",
@@ -204,7 +207,8 @@
             "value": "YEŞİL"
           }
         ],
-        "isOutOfStock": false
+        "isOutOfStock": false,
+        "shareUrl": "https://ozdilekteyim.com/magaza/loft-erkek-gomlek-lf2010395-prs-p-11849403/"
       }
     ]
   }
