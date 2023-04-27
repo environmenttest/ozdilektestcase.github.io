@@ -38,7 +38,9 @@
           }
         },
         "colorCount": "1",
-        "promotions": null,
+        "promotions": [
+          "Aynı Gün Kargo"
+        ],
         "categories": [
           "Ev Tekstili",
           "Yatak Odası Tekstili",
@@ -92,7 +94,9 @@
           }
         },
         "colorCount": "1",
-        "promotions": null,
+        "promotions": [
+          "Sepette %20 indirim"
+        ],
         "categories": [
           "Ev Tekstili",
           "Yatak Odası Tekstili",
@@ -191,7 +195,9 @@
           }
         },
         "colorCount": "1",
-        "promotions": null,
+        "promotions": [
+          "1 alana 1 bedava"
+        ],
         "categories": [
           "Ev Tekstili",
           "Yatak Odası Tekstili",
