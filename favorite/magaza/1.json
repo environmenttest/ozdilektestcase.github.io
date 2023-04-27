@@ -15,8 +15,8 @@
           "count": 20
         },
         "price": {
-          "discountRate": null,
-          "oldPrice": null,
+          "discountRate": 20,
+          "oldPrice": "1999,00",
           "currentPriceWholeNumber": "1.649",
           "separator": ",",
           "currentPriceDecimalNUmber": "00",
