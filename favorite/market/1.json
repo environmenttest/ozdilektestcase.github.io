@@ -7,6 +7,7 @@
         "productId": "10005608",
         "name": "Muz Yerli Kg.",
         "images": [
+          "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjE5MDgzfGltYWdlL2pwZWd8aDQ5L2g5ZS85ODMxODc3NTQxOTE4fGRmMTU2ZDJhOGRhMDZlYTEyN2QwZGEzNzhjZjhkOGNmZTIwZDE4NTZmOTVkMzU5NjU4ZmM0NjJmYjcyMGVhYWM",
           "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjE5MDgzfGltYWdlL2pwZWd8aDQ5L2g5ZS85ODMxODc3NTQxOTE4fGRmMTU2ZDJhOGRhMDZlYTEyN2QwZGEzNzhjZjhkOGNmZTIwZDE4NTZmOTVkMzU5NjU4ZmM0NjJmYjcyMGVhYWM"
         ],
         "rating": {
@@ -142,9 +143,13 @@
         "productId": "12219472",
         "name": "Ananas Adet",
         "images": [
-          "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQwMTQ0MHxpbWFnZS9qcGVnfGhiOS9oYzYvOTQ5NzY5MzUxOTkwMnxjNDg4YzRkMjFmZGVhYjc1NmJlMjU4NGRjZGY1NmM3YjcyZGRiZWUxZjY3YjMwYzRiMTEzYjk0YTVmYWUyNDdi"
+          "https://img-ozdilekteyim-s1.mncdn.com/mnresize/1200/1200/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzE0OTg0fGltYWdlL2pwZWd8aDk4L2g3Ny85ODMyMTUyODU4NjU0fGE1NTEyYmMzZWI4Y2YyNGNkZDkxN2ZkNGM5MmEzNGQyYTUzZjBmZmU0OThjZjczMzM1MDA0Mzk2NzdhMDk3Zjg",
+          "https://img-ozdilekteyim-s1.mncdn.com/mnresize/1200/1200/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzE0OTg0fGltYWdlL2pwZWd8aDk4L2g3Ny85ODMyMTUyODU4NjU0fGE1NTEyYmMzZWI4Y2YyNGNkZDkxN2ZkNGM5MmEzNGQyYTUzZjBmZmU0OThjZjczMzM1MDA0Mzk2NzdhMDk3Zjg"
         ],
-        "rating": null,
+        "rating": {
+          "average": 2.5,
+          "count": 15
+        },
          "price": {
           "discountRate": null,
           "oldPrice": null,
