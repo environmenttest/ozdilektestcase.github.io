@@ -162,7 +162,7 @@
           "formattedValue": "44,95 TL",
           "isPriceRange": false
         },
-        "isQuantityPickerVisible": false,
+        "isQuantityPickerVisible": true,
         "quantityPickerProperties": {
           "minimumQuantity": 1,
           "maxQuantity": 100,
