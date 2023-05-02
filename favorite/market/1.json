@@ -1,1 +1,186 @@
-
+{
+  "code": 200,
+  "message": null,
+  "data": {
+    "products": [
+      {
+        "productId": "10005608",
+        "name": "Muz Yerli Kg.",
+        "images": [
+          "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjE5MDgzfGltYWdlL2pwZWd8aDQ5L2g5ZS85ODMxODc3NTQxOTE4fGRmMTU2ZDJhOGRhMDZlYTEyN2QwZGEzNzhjZjhkOGNmZTIwZDE4NTZmOTVkMzU5NjU4ZmM0NjJmYjcyMGVhYWM"
+        ],
+        "rating": {
+          "average": 4.1,
+          "count": 15
+        },
+        "price": {
+          "discountRate": null,
+          "oldPrice": null,
+          "currentPriceWholeNumber": "25",
+          "separator": ",",
+          "currentPriceDecimalNUmber": "95",
+          "currency": "TL",
+          "value": 25.95,
+          "firebaseCurrency": "TRY",
+          "formattedValue": "25,95 TL",
+          "isPriceRange": false
+        },
+        "isQuantityPickerVisible": true,
+        "quantityPickerProperties": {
+          "minimumQuantity": 100,
+          "maxQuantity": 100000,
+          "defaultQuantity": 1000,
+          "incrementValue": 100,
+          "unit": {
+            "type": "KG",
+            "text": "kg"
+          }
+        },
+        "colorCount": null,
+        "promotions": [
+          "Aynı Gün Kargo"
+        ],
+        "categories": [
+          "Meyve & Sebze",
+          "Meyve",
+          "Meyve"
+        ],
+        "variantProperty": null,
+        "isOutOfStock": true,
+        "shareUrl": "https://jsapps.c0fvjcwqut-ozdilekal1-s1-public.model-t.cc.commerce.ondemand.com/market/muz-yerli-kg/"
+      },
+      {
+        "productId": "10005604",
+        "name": "Hindistan Cevizi Adet",
+        "images": [
+          "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Mjc1OTQxfGltYWdlL2pwZWd8aDU4L2gzZi85ODMxODg3OTYyMTQyfDY4YTFhNDE3YTI4MmFiODI3NTJiNWM1OWFhNzY3MTA0MDc0ODJmNTk3MThjOTk2Njc0Yzc2OWU3YWYwMjg4Yzc"
+        ],
+        "rating": {
+          "average": 5.0,
+          "count": 2
+        },
+       "price": {
+          "discountRate": null,
+          "oldPrice": null,
+          "currentPriceWholeNumber": "25",
+          "separator": ",",
+          "currentPriceDecimalNUmber": "95",
+          "currency": "TL",
+          "value": 25.95,
+          "firebaseCurrency": "TRY",
+          "formattedValue": "25,95 TL",
+          "isPriceRange": false
+        },
+        "isQuantityPickerVisible": true,
+        "quantityPickerProperties": {
+          "minimumQuantity": 1,
+          "maxQuantity": 100,
+          "defaultQuantity": 1,
+          "incrementValue": 1,
+          "unit": {
+            "type": "AD",
+            "text": "Adet"
+          }
+        },
+        "colorCount": null,
+        "promotions": [
+          "Sepette %20 indirim"
+        ],
+         "categories": [
+          "Meyve & Sebze",
+          "Meyve",
+          "Meyve"
+        ],
+        "variantProperty": null,
+        "isOutOfStock": false,
+        "shareUrl": "https://jsapps.c0fvjcwqut-ozdilekal1-s1-public.model-t.cc.commerce.ondemand.com/market/hindistan-cevizi-adet/"
+      },
+      {
+        "productId": 10005661,
+        "name": "Limon Kg.",
+        "images": [
+          "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjAzMTM1fGltYWdlL2pwZWd8aGRkL2hmZS85ODMxODc2NzU1NDg2fDIxNWNmNWU4MTFkYTc2ZWI3N2E2YzlhNzRkYWM0YTdlOGI4Nzk3NDc4OWYzZjNiZmQxNzliYThlMDQ4NGI4ODc"
+        ],
+        "rating": {
+          "average": 2.5,
+          "count": 15
+        },
+        "price": {
+          "discountRate": null,
+          "oldPrice": null,
+          "currentPriceWholeNumber": "18",
+          "separator": ",",
+          "currentPriceDecimalNUmber": "99",
+          "currency": "TL",
+          "value": 18.99,
+          "firebaseCurrency": "TRY",
+          "formattedValue": "18,99 TL",
+          "isPriceRange": false
+        },
+        "isQuantityPickerVisible": true,
+       "quantityPickerProperties": {
+          "minimumQuantity": 100,
+          "maxQuantity": 100000,
+          "defaultQuantity": 1000,
+          "incrementValue": 100,
+          "unit": {
+            "type": "KG",
+            "text": "kg"
+          }
+        },
+        "colorCount": null,
+        "promotions": null,
+        "categories": [
+          "Meyve & Sebze",
+          "Meyve",
+          "Meyve"
+        ],
+        "variantProperty": null,
+        "isOutOfStock": false
+      },
+      {
+        "productId": "12219472",
+        "name": "Ananas Adet",
+        "images": [
+          "https://img-ozdilekteyim-s1.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQwMTQ0MHxpbWFnZS9qcGVnfGhiOS9oYzYvOTQ5NzY5MzUxOTkwMnxjNDg4YzRkMjFmZGVhYjc1NmJlMjU4NGRjZGY1NmM3YjcyZGRiZWUxZjY3YjMwYzRiMTEzYjk0YTVmYWUyNDdi"
+        ],
+        "rating": null,
+         "price": {
+          "discountRate": null,
+          "oldPrice": null,
+          "currentPriceWholeNumber": "44",
+          "separator": ",",
+          "currentPriceDecimalNUmber": "95",
+          "currency": "TL",
+          "value": 44.95,
+          "firebaseCurrency": "TRY",
+          "formattedValue": "44,95 TL",
+          "isPriceRange": false
+        },
+        "isQuantityPickerVisible": false,
+        "quantityPickerProperties": {
+          "minimumQuantity": 1,
+          "maxQuantity": 100,
+          "defaultQuantity": 1,
+          "incrementValue": 1,
+          "unit": {
+            "type": "AD",
+            "text": "Adet"
+          }
+        },
+        "colorCount": null,
+        "promotions": [
+          "1 alana 1 bedava"
+        ],
+        "categories": [
+          "Meyve & Sebze",
+          "Meyve",
+          "Meyve"
+        ],
+        "variantProperty": null,
+        "isOutOfStock": false,
+        "shareUrl": "https://jsapps.c0fvjcwqut-ozdilekal1-s1-public.model-t.cc.commerce.ondemand.com/market/ananas-adet2/"
+      }
+    ]
+  }
+}
