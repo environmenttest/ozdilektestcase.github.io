@@ -1,141 +1,145 @@
 {
-  "productId": "12906511",
-  "name": "Marianna Organik Porselen Yemek Takımı 24 Parça Krem",
-  "images": [
-    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHBy",
-    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHBy",
-    "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHBy"
-  ],
-  "quantityPickerProperties": {
-    "minimumQuantity": 1,
-    "maxQuantity": 6,
-    "defaultQuantity": 1,
-    "incrementValue": 1,
-    "unit": {
-      "type": "AD",
-      "text": "adet"
-    }
-  },
-  "sizeChartUrl": "https://jsapps.c0fvjcwqut-ozdilekal1-s1-public.model-t.cc.commerce.ondemand.com/magaza/beden-tablosu",
-  "attribute": [
-    {
-      "attributeTitle": "Renk",
+  "code": 200,
+  "message": null,
+  "data": {
+    "productId": "12906511",
+    "name": "Marianna Organik Porselen Yemek Takımı 24 Parça Krem",
+    "images": [
+      "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHBy",
+      "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHBy",
+      "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHBy"
+    ],
+    "quantityPickerProperties": {
+      "minimumQuantity": 1,
+      "maxQuantity": 6,
+      "defaultQuantity": 1,
+      "incrementValue": 1,
+      "unit": {
+        "type": "AD",
+        "text": "adet"
+      }
+    },
+    "sizeChartUrl": "https://jsapps.c0fvjcwqut-ozdilekal1-s1-public.model-t.cc.commerce.ondemand.com/magaza/beden-tablosu",
+    "attribute": [
+      {
+        "attributeTitle": "Renk",
+        "items": [
+          {
+            "id": "13158337",
+            "value": "LACIVERT",
+            "selected": true,
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzI1NTEyfGltYWdlL2pwZWd8aDMxL2hjNy85ODQxOTE4Mzc4MDE0fDIzOGY1MTY5MTNkZTkyYmE2YjBlZWYzODYxOTcwY2ZkMjk1NDY2ZWIwZDMzNzIwZGRiMzQzNDlhYTRiMjYzM2E"
+          },
+          {
+            "id": "13158338",
+            "value": "SİYAH",
+            "selected": false,
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzI1NTEyfGltYWdlL2pwZWd8aDMxL2hjNy85ODQxOTE4Mzc4MDE0fDIzOGY1MTY5MTNkZTkyYmE2YjBlZWYzODYxOTcwY2ZkMjk1NDY2ZWIwZDMzNzIwZGRiMzQzNDlhYTRiMjYzM2E"
+          },
+          {
+            "id": "13158339",
+            "value": "KIRMIZI",
+            "selected": false,
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzI1NTEyfGltYWdlL2pwZWd8aDMxL2hjNy85ODQxOTE4Mzc4MDE0fDIzOGY1MTY5MTNkZTkyYmE2YjBlZWYzODYxOTcwY2ZkMjk1NDY2ZWIwZDMzNzIwZGRiMzQzNDlhYTRiMjYzM2E"
+          }
+        ]
+      }
+    ],
+    "variant": {
+      "variantTitle": "Beden",
+      "variantId": "13158337",
       "items": [
         {
           "id": "13158337",
-          "value": "LACIVERT",
-          "selected": true,
-          "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzI1NTEyfGltYWdlL2pwZWd8aDMxL2hjNy85ODQxOTE4Mzc4MDE0fDIzOGY1MTY5MTNkZTkyYmE2YjBlZWYzODYxOTcwY2ZkMjk1NDY2ZWIwZDMzNzIwZGRiMzQzNDlhYTRiMjYzM2E"
+          "value": "XS",
+          "isInStock": true,
+          "warning": "Son 1 Ürün",
+          "price": {
+            "discountRate": null,
+            "oldPrice": null,
+            "currentPriceWholeNumber": "899",
+            "separator": ",",
+            "currentPriceDecimalNUmber": "00",
+            "currency": "TL",
+            "value": 899.0,
+            "firebaseCurrency": "TRY",
+            "formattedValue": "899,00 TL",
+            "isPriceRange": false
+          }
         },
         {
           "id": "13158338",
-          "value": "SİYAH",
-          "selected": false,
-          "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzI1NTEyfGltYWdlL2pwZWd8aDMxL2hjNy85ODQxOTE4Mzc4MDE0fDIzOGY1MTY5MTNkZTkyYmE2YjBlZWYzODYxOTcwY2ZkMjk1NDY2ZWIwZDMzNzIwZGRiMzQzNDlhYTRiMjYzM2E"
+          "value": "S",
+          "isInStock": true,
+          "price": {
+            "discountRate": null,
+            "oldPrice": null,
+            "currentPriceWholeNumber": "899",
+            "separator": ",",
+            "currentPriceDecimalNUmber": "00",
+            "currency": "TL",
+            "value": 899.0,
+            "firebaseCurrency": "TRY",
+            "formattedValue": "899,00 TL",
+            "isPriceRange": false
+          }
         },
         {
           "id": "13158339",
-          "value": "KIRMIZI",
-          "selected": false,
-          "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzI1NTEyfGltYWdlL2pwZWd8aDMxL2hjNy85ODQxOTE4Mzc4MDE0fDIzOGY1MTY5MTNkZTkyYmE2YjBlZWYzODYxOTcwY2ZkMjk1NDY2ZWIwZDMzNzIwZGRiMzQzNDlhYTRiMjYzM2E"
+          "value": "M",
+          "isInStock": true,
+          "warning": "Son 3 Ürün",
+          "price": {
+            "discountRate": null,
+            "oldPrice": null,
+            "currentPriceWholeNumber": "899",
+            "separator": ",",
+            "currentPriceDecimalNUmber": "00",
+            "currency": "TL",
+            "value": 899.0,
+            "firebaseCurrency": "TRY",
+            "formattedValue": "899,00 TL",
+            "isPriceRange": false
+          }
         }
       ]
-    }
-  ],
-  "variant": {
-    "variantTitle": "Beden",
-    "variantId": "13158337",
-    "items": [
+    },
+    "promotionList": [
       {
-        "id": "13158337",
-        "value": "XS",
-        "isInStock": true,
-        "warning": "Son 1 Ürün",
-        "price": {
-          "discountRate": null,
-          "oldPrice": null,
-          "currentPriceWholeNumber": "899",
-          "separator": ",",
-          "currentPriceDecimalNUmber": "00",
-          "currency": "TL",
-          "value": 899.0,
-          "firebaseCurrency": "TRY",
-          "formattedValue": "899,00 TL",
-          "isPriceRange": false
-        }
-      },
-      {
-        "id": "13158338",
-        "value": "S",
-        "isInStock": true,
-        "price": {
-          "discountRate": null,
-          "oldPrice": null,
-          "currentPriceWholeNumber": "899",
-          "separator": ",",
-          "currentPriceDecimalNUmber": "00",
-          "currency": "TL",
-          "value": 899.0,
-          "firebaseCurrency": "TRY",
-          "formattedValue": "899,00 TL",
-          "isPriceRange": false
-        }
-      },
-      {
-        "id": "13158339",
-        "value": "M",
-        "isInStock": true,
-        "warning": "Son 3 Ürün",
-        "price": {
-          "discountRate": null,
-          "oldPrice": null,
-          "currentPriceWholeNumber": "899",
-          "separator": ",",
-          "currentPriceDecimalNUmber": "00",
-          "currency": "TL",
-          "value": 899.0,
-          "firebaseCurrency": "TRY",
-          "formattedValue": "899,00 TL",
-          "isPriceRange": false
-        }
+        "name": "600 TL'ye 150 TL indirim",
+        "deeplink": "ozd:/magaza-magaza-store/campaings/indirim"
       }
-    ]
-  },
-  "promotionList": [
-    {
-      "name": "600 TL'ye 150 TL indirim",
-      "deeplink": "ozd:/magaza-magaza-store/campaings/indirim"
-    }
-  ],
-  "brand": {
-    "name": "Lufian",
-    "deeplink": "ozd:/magaza-magaza-store/brand/lufian-brand"
-  },
-  "rating": {
-    "average": 0.0,
-    "count": 0
-  },
-  "price": {
-    "discountRate": null,
-    "oldPrice": null,
-    "currentPriceWholeNumber": "899",
-    "separator": ",",
-    "currentPriceDecimalNUmber": "00",
-    "currency": "TL",
-    "value": 899.0,
-    "firebaseCurrency": "TRY",
-    "formattedValue": "899,00 TL",
-    "isPriceRange": false
-  },
-  "isQuantityPickerVisible": false,
-  "promotions": null,
-  "categories": [
-    "Ev & Yaşam",
-    "Ev Dekorasyon - Mutfak",
-    "Ev ve Mutfak Gereçleri",
-    "Yemek Takımları"
-  ],
-  "outOfStock": "false",
-  "isPickUpEnable": "true",
-  "isDonateEnable": "false"
+    ],
+    "brand": {
+      "name": "Lufian",
+      "deeplink": "ozd:/magaza-magaza-store/brand/lufian-brand"
+    },
+    "rating": {
+      "average": 0.0,
+      "count": 0
+    },
+    "price": {
+      "discountRate": null,
+      "oldPrice": null,
+      "currentPriceWholeNumber": "899",
+      "separator": ",",
+      "currentPriceDecimalNUmber": "00",
+      "currency": "TL",
+      "value": 899.0,
+      "firebaseCurrency": "TRY",
+      "formattedValue": "899,00 TL",
+      "isPriceRange": false
+    },
+    "isQuantityPickerVisible": false,
+    "promotions": null,
+    "categories": [
+      "Ev & Yaşam",
+      "Ev Dekorasyon - Mutfak",
+      "Ev ve Mutfak Gereçleri",
+      "Yemek Takımları"
+    ],
+    "outOfStock": "false",
+    "isPickUpEnable": "true",
+    "isDonateEnable": "false"
+  }
 }
