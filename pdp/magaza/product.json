@@ -111,8 +111,8 @@
       }
     ],
     "brand": {
-      "name": "Lufian",
-      "deeplink": "ozd:/magaza-magaza-store/brand/lufian-brand"
+      "name": "Özdilek",
+      "key": "Özdilek"
     },
     "rating": {
       "average": 0.0,
