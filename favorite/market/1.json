@@ -60,9 +60,8 @@
           "average": 5.0,
           "count": 2
         },
-       "price": {
-          "discountRate": null,
-          "oldPrice": null,
+        "price": {
+          "promotionPrice": "22,50 TL",
           "currentPriceWholeNumber": "25",
           "separator": ",",
           "currentPriceDecimalNUmber": "95",
@@ -87,14 +86,15 @@
         "promotions": [
           "Sepette %20 indirim"
         ],
-         "categories": [
+        "categories": [
           "Meyve & Sebze",
           "Meyve",
           "Meyve"
         ],
         "variantProperty": null,
         "isOutOfStock": false,
-        "shareUrl": "https://jsapps.c0fvjcwqut-ozdilekal1-s1-public.model-t.cc.commerce.ondemand.com/market/hindistan-cevizi-adet/"
+        "shareUrl": "https://jsapps.c0fvjcwqut-ozdilekal1-s1-public.model-t.cc.commerce.ondemand.com/market/hindistan-cevizi-adet/",
+        "pricePromotionText": "Sepette %10 İndirim"
       },
       {
         "productId": 10005661,
@@ -119,7 +119,7 @@
           "isPriceRange": false
         },
         "isQuantityPickerVisible": true,
-       "quantityPickerProperties": {
+        "quantityPickerProperties": {
           "minimumQuantity": 100,
           "maxQuantity": 100000,
           "defaultQuantity": 1000,
@@ -150,7 +150,7 @@
           "average": 2.5,
           "count": 15
         },
-         "price": {
+        "price": {
           "discountRate": null,
           "oldPrice": null,
           "currentPriceWholeNumber": "44",
