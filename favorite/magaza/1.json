@@ -71,8 +71,7 @@
           "count": 0
         },
         "price": {
-          "discountRate": null,
-          "oldPrice": null,
+          "promotionPrice": "880,00 TL",
           "currentPriceWholeNumber": "990",
           "separator": ",",
           "currentPriceDecimalNUmber": "00",
@@ -114,7 +113,8 @@
           }
         ],
         "isOutOfStock": false,
-        "shareUrl": "https://ozdilekteyim.com/magaza/loft-erkek-gomlek-lf2010395-prs-p-11849403/"
+        "shareUrl": "https://ozdilekteyim.com/magaza/loft-erkek-gomlek-lf2010395-prs-p-11849403/",
+        "pricePromotionText": "Sepette %10 İndirim"
       },
       {
         "productId": 13191023,
