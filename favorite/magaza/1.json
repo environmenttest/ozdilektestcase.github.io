@@ -93,7 +93,9 @@
           }
         },
         "colorCount": "1",
-        "promotions": null,
+        "promotions": [
+          "Aynı Gün Kargo"
+        ],
         "categories": [
           "Ev Tekstili",
           "Yatak Odası Tekstili",
