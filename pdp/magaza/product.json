@@ -2,105 +2,177 @@
   "code": 200,
   "message": null,
   "data": {
-    "productId": "12906511",
-    "name": "Marianna Organik Porselen Yemek Takımı 24 Parça Krem",
+    "productId": "13185395",
+    "name": "Shefame Kadın Pantolon 2314BK104120",
     "images": [
-      "https://img-ozdilekteyim.mncdn.com/mnresize/800/800/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8OTAyNjI2fGltYWdlL2pwZWd8aGI3L2g2Mi85ODkzODMxMDQ5MjQ2fDYyZDFiNGUzMGM4Mzc3ZDM3Y2U3OTMyNjBjNzZmOGJhNTUzNTkyMTU2NWQ0ODc4MTliMDc5ODgzZGY1MmFkZjc",
-      "https://img-ozdilekteyim.mncdn.com/mnresize/800/800/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8ODgzOTM2fGltYWdlL2pwZWd8aDU3L2g3MC85ODkzODMxNDQyNDYyfDNhMWEwMTY3YWRmNDUzNjZmMmNkZGJiZWMyMDc4ZjMwYTRkNmU2MTRmYTI1ZGRkYTEwMmI3ODdiYmRkNGNmZjU",
-      "https://img-ozdilekteyim.mncdn.com/mnresize/800/800/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTU0ODU1NnxpbWFnZS9qcGVnfGgyNS9oN2EvOTg5MzgzMTcwNDYwNnwxMzdiNTAwZjRjZTUwMDczYzJiZjlmNTRmMzZmOWFiMWI3ZThlN2YyZWZlM2I5NjAyNzQxZjJjZDdmN2U5YWU0"
+      "https://img-ozdilekteyim-s1.mncdn.com/mnresize/515/515/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzNjU5fGltYWdlL2pwZWd8aDYwL2hmYS85ODY3MDU2MjE4MTQyfGZhMmQzNTY5MTVjZjU3OWY4YTJkNTYxN2FlNmY4OTMxYzZiMjk0OWMzYWIyOWQ3NzlmMzJiOThlNDM0NGQ3ODE",
+      "https://img-ozdilekteyim-s1.mncdn.com/mnresize/515/515/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTI5OTM3fGltYWdlL2pwZWd8aDEwL2hmYi85ODY3MDU2NTQ1ODIyfGM0ODZkY2VhYzhjZDlhNjU0Yjg5ZTg0ZDgwOTk4ZjA5ZWViM2RkNDRiZDcyNGY2MDU3MWQwYjAwYzgwYjMzYmI",
+      "https://img-ozdilekteyim-s1.mncdn.com/mnresize/515/515/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTE3NDQ0fGltYWdlL2pwZWd8aDQyL2hmMS85ODY3MDU2ODA3OTY2fGNiNTU2ODg3YmNmYWMxZTRjZDBlMTc4NjMwNGIxNDgxODg3NDM2OWM0ZTEzYmMyMmI3ZWYwYTVlZWRiYWFiZWE",
+      "https://img-ozdilekteyim-s1.mncdn.com/mnresize/515/515/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEyOTIxfGltYWdlL2pwZWd8aDA0L2hhMi85ODY3MDU3MDcwMTEwfDIxYjk1OTIxZDVmYjNiMWRhMjkwZGNlNjU2NDc2ZGVlOTBlMDcyMzBlMzE1MTZiNDY4MjY1NjcwYmYzZWJlZTE"
     ],
     "quantityPickerProperties": {
       "minimumQuantity": 1,
-      "maxQuantity": 6,
+      "maxQuantity": 100,
       "defaultQuantity": 1,
       "incrementValue": 1,
       "unit": {
         "type": "AD",
-        "text": "adet"
+        "text": "Adet"
       }
     },
     "sizeChartUrl": "https://jsapps.c0fvjcwqut-ozdilekal1-s1-public.model-t.cc.commerce.ondemand.com/magaza/beden-tablosu",
-    "attribute": [
-      {
-        "attributeTitle": "Renk",
-        "items": [
-          {
-            "id": "13158337",
-            "value": "LACIVERT",
-            "selected": true,
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzI1NTEyfGltYWdlL2pwZWd8aDMxL2hjNy85ODQxOTE4Mzc4MDE0fDIzOGY1MTY5MTNkZTkyYmE2YjBlZWYzODYxOTcwY2ZkMjk1NDY2ZWIwZDMzNzIwZGRiMzQzNDlhYTRiMjYzM2E"
-          },
-          {
-            "id": "13158338",
-            "value": "SİYAH",
-            "selected": false,
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzI1NTEyfGltYWdlL2pwZWd8aDMxL2hjNy85ODQxOTE4Mzc4MDE0fDIzOGY1MTY5MTNkZTkyYmE2YjBlZWYzODYxOTcwY2ZkMjk1NDY2ZWIwZDMzNzIwZGRiMzQzNDlhYTRiMjYzM2E"
-          },
-          {
-            "id": "13158339",
-            "value": "KIRMIZI",
-            "selected": false,
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzI1NTEyfGltYWdlL2pwZWd8aDMxL2hjNy85ODQxOTE4Mzc4MDE0fDIzOGY1MTY5MTNkZTkyYmE2YjBlZWYzODYxOTcwY2ZkMjk1NDY2ZWIwZDMzNzIwZGRiMzQzNDlhYTRiMjYzM2E"
-          }
-        ]
-      }
-    ],
-    "variant": {
-      "variantTitle": "Beden",
-      "variantId": "13158337",
-      "items": [
+    "productOptions": {
+      "title": "Renk",
+      "options": [
         {
-          "id": "13158337",
-          "value": "XS",
-          "isInStock": true,
-          "warning": "Son 1 Ürün",
-          "price": {
-            "discountRate": null,
-            "oldPrice": null,
-            "currentPriceWholeNumber": "899",
-            "separator": ",",
-            "currentPriceDecimalNUmber": "00",
-            "currency": "TL",
-            "value": 899.0,
-            "firebaseCurrency": "TRY",
-            "formattedValue": "899,00 TL",
-            "isPriceRange": false
+          "code": "PR-2314BK1041200292500042BEYAZ",
+          "value": "BEYAZ",
+          "isSelected": true,
+          "thumbnail": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzI1NTEyfGltYWdlL2pwZWd8aDMxL2hjNy85ODQxOTE4Mzc4MDE0fDIzOGY1MTY5MTNkZTkyYmE2YjBlZWYzODYxOTcwY2ZkMjk1NDY2ZWIwZDMzNzIwZGRiMzQzNDlhYTRiMjYzM2E",
+          "sizeOptions": {
+            "title": "Beden",
+            "options": [
+              {
+                "code": "13185395",
+                "value": "M",
+                "stock": 1,
+                "isSelected": true,
+                "warning": "Son 1 Ürün",
+                "isInStock": true,
+                "price": {
+                  "currentPriceWholeNumber": "249",
+                  "separator": ",",
+                  "currentPriceDecimalNUmber": "99",
+                  "currency": "TL",
+                  "value": 249.99,
+                  "firebaseCurrency": "TRY",
+                  "formattedValue": "249,99 TL",
+                  "isPriceRange": false
+                },
+                "availablePickup":true
+              },
+
+              {
+                "code": "13185396",
+                "value": "L",
+                "stock": 2,
+                "isSelected": false,
+                "warning": "Son 2 Ürün",
+                "isInStock": true,
+                "price": {
+                  "currentPriceWholeNumber": "249",
+                  "separator": ",",
+                  "currentPriceDecimalNUmber": "99",
+                  "currency": "TL",
+                  "value": 249.99,
+                  "firebaseCurrency": "TRY",
+                  "formattedValue": "249,99 TL",
+                  "isPriceRange": false
+                },
+                "availablePickup":true
+              },
+
+              {
+                "code": "13185397",
+                "value": "XL",
+                "stock": 0,
+                "isSelected": false,
+                "warning": null,
+                "isInStock": false,
+                "price": {
+                  "currentPriceWholeNumber": "249",
+                  "separator": ",",
+                  "currentPriceDecimalNUmber": "99",
+                  "currency": "TL",
+                  "value": 249.99,
+                  "firebaseCurrency": "TRY",
+                  "formattedValue": "249,99 TL",
+                  "isPriceRange": false
+                },
+                "availablePickup":true
+              },
+              {
+                "code": "13185398",
+                "value": "2XL",
+                "stock": 5,
+                "isSelected": false,
+                "warning": null,
+                "isInStock": true,
+                "price": {
+                  "currentPriceWholeNumber": "249",
+                  "separator": ",",
+                  "currentPriceDecimalNUmber": "99",
+                  "currency": "TL",
+                  "value": 249.99,
+                  "firebaseCurrency": "TRY",
+                  "formattedValue": "249,99 TL",
+                  "isPriceRange": false
+                },
+                "availablePickup":true
+              },
+              {
+                "code": "13185399",
+                "value": "3XL",
+                "stock": 155,
+                "isSelected": false,
+                "warning": null,
+                "isInStock": true,
+                "price": {
+                  "currentPriceWholeNumber": "249",
+                  "separator": ",",
+                  "currentPriceDecimalNUmber": "99",
+                  "currency": "TL",
+                  "value": 249.99,
+                  "firebaseCurrency": "TRY",
+                  "formattedValue": "249,99 TL",
+                  "isPriceRange": false
+                },
+                "availablePickup":true
+              }
+            ]
           }
         },
         {
-          "id": "13158338",
-          "value": "S",
-          "isInStock": true,
-          "price": {
-            "discountRate": null,
-            "oldPrice": null,
-            "currentPriceWholeNumber": "899",
-            "separator": ",",
-            "currentPriceDecimalNUmber": "00",
-            "currency": "TL",
-            "value": 899.0,
-            "firebaseCurrency": "TRY",
-            "formattedValue": "899,00 TL",
-            "isPriceRange": false
-          }
+          "code": "PR-2314BK1041200292500042GRI",
+          "value": "GRİ",
+          "isSelected": false,
+          "thumbnail": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ1ODUxfGltYWdlL2pwZWd8aDIxL2gyNy85ODY3MDU4NTc3NDM4fGRmYWQ2Nzk0ZGVlOTliMzkxODJjMTQ5NWFhNmEzZTJhZmRiN2FlM2Q0YmIzYjYzM2YyYmU3NjljYTMxZjQxYjM",
+          "sizeOptions": null
         },
         {
-          "id": "13158339",
-          "value": "M",
-          "isInStock": true,
-          "warning": "Son 3 Ürün",
-          "price": {
-            "discountRate": null,
-            "oldPrice": null,
-            "currentPriceWholeNumber": "899",
-            "separator": ",",
-            "currentPriceDecimalNUmber": "00",
-            "currency": "TL",
-            "value": 899.0,
-            "firebaseCurrency": "TRY",
-            "formattedValue": "899,00 TL",
-            "isPriceRange": false
-          }
+          "code": "PR-2314BK1041200292500042HAKI",
+          "value": "HAKİ",
+          "isSelected": false,
+          "thumbnail": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTM5ODA0fGltYWdlL2pwZWd8aDQ3L2g0Ni85ODY3MDU5NjkxNTUwfDI2MGRmMDA4MmI4NWE1MDk0YzdiN2VlZjU4ZDY1ODUyODhmZGQ4ZGI2MjFkOTE1YWIwMjkyNjU0MjIyZGZkYTk",
+          "sizeOptions": null
+        },
+        {
+          "code": "PR-2314BK1041200292500042LACIVERT",
+          "value": "LACİVERT",
+          "isSelected": false,
+          "thumbnail": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTI5MDgxfGltYWdlL2pwZWd8aGRhL2g5My85ODY3MDU1MzAwNjM4fGY4M2UyZmMwMGIwYjI5YjNjMzAxZjhjNWUzYTVmMTdkMzQzNDQwZTYzOGE0ZTQxYmFhMjNhZjBmNjBmZjE4NmU",
+          "sizeOptions": null
+        },
+        {
+          "code": "PR-2314BK1041200292500042MAVI",
+          "value": "MAVİ",
+          "isSelected": false,
+          "thumbnail": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ0NzM1fGltYWdlL2pwZWd8aDRhL2g5Zi85ODY3MDYwNzQwMTI2fDkzMWY3NDNmYTRjNGUzNzZiMTk4OTgyNDk2YzE5NTRmZmE1MTg3MGIwZTc0ODBhNDI3ZDFiYTQ5MjQ5YTQ4MjI",
+          "sizeOptions": null
+        },
+        {
+          "code": "PR-2314BK1041200292500042SIYAH",
+          "value": "SİYAH",
+          "isSelected": false,
+          "thumbnail": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTM3OTEyfGltYWdlL2pwZWd8aDMyL2gyNy85ODY3MDU0MjUyMDYyfGU0MzYxN2I1ODg4ZTJhOGQyM2YwM2IxNzcyMGU2OWQyZjJhOTY2OGM3ODdmZTEwZjI3ZDBiODNmNzFkYmFlZmE",
+          "sizeOptions": null
+        },
+        {
+          "code": "PR-2314BK1041200292500042VIZON",
+          "value": "VİZON",
+          "isSelected": false,
+          "thumbnail": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/96/96/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTE5NjYzfGltYWdlL2pwZWd8aDc3L2g5NC85ODY3MDU3NDYzMzI2fGU1YWZkZmY3MDE5YzdhYTU0OTZkOTkxNjA0MDVlZWI3NDY5MTEzM2YyN2FhYzNmYmFkNDgyZDcyMTM0NzViOWE",
+          "sizeOptions": null
         }
       ]
     },
@@ -117,18 +189,6 @@
     "rating": {
       "average": 4.5,
       "count": 9
-    },
-    "price": {
-      "discountRate": null,
-      "oldPrice": null,
-      "currentPriceWholeNumber": "899",
-      "separator": ",",
-      "currentPriceDecimalNUmber": "00",
-      "currency": "TL",
-      "value": 899.0,
-      "firebaseCurrency": "TRY",
-      "formattedValue": "899,00 TL",
-      "isPriceRange": false
     },
     "isQuantityPickerVisible": false,
     "promotions": null,
