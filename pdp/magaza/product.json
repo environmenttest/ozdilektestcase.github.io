@@ -49,9 +49,8 @@
                   "formattedValue": "249,99 TL",
                   "isPriceRange": false
                 },
-                "availablePickup":true
+                "availablePickup": true
               },
-
               {
                 "code": "13185396",
                 "value": "L",
@@ -69,9 +68,8 @@
                   "formattedValue": "249,99 TL",
                   "isPriceRange": false
                 },
-                "availablePickup":true
+                "availablePickup": true
               },
-
               {
                 "code": "13185397",
                 "value": "XL",
@@ -89,7 +87,7 @@
                   "formattedValue": "249,99 TL",
                   "isPriceRange": false
                 },
-                "availablePickup":true
+                "availablePickup": true
               },
               {
                 "code": "13185398",
@@ -108,7 +106,7 @@
                   "formattedValue": "249,99 TL",
                   "isPriceRange": false
                 },
-                "availablePickup":true
+                "availablePickup": true
               },
               {
                 "code": "13185399",
@@ -127,7 +125,7 @@
                   "formattedValue": "249,99 TL",
                   "isPriceRange": false
                 },
-                "availablePickup":true
+                "availablePickup": true
               }
             ]
           }
@@ -192,14 +190,31 @@
     },
     "isQuantityPickerVisible": false,
     "promotions": null,
-    "categories": [
-      "Ev & Yaşam",
-      "Ev Dekorasyon - Mutfak",
-      "Ev ve Mutfak Gereçleri",
-      "Yemek Takımları"
-    ],
     "outOfStock": "false",
     "isPickUpEnable": "true",
-    "isDonateEnable": "false"
+    "isDonateEnable": "false",
+    "categories": [
+      "Kadın",
+      "Giyim",
+      "Pantolon"
+    ],
+    "relatedCategories": [
+      {
+        "name":"Shefame",
+        "deeplink":"ozd://magaza-magaza-store/listing/brand/Shefame"
+      },
+      {
+        "name":"Pantolon",
+        "deeplink":"ozd://magaza-magaza-store/listing/category/Mgz-kadin-giyim-pantolon"
+      },
+      {
+        "name":"Giyim",
+        "deeplink":"ozd://magaza-magaza-store/listing/category/Mgz-kadin-giyim"
+      },
+      {
+        "name":"Kadın",
+        "deeplink":"ozd://magaza-magaza-store/listing/category/Mgz-kadin"
+      }
+    ]
   }
 }
