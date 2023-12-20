@@ -198,7 +198,7 @@
       "Giyim",
       "Pantolon"
     ],
-    "relatedCategories": [
+    "breadCrumbs": [
       {
         "name":"Shefame",
         "deeplink":"ozd://magaza-magaza-store/listing/brand/Shefame"
