@@ -200,22 +200,32 @@
     ],
     "breadCrumbs": [
       {
-        "name":"Shefame",
-        "deeplink":"ozd://magaza-magaza-store/listing/brand/Shefame"
+        "name": "Shefame",
+        "deeplink": "ozd://magaza-magaza-store/listing/brand/Shefame"
       },
       {
-        "name":"Pantolon",
-        "deeplink":"ozd://magaza-magaza-store/listing/category/Mgz-kadin-giyim-pantolon"
+        "name": "Pantolon",
+        "deeplink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin-giyim-pantolon"
       },
       {
-        "name":"Giyim",
-        "deeplink":"ozd://magaza-magaza-store/listing/category/Mgz-kadin-giyim"
+        "name": "Giyim",
+        "deeplink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin-giyim"
       },
       {
-        "name":"Kadın",
-        "deeplink":"ozd://magaza-magaza-store/listing/category/Mgz-kadin"
+        "name": "Kadın",
+        "deeplink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin"
       }
     ],
-    "videoUrl":"https://github.com/environmenttest/ozdilektestcase.github.io/raw/main/pdp/magaza/Shefame-13185395.mp4"
+    "videoUrl": "https://github.com/environmenttest/ozdilektestcase.github.io/raw/main/pdp/magaza/Shefame-13185395.mp4",
+    "additionalAttributes": [
+      {
+        "name": "Cinsiyet",
+        "value": "Erkek"
+      },
+      {
+        "name": "Kumaş",
+        "value": "%100 Pamuk"
+      }
+    ]
   }
 }
