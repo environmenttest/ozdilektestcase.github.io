@@ -10,6 +10,32 @@
       "https://img-ozdilekteyim-s1.mncdn.com/mnresize/515/515/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTE3NDQ0fGltYWdlL2pwZWd8aDQyL2hmMS85ODY3MDU2ODA3OTY2fGNiNTU2ODg3YmNmYWMxZTRjZDBlMTc4NjMwNGIxNDgxODg3NDM2OWM0ZTEzYmMyMmI3ZWYwYTVlZWRiYWFiZWE",
       "https://img-ozdilekteyim-s1.mncdn.com/mnresize/515/515/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEyOTIxfGltYWdlL2pwZWd8aDA0L2hhMi85ODY3MDU3MDcwMTEwfDIxYjk1OTIxZDVmYjNiMWRhMjkwZGNlNjU2NDc2ZGVlOTBlMDcyMzBlMzE1MTZiNDY4MjY1NjcwYmYzZWJlZTE"
     ],
+     "additionalAttributes": [
+      {
+        "name": "Kumaş",
+        "value": "%100 Polyester"
+      },
+      {
+        "name": "Paça Tipi",
+        "value": "Geniş Paça"
+      },
+      {
+        "name": "Bel",
+        "value": "Normal Bel"
+      },
+      {
+        "name": "Boy",
+        "value": "Regular"
+      },
+      {
+        "name": "Kalıp",
+        "value": "Silim"
+      },
+      {
+        "name": "Cinsiyet",
+        "value": "Erkek"
+      }
+    ],
     "quantityPickerProperties": {
       "minimumQuantity": 1,
       "maxQuantity": 100,
@@ -216,16 +242,7 @@
         "deeplink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin"
       }
     ],
-    "videoUrl": "https://github.com/environmenttest/ozdilektestcase.github.io/raw/main/pdp/magaza/Shefame-13185395.mp4",
-    "additionalAttributes": [
-      {
-        "name": "Cinsiyet",
-        "value": "Erkek"
-      },
-      {
-        "name": "Kumaş",
-        "value": "%100 Pamuk"
-      }
-    ]
+    "videoUrl": "https://github.com/environmenttest/ozdilektestcase.github.io/raw/main/pdp/magaza/Shefame-13185395.mp4"
+   
   }
 }
