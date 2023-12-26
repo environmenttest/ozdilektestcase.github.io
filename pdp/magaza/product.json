@@ -10,7 +10,7 @@
       "https://img-ozdilekteyim-s1.mncdn.com/mnresize/515/515/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTE3NDQ0fGltYWdlL2pwZWd8aDQyL2hmMS85ODY3MDU2ODA3OTY2fGNiNTU2ODg3YmNmYWMxZTRjZDBlMTc4NjMwNGIxNDgxODg3NDM2OWM0ZTEzYmMyMmI3ZWYwYTVlZWRiYWFiZWE",
       "https://img-ozdilekteyim-s1.mncdn.com/mnresize/515/515/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEyOTIxfGltYWdlL2pwZWd8aDA0L2hhMi85ODY3MDU3MDcwMTEwfDIxYjk1OTIxZDVmYjNiMWRhMjkwZGNlNjU2NDc2ZGVlOTBlMDcyMzBlMzE1MTZiNDY4MjY1NjcwYmYzZWJlZTE"
     ],
-     "additionalAttributes": [
+    "additionalAttributes": [
       {
         "name": "Kumaş",
         "value": "%100 Polyester"
@@ -242,7 +242,24 @@
         "deeplink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin"
       }
     ],
-    "videoUrl": "https://github.com/environmenttest/ozdilektestcase.github.io/raw/main/pdp/magaza/Shefame-13185395.mp4"
-   
+    "videoUrl": "https://github.com/environmenttest/ozdilektestcase.github.io/raw/main/pdp/magaza/Shefame-13185395.mp4",
+    "reviews": [
+      {
+        "id": "8816900833329",
+        "reviewerName": "Hasan Basri Yılmaz",
+        "comment": "Güzel yumuşak ve esnek bir ürün bi tık dar oldu bana XL beden aldım ama rahatsız edici değil kalbınız genişse bi beden büyük tercih edebilirsiniz kargo çok hızlı geliyor ",
+        "reviewDate": "2023-12-22T14:11:24+0000",
+        "headline": "Güzel",
+        "rating": 5.0
+      },
+      {
+        "id": "8816573087793",
+        "reviewerName": "H*** Ö***",
+        "headline": "Kargolama süreci berbat ",
+        "comment": "Ürün güzel elimize ulaştı ama kargolama süreci çok kötüydü ve ürünler farklı illerden yollandı 6 parça ürün icin 4gun evde kargocuyu beklemeyle geçirdim. Burdan satın alın gidip magzadan teslim alın yoksa ömür törpüsü",
+        "reviewDate": "2023-12-04T13:53:50+0000",
+        "rating": 4.0
+      }
+    ]
   }
 }
