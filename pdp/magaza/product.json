@@ -245,18 +245,59 @@
     },
     "reviews": [
       {
-        "id": "8816900833329",
-        "reviewerName": "Hasan Basri Yılmaz",
+        "id": "8816900833321",
+        "reviewerName": "Test User",
+        "comment": "Kesinlikle kendi bedeninizi alın hatta küçükte alabilirsiniz baya esnek",
+        "reviewDate": "22 Aralık 2023",
+        "headline": "Güzel",
+        "rating": 5.0
+      },
+      {
+        "id": "8816900833321",
+        "reviewerName": "User Test",
+        "comment": "100 yıldız olsa yüzünü veririm ben hayatımda bu kadar uygun fiyata bu kadar güzel pantolon görmedim. Boyu uzun uzun boylular giyebilir ben kestireceğim esnek model çook rahat bi tane daha alıp stok yapıcam",
+        "reviewDate": "22 Aralık 2023",
+        "headline": "Stoklayın",
+        "rating": 5.0
+      },
+
+      {
+        "id": "8816573087792",
+        "reviewerName": "S*** B***",
+        "headline": "Güzel",
+        "comment": "Ürün güzel elimize ulaştı ama kargolama süreci çok kötüydü ve ürünler farklı illerden yollandı 6 parça ürün icin 4gun evde kargocuyu beklemeyle geçirdim. Burdan satın alın gidip magzadan teslim alın yoksa ömür törpüsü",
+        "reviewDate": "04 Aralık 2023",
+        "rating": 2.0
+      },
+      {
+        "id": "8816900833323",
+        "reviewerName": "H*** B*** Y***",
         "comment": "Güzel yumuşak ve esnek bir ürün bi tık dar oldu bana XL beden aldım ama rahatsız edici değil kalbınız genişse bi beden büyük tercih edebilirsiniz kargo çok hızlı geliyor ",
         "reviewDate": "22 Aralık 2023",
         "headline": "Güzel",
         "rating": 5.0
       },
       {
-        "id": "8816573087793",
+        "id": "8816900833324",
+        "reviewerName": "H*** B*** Y***",
+        "comment": "ürün elime ulaştı gercekten güzel bir ürün en küçük bedenini aldim ve beli tam oldu tam istediğim gibi sadece boyu uzun ama halledilebilir",
+        "reviewDate": "22 Aralık 2023",
+        "headline": "Güzel",
+        "rating": 5.0
+      },
+      {
+        "id": "8816573087795",
+        "reviewerName": "H*** Ö***",
+        "headline": "Kargolama süreci berbat",
+        "comment": "harika çok rahat stok yapınnn",
+        "reviewDate": "04 Aralık 2023",
+        "rating": 4.0
+      },
+      {
+        "id": "8816573087796",
         "reviewerName": "H*** Ö***",
         "headline": "Kargolama süreci berbat ",
-        "comment": "Ürün güzel elimize ulaştı ama kargolama süreci çok kötüydü ve ürünler farklı illerden yollandı 6 parça ürün icin 4gun evde kargocuyu beklemeyle geçirdim. Burdan satın alın gidip magzadan teslim alın yoksa ömür törpüsü",
+        "comment": "harika çok rahat stok yapınnn",
         "reviewDate": "04 Aralık 2023",
         "rating": 4.0
       }
