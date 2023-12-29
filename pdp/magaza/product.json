@@ -203,7 +203,7 @@
     "promotions": [
       {
         "icon": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/pdp/magaza/ic_campaign.png",
-        "text": "<span style=\"color: #fe6c0c;\"><strong>2000 TL</strong>'ye 300 TL indirim",
+        "text": "<span style=\"color: #fe6c0c;\"><strong>2000 TL</strong></span>'ye 300 TL indirim",
         "deeplink": "ozd://magaza-magaza-store/listing/category/Badge-evtekstili-tum-urunlere-kampanya"
       },
       {
