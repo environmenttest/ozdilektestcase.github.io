@@ -202,17 +202,17 @@
     },
     "promotions": [
       {
-        "icon": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/pdp/magaza/ic_campaign.png",
+        "icon": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/pdp/magaza/ic_campaign2.png",
         "text": "<span style=\"color: #fe6c0c;\"><strong>2000 TL</strong></span>'ye 300 TL indirim",
         "deeplink": "ozd://magaza-magaza-store/listing/category/Badge-evtekstili-tum-urunlere-kampanya"
       },
       {
-        "icon": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/pdp/magaza/ic_campaign.png",
-        "text": "Shefame ürünlerinde net %20 indirim ",
+        "icon": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/pdp/magaza/ic_campaign2.png",
+        "text": "Shefame ürünlerinde net <span style=\"color: #fe6c0c;\"><strong>%20</strong></span> indirim ",
         "deeplink": "ozd://magaza-magaza-store/listing/category/Badge-evtekstili-tum-urunlere-kampanya"
       },
       {
-        "icon": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/pdp/magaza/ic_free_delivery.png",
+        "icon": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/pdp/magaza/ic_free_delivery1.png",
         "text": "750 TL ve üzeri kargo bedava",
         "deeplink": null
       }
