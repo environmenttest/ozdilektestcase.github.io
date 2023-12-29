@@ -202,8 +202,19 @@
     },
     "promotionList": [
       {
-        "name": "600 TL'ye 150 TL indirim",
-        "deeplink": "ozd:/magaza-magaza-store/campaings/indirim"
+        "icon": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/pdp/magaza/ic_campaign.png",
+        "text": "<span style=\"color: #fe6c0c;\"><strong>2000 TL</strong>'ye 300 TL indirim",
+        "deeplink": "ozd://magaza-magaza-store/listing/category/Badge-evtekstili-tum-urunlere-kampanya"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/pdp/magaza/ic_campaign.png",
+        "text": "Shefame ürünlerinde net %20 indirim ",
+        "deeplink": "ozd://magaza-magaza-store/listing/category/Badge-evtekstili-tum-urunlere-kampanya"
+      },
+      {
+        "icon": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/pdp/magaza/ic_free_delivery.png",
+        "text": "750 TL ve üzeri kargo bedava",
+        "deeplink": null
       }
     ],
     "brand": {
@@ -260,7 +271,6 @@
         "headline": "Stoklayın",
         "rating": 5.0
       },
-
       {
         "id": "8816573087792",
         "reviewerName": "S*** B***",
