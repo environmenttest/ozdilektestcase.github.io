@@ -200,7 +200,7 @@
         }
       ]
     },
-    "promotionList": [
+    "promotions": [
       {
         "icon": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/pdp/magaza/ic_campaign.png",
         "text": "<span style=\"color: #fe6c0c;\"><strong>2000 TL</strong>'ye 300 TL indirim",
@@ -222,7 +222,6 @@
       "key": "Shefame"
     },
     "isQuantityPickerVisible": false,
-    "promotions": null,
     "outOfStock": "false",
     "isPickUpEnable": "true",
     "isDonateEnable": "false",
