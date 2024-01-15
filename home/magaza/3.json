@@ -249,6 +249,73 @@
         }
       },
       {
+        "id": "140005",
+        "widgetType": 9,
+        "widgetHeader": {
+          "title": "SINGLE_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
+        },
+        "showcaseProducts": {
+          "backgroundImageUrl": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/home/magaza/showcase_background_image.png",
+          "productTags": [
+            {
+              "topRate": 20,
+              "leftRate": 20,
+              "productId": "13080249",
+              "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/1200/1200/medias/8697353571848.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDE5Nzk1fGltYWdlL2pwZWd8aDcxL2gzOC85NzUyOTg0MDU5OTM0fDEyY2QwYzNmZjE0OWFjYjVlM2YyMWI5MWZhYjI0MWFhNzk0YzAwZTJkMzRmY2Q1NTU2NDFjM2FlOGUyMDI0ZDY",
+              "productName": "Özdilek Ditsy Çift Kişilik Yatak Örtüsü 230x250",
+              "price": {
+                "discountRate": null,
+                "oldPrice": null,
+                "currentPriceWholeNumber": "899",
+                "separator": ",",
+                "currentPriceDecimalNUmber": "00",
+                "currency": "TL",
+                "value": 899,
+                "firebaseCurrency": "TRY",
+                "formattedValue": "95,49 TL"
+              },
+              "rating": {
+                "average": 4.5,
+                "count": 15
+              }
+            },
+            {
+              "topRate": 60,
+              "leftRate": 50,
+              "productId": "13252725",
+              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/1200/1200/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjU2MjI1OHxpbWFnZS9qcGVnfGg4Ny9oYTMvOTkxOTE0NjA2NTk1MHwxOWZiOTgyZjg0MzZkM2NiNmNhZmQ0ZTYyZWZlYzFiMzRiZmExNTEwZjdmMWY4YjUyM2FhOWY0YTQ5MTRkM2Rl",
+              "productName": "Özdilek Ruby Çift Kişilik Çeyiz Seti 16 Parça",
+              "price": {
+                "discountRate": null,
+                "oldPrice": null,
+                "currentPriceWholeNumber": "899",
+                "separator": ",",
+                "currentPriceDecimalNUmber": "00",
+                "currency": "TL",
+                "value": 899,
+                "firebaseCurrency": "TRY",
+                "formattedValue": "95,49 TL"
+              },
+              "rating": {
+                "average": 4.5,
+                "count": 15
+              }
+            }
+          ]
+        },
+        "viewProperties": {
+          "topPadding": 16.0,
+          "imageAspectRatio": 1.0,
+          "visibleItemCount": 1,
+          "cornerRadius": 0
+        }
+      },
+      {
         "id": "140004",
         "widgetType": 6,
         "widgetHeader": {
@@ -523,36 +590,12 @@
           }
         ],
         "viewProperties": {
+          "topPadding": 0.0,
+          "backgroundColor": "#4d4c48",
           "imageAspectRatio": 0.66,
           "visibleItemCount": 2.5,
           "cornerRadius": 8,
           "itemSpace": 8
-        }
-      },
-      {
-        "id": "140005",
-        "widgetType": 3,
-        "widgetHeader": {
-          "title": "SINGLE_BANNER",
-          "widgetNavigation": {
-            "title": "Tümü",
-            "landingTitle": "En çok satılanlar",
-            "deeplink": "ozd://"
-          }
-        },
-        "banners": [
-          {
-            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1170x450-diesel.jpg?context=bWFzdGVyfGJhbm5lcnN8MjYzNTc1fGltYWdlL2pwZWd8aDQ5L2gyMi85MDU4MDc0OTUxNzEwLzExNzB4NDUwX2RpZXNlbC5qcGd8NzU0OTEzYzRlMTIyOGIyZWRhZGI3NDdjM2EzYTJiMjJhYmE4NWM3NmY4ODAxYjMwNzJlNTc1NTFlY2Y1M2JmMA",
-            "navigation": {
-              "landingTitle": "Kol Saatleri",
-              "deeplink": "ozd://"
-            }
-          }
-        ],
-        "viewProperties": {
-          "imageAspectRatio": 2.57,
-          "visibleItemCount": 1,
-          "cornerRadius": 16
         }
       },
       {
@@ -611,6 +654,8 @@
           }
         ],
         "viewProperties": {
+          "topPadding": 0.0,
+          "backgroundColor": "#4d4c48",
           "imageAspectRatio": 1,
           "visibleItemCount": 3.5,
           "cornerRadius": 16,
