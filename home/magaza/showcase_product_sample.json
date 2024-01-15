@@ -1,1742 +1,853 @@
 {
   "code": 200,
+  "message": null,
   "data": {
     "pagination": {
-      "currentPage": 1,
-      "pageCount": 2
+      "currentPage": 3,
+      "pageCount": 3
+    },
+    "searchContent": {
+      "text": "Eve ne lazım?",
+      "deeplink": "ozd://"
     },
     "widgets": [
       {
-        "contentIds": "uygulamaya-ozel-aninda-indirim,havlu-banner,uygulama-deneme-media,garanti-taksit,test-5-banner",
-        "widgetType": 2,
-        "position": "Section1",
-        "viewProperties": {
-          "imageAspectRatio": 2.116,
-          "visibleItemCount": 1.0,
-          "cornerRadius": 8.0,
-          "itemSpace": 0.0,
-          "showDivider": false
-        },
-        "banners": [
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/adidas-1270x600.webp?context=bWFzdGVyfGJhbm5lcnN8NjcxNDB8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGhlOC9oMTEvMTAwNDQzNDQ5MjYyMzgvYWRpZGFzLTEyNzB4NjAwLndlYnB8OTRkZjRiZDNhOWQwNDg1Zjc3M2U0MzM0Y2UyYWU0YTZmZDllZDYzODUwNDVkYzg4YmY3ZGI5Yjc0ZGI4Y2Q2OA",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/campaignDetail/29-ekim"
-            }
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/mobil-ozdilek-1270x600.jpg?context=bWFzdGVyfGJhbm5lcnN8MTQxNjQ5fGltYWdlL2pwZWd8aGRlL2gzMi8xMDAzNzQwODk1NjQ0Ni9tb2JpbF9vemRpbGVrLTEyNzB4NjAwLmpwZ3xjNGJkNWQzYjkzMjQwMjQ3ZGQ3ZTdiZmY0ZWUxMTU0YWY5MjFjNjI4M2RmNGFkMDVkYmY2ODAyYTAzZDU0Mzll",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/campaignDetail/29-ekim"
-            }
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/mobil-yilbasi-heyecanini-eve-tasiyin-1270x600.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY2MzY0fGltYWdlL2pwZWd8aDI4L2g4Yi8xMDAzNzQwOTQxNTE5OC9tb2JpbF95aWxiYXNpLWhleWVjYW5pbmktZXZlLXRhc2l5aW4tMTI3MHg2MDAuanBnfDZkNDdhMGIzYWNiZDZmMjc1ZGYxZDE2ZGNhNDk2NTExYWE4N2M5YTM1NjYxNTExNjZkNzA0MWVkNTliMDI3ZTQ",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/campaignDetail/Https://www.youtube.com/watch?v=ZzKiMLJLRSo"
-            }
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/mobil-ozdilek-snowflake-1270x600.jpg?context=bWFzdGVyfHJvb3R8MjI2MzU1fGltYWdlL2pwZWd8aGU3L2g4ZS8xMDAzNzQwOTU0NjI3MC9tb2JpbF9vemRpbGVrLXNub3dmbGFrZS0xMjcweDYwMC5qcGd8OGE0NjI4NjQ1OGZhY2VkMDExMDdjYjk2OWZjN2EwYzQ2MDg4MDJlNGJmMTczM2Y3YWM2MWEwM2MxNjdmZjU5MA",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/campaignDetail/Size-ozel-firsatlar"
-            }
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/mobil-pl-1270x600.jpg?context=bWFzdGVyfHJvb3R8MjQ4MjkzfGltYWdlL2pwZWd8aDY2L2hjMy8xMDAzNzY0MTE4MzI2Mi9tb2JpbF9wbC0xMjcweDYwMC5qcGd8ZmMzYjFmZWIxZDE4NzI5NzVjZDM2ZTUyNmJjYzlmMDg3NTcxMjFkZTkwYTVkNDUxZTU2YzgzZjgwMmUxMTRhMQ",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Badge-firstcompany-ayakkabi-kis"
-            }
-          }
-        ]
-      },
-      {
-        "contentIds": "section2-2,section2-3,section2-1,section2-4,section2-5,section2-6",
-        "widgetHeader": {
-          "widgetNavigation": {}
-        },
-        "widgetType": 4,
-        "position": "Section2",
-        "viewProperties": {
-          "imageAspectRatio": 1.0,
-          "visibleItemCount": 3.0,
-          "cornerRadius": 8.0,
-          "itemSpace": 8.0,
-          "showDivider": false
-        },
-        "banners": [
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/outdoor-ayakkabi-520x520.webp?context=bWFzdGVyfGJhbm5lcnN8NDA3NDR8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGg4Yy9oNjcvMTAwNDQzNDUzNTIyMjIvb3V0ZG9vci1heWFra2FiaS01MjB4NTIwLndlYnB8NTgxY2U5NmY0NTdiMWE4OWExZmYzNThhMjEyN2VjYTAwNTRiMzUzOTJmODhkYjAzOTU0NGVhZTM1NzQ5MGI3Mw",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin-giyim-etek"
-            },
-            "metaTitle": "Etek Modelleri ve Fiyatları | Özdilekteyim.com"
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/mont-kaban-520x520.webp?context=bWFzdGVyfGJhbm5lcnN8Mzc0OTR8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGhlMi9oNjcvMTAwNDQzNDUzODQ5OTAvbW9udC1rYWJhbi01MjB4NTIwLndlYnB8ZDc2OTVjODlmN2QxOTNiYTM1M2E1OGNjZTVjOWNkMzQ4YjNkNDNiZTc4NmU0NDkwYWU5YjYwNmUxOWVmMjkxZA",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin-atlet"
-            },
-            "metaTitle": "Kadın Atlet Çeşitleri ve Fiyatları | Özdilekteyim.com"
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/kazak-hirka-520x520.webp?context=bWFzdGVyfGJhbm5lcnN8MzM5NTh8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGg4OS9oNmEvMTAwNDQzNDU0MTc3NTgva2F6YWstaGlya2EtNTIweDUyMC53ZWJwfGQ2MGE1MmRiYmE0Y2E2ZTJmZTk0MjJmNGNkZjZmYjViZTZjMTc2MTViN2MxZThjNzg3OWQwN2FlNzViODA3MTA",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin-giyim-bluz"
-            },
-            "metaTitle": "Bluz & Tunik Modelleri ve Fiyatları | Özdilekteyim.com"
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/cocukmont-520x520.webp?context=bWFzdGVyfGJhbm5lcnN8MzY2MTJ8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGhmMi9oNmQvMTAwNDQzNDU1MTYwNjIvY29jdWttb250LTUyMHg1MjAud2VicHw3OTk1YzBkYWZjMDFkMDRlMDEyNWE2ZGE4Nzg0OWRiYWNlMzVhNzUwMmZmOWE4Yjc3ODU3YzE3NjQyZDNkYzMw",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-erkek-giyim-takimelbise"
-            },
-            "metaTitle": "Erkek Takım Elbise Modelleri ve Fiyatları | Özdilekteyim.com"
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/bot-cizme-520x520.webp?context=bWFzdGVyfGJhbm5lcnN8NDU1NzZ8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGg0OS9oNmUvMTAwNDQzNDU1NDg4MzAvYm90LWNpem1lLTUyMHg1MjAud2VicHxmZjBhMjgxOGFjMzJmYmNjOTQ4MzRjMTI5MjFhMzMwZjg3MzA0MDI2MGQxMDU1MmRjYWI3ZWNkZDliNDE3MWZi",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin-giyim-elbise"
-            },
-            "metaTitle": "Elbise & Tulum Modelleri ve Fiyatları | Özdilekteyim.com"
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/panduf-520x520.webp?context=bWFzdGVyfGJhbm5lcnN8NTQ5NDB8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGhiMy9oNmUvMTAwNDQzNDU1ODE1OTgvcGFuZHVmLTUyMHg1MjAud2VicHwwODc4NDk2NGY1NmIzZmQ5Nzc5NzM1NjU4YjUwNTc1NWM4MjY5MjAzYWUyMDVhYmJiNTYwZmFlYzU3ZTZlYWYw",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/"
-            }
-          }
-        ]
-      },
-      {
-        "contentIds": "12923172,13235950,10866056,11223823,12913336,12913339,12913324,12913340,12913325,12913320,12913319,12925741,12897905,12897911,12897912,12878921",
-        "widgetHeader": {
-          "title": "Ev Tekstili Ürünleri",
-          "widgetNavigation": {}
-        },
-        "widgetType": 6,
-        "position": "Section2A",
-        "viewProperties": {
-          "imageAspectRatio": 0.66,
-          "visibleItemCount": 2.5,
-          "cornerRadius": 8.0,
-          "itemSpace": 8.0,
-          "showDivider": false
-        },
-        "products": [
-          {
-            "productId": "PR-EVTEKSTILI-56198601327PEMBE",
-            "name": "Özdilek Nemesia Tek Kişilik Nevresim Seti",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353561986.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjQ5NTgzfGltYWdlL2pwZWd8aDFkL2gxZS85NjUxMDMwMDk3OTUwfGUwY2Y1MjkwZTE2MDgxMGEzMjJjNmZhMmQyYmYzMThkZjI2NTlmNzgxZTg2MjNhNjc5ZWFiYTI3YTBmMTdlZWQ"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "discountRate": "21",
-              "oldPrice": "379,95",
-              "currentPriceWholeNumber": "299",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "00",
-              "currency": "TL",
-              "value": 299.0,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "299,00 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Ev Tekstili",
-              "Yatak Odası Tekstili",
-              "Nevresim & Nevresim Takımı",
-              "Ranforce Nevresim Takımı"
-            ],
-            "hasDiscount": true,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-EVTEKSTILI-58216500697BEYAZ",
-            "name": "Floretta Kapitone Yastık 50x70",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353582165.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Mzk5MDA5N3xpbWFnZS9qcGVnfGgxMS9oYzMvOTg4NjQxNzU1MTM5MHw3ZWVmMzZmYTEyNmJkM2VhYzc4NTY5MTkwMTMxMzlkYjMxZmY2NDc4YzBmNjY3NDNmYTA3NmM5ODhiYmI5ZDlj"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "149",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 149.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "149,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Ev Tekstili",
-              "Yatak Odası Tekstili",
-              "Yastık"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "11223823",
-            "name": "Floretta Yastık Alezi 50x70",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353421136.jpg?context=bWFzdGVyfHByb2R1Y3RpbWd8MTk3MTExfGltYWdlL2pwZWd8aDhkL2gxYS85MTk1NzYzMTA1ODIyfGRmYzM4NjAxYmEzNTM4YmJjNWNlZDE0MTZlYmExNzUzMjcyY2M5MzllNzhjOTIxZGZkOWI2MTg3NjYyYWVmZTk"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "64",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 64.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "64,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "0",
-            "categories": [
-              "Ev Tekstili",
-              "Yatak Odası Tekstili",
-              "Alez"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-EVTEKSTILI-55996901327BEJ",
-            "name": "Özdilek Orce Çift Kişilik Nevresim Takımı",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353559969.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTUzODE3NXxpbWFnZS9qcGVnfGgwMi9oZGYvOTYyNTIwNzc2NzA3MHw4NTJiYzYyY2U3MjEwNWI5ZjJmZDBjZjk5N2M5Y2Q2YWVmMTZkZTI1MGYxMmQ4OWQwNTMyZjFiNDE1ZTY5MDY1"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "990",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "00",
-              "currency": "TL",
-              "value": 990.0,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "990,00 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Ev Tekstili",
-              "Yatak Odası Tekstili",
-              "Nevresim & Nevresim Takımı",
-              "Ranforce Nevresim Takımı"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-EVTEKSTILI-56109201327MAVI",
-            "name": "Özdilek Vague Battal Boy Nevresim Takımı",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353561092.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTU3Mjk3MXxpbWFnZS9qcGVnfGhlNi9oZWMvOTYyNTIxMDk3ODMzNHxiNzdlY2U3ODk0ZWRhZDNhMGUzODQwYjQ2OTBiODgyMzI1NmQ1NWU4ZjQ0ZTdkN2Q3NGY0YmEzZWZjM2Y0YzAx"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "1.249",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "00",
-              "currency": "TL",
-              "value": 1249.0,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "1.249,00 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Ev Tekstili",
-              "Yatak Odası Tekstili",
-              "Nevresim & Nevresim Takımı",
-              "Ranforce Nevresim Takımı"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-EVTEKSTILI-55493301327MAVI",
-            "name": "Özdilek Cars Cyber Tek Kişilik Disney Lisanslı Çocuk Yatak Örtüsü 160x230",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353554933.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzkwOTY2fGltYWdlL2pwZWd8aDg3L2gwMC85NjI2MDg5NDIyODc4fDQ3MDJhZTBmNzk2N2VlMDJmZDRhYTJhZWI3MGMzMDJhYmUxMDk1MDMzZTk0MjcwMTJiNzM3YTYyZDk4NDI3MDQ"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "749",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 749.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "749,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Ev Tekstili",
-              "Yatak Odası Tekstili",
-              "Yatak Örtüsü",
-              "Disney Lisanslı Yatak Örtüsü"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-EVTEKSTILI-55997601327BEJ",
-            "name": "Özdilek Corde Tek Kişilik Nevresim Takımı",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353559976.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ1OTU3MnxpbWFnZS9qcGVnfGhmNy9oODUvOTYyNTIwODI5MTM1OHw3ODkwYTQ3MjI2M2RhMGQ3MTczODk0ZDYxMWIyMTc4ODA4MmQ0MmRjYzM2NDg4OTFiYTliMDI1MzFkM2RmYTky"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "769",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 769.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "769,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Ev Tekstili",
-              "Yatak Odası Tekstili",
-              "Nevresim & Nevresim Takımı",
-              "Ranforce Nevresim Takımı"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-EVTEKSTILI-55488901327SARI",
-            "name": "Özdilek Minnie Mouse Happy Tek Kişilik Disney Lisanslı Çocuk Yatak Örtüsü 160x230",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353554889.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTE4MjA1M3xpbWFnZS9qcGVnfGg4Yi9oZWYvOTYyNzE2MzIzMDIzOHw5M2FkYjE5OWFjODcxNmFiNWVjZTdiODljNWRlZjY5MDJlZjM3MGIzZTY2M2JmYzkzNDA1OTQwM2VhZmQ1Y2Vi"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "749",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 749.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "749,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Ev Tekstili",
-              "Yatak Odası Tekstili",
-              "Yatak Örtüsü",
-              "Disney Lisanslı Yatak Örtüsü"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-EVTEKSTILI-55301101327LILA",
-            "name": "Özdilek Frozen Discover Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Çocuk Nevresim Takımı",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353553011.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTM5NjczMXxpbWFnZS9qcGVnfGhjNy9oYmQvOTYyNTE5NzYwODk5MHw4ODQzMTYyNTE5ODkxMzdmODUyZDEzMTdkNjdhYmIzYTJhOTc1M2IxNjFjOTRhYjBkNGM3M2Y1NDE5OTRiMzM1"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "849",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 849.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "849,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Ev Tekstili",
-              "Yatak Odası Tekstili",
-              "Nevresim & Nevresim Takımı",
-              "Ranforce Nevresim Takımı"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-EVTEKSTILI-55298401327LACIVERT",
-            "name": "Özdilek Avengers Heroes Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Çocuk Nevresim Takımı",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353552984.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTcwNTc0OHxpbWFnZS9qcGVnfGgyZi9oNmQvOTYyNjA4ODM3NDMwMnxhMDdlY2NhNTdiNTEwNjBhODU5MWU1ZDAyOTllMWJiZWY2M2E3NTllYWFiYWI1N2QzOGUyNmM4NzA2NGRiYjYx"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "849",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 849.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "849,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Ev Tekstili",
-              "Yatak Odası Tekstili",
-              "Nevresim & Nevresim Takımı",
-              "Ranforce Nevresim Takımı"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-EVTEKSTILI-54241101327BEJ",
-            "name": "Özdilek Weave Kadife Havlu 50x90",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353542435.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjgxNzU0fGltYWdlL2pwZWd8aGEwL2hjMS85NjQ3MjIzNzk5ODM4fDg3NWFlZDFkM2YyOTNlOGRkNGI4NTkyZjkyNTIwMzk0N2M4MmZkMDYyZmFkZDk1ZGMzYjJlMTMyNzM3NjRiNTg"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "99",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 99.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "99,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "5",
-            "categories": [
-              "Ev Tekstili",
-              "Havlu & Bornoz",
-              "El & Yüz Havlusu"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-EVTEKSTILI-56137501327DESENLI",
-            "name": "Özdilek Cannes Cheetah Palm Kadife Plaj Havlusu 90x180",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353561375.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTUyMDY4MXxpbWFnZS9qcGVnfGgyZi9oY2QvOTY0NzIzMDY4MTExOHxmMTA1ODdhYTg5NTIyNDc5YmEyZGI1NzRmYTM3NmM4MTc3MzgxNjgxMDFhZmJkNmRhMDg4Zjc0MTRiMTk3MDY5"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "279",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 279.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "279,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Ev Tekstili",
-              "Havlu & Bornoz",
-              "Plaj Havlusu"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-EVTEKSTILI-56143601327DESENLI",
-            "name": "Özdilek Cannes Scallop Kadife Plaj Havlusu 90x180",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353561436.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTkzNjYwMnxpbWFnZS9qcGVnfGhjYS9oMTAvOTYzMjUwMjQ0ODE1OHxlZjE4ZTBjNjc5YzRhNDM2NTc2NjM3N2ZjMGRmYmZmMDFiYzViNjk3ZmQ1MGQ2OWQ1MjNlZWZkZjRjMjczYzg4"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "279",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 279.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "279,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Ev Tekstili",
-              "Havlu & Bornoz",
-              "Plaj Havlusu"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-EVTEKSTILI-56144301327DESENLI",
-            "name": "Özdilek Cannes Sun Dolphin Kadife Plaj Havlusu 90x180",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353561443.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjA3MDI1NnxpbWFnZS9qcGVnfGg5NS9oMDAvOTYzMjUwMjk3MjQ0NnxlN2VmMmQ3ODdiZTk5MzA2MGUzZDVjOWU4NGRjYmI0MWQyN2YxOTRjMjY0MmU5NGRlZDRlOWY2YmMxMjExYWU4"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "279",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 279.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "279,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Ev Tekstili",
-              "Havlu & Bornoz",
-              "Plaj Havlusu"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-EVTEKSTILI-46712701327DESENLI",
-            "name": "Özdilek Saint Tropez Scroll Floral Kadife Plaj Havlusu 101x178",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353467127.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTc4NTg1MnxpbWFnZS9qcGVnfGhmMi9oNmIvOTYzMjQ3MDA3MzM3NHw4YjVlMWI1MDk5MjRjM2VkZGM3OWVjNTNlMTZjNzE5ZjI5YWNiMDJiZjZkZDYxNjg3Zjk4ZDk0NmMyYmViYTMw"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "329",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 329.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "329,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Ev Tekstili",
-              "Havlu & Bornoz",
-              "Plaj Havlusu"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          }
-        ]
-      },
-      {
-        "widgetType": 5,
-        "position": "Section2AB",
-        "viewProperties": {
-          "imageAspectRatio": 2.116,
-          "visibleItemCount": 1.0,
-          "cornerRadius": 8.0,
-          "itemSpace": 0.0,
-          "showDivider": false
-        },
-        "banners": [
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/cat2.jpg?context=bWFzdGVyfGJhbm5lcnN8MTgxNzg4fGltYWdlL2pwZWd8aGYyL2g4Zi8xMDA0ODcwNTQyOTUzNC9jYXQyLmpwZ3xmMTAzY2ZmNDAyM2IxZjI5YWU0M2JhNjRiNDhlYWU1MDViMzAxYjVhYzJmYTE2MTlmMTRiM2Q5YTk4MTg0ODg3",
-            "navigation": {}
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/-1270x600-40-.jpg?context=bWFzdGVyfGJhbm5lcnN8OTc4Nzd8aW1hZ2UvanBlZ3xoOGEvaDhjLzEwMDQ4NzA1NTI3ODM4L18xMjcweDYwMC0oNDApLmpwZ3w1NWNlZmYwNTNjMjc5NWJkZmY1ZTIyM2I2OTU3MWI2ZmM3ZjcxMzk1NjJmMjMyMTEyYmI0ZDRhNjY4MmMzMThi",
-            "navigation": {}
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/-1270x600-50-.jpg?context=bWFzdGVyfGJhbm5lcnN8MTI0MzgxfGltYWdlL2pwZWd8aDIwL2g4Yy8xMDA0ODcwNTU2MDYwNi9fMTI3MHg2MDAtKDUwKS5qcGd8ZTc1OTMxZWY0YmI0ODE1YWU1NTMwOWQ1OWI0YjEyODk0ZGY5MThlMTcyMjE5ZTdlZmJiOTUyNmY4MzI1YTNmNw",
-            "navigation": {}
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/freecompress-new-1270x600-40-.jpeg?context=bWFzdGVyfGJhbm5lcnN8NjkwOTB8aW1hZ2UvanBlZ3xoN2YvaDM5LzEwMDQ4NzA3MTMzNDcwL2ZyZWVjb21wcmVzc19uZXdfMTI3MHg2MDAtKDQwKS5qcGVnfGI1ZWE0ZTRmYzEyOGEzODJlMjg5MGNmODNlNWNiMTczZTAyZDM0MGI2ZGM5YTM4MWUwYmYzYjQwYjc2ZWNkZTk",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Bluz-tunik"
-            }
-          }
-        ]
-      },
-      {
-        "contentIds": "Section6ARotatingContentBrandBannerImagesComponent-Brand1,Section6ARotatingContentBrandBannerImagesComponent-Brand2,Section6ARotatingContentBrandBannerImagesComponent-Brand3,Section6ARotatingContentBrandBannerImagesComponent-Brand4",
-        "widgetHeader": {
-          "widgetNavigation": {}
-        },
-        "widgetType": 3,
-        "position": "Section2B",
-        "viewProperties": {
-          "imageAspectRatio": 0.695,
-          "visibleItemCount": 2.5,
-          "cornerRadius": 8.0,
-          "itemSpace": 8.0,
-          "showDivider": false
-        },
-        "banners": [
-          {
-            "title": "JACK&JONES",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/jack-jones-616x886-1-.webp?context=bWFzdGVyfGJhbm5lcnN8MzEwMzR8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGhmNC9oZDQvMTAwNDQ1ODc2MDYwNDYvamFjay1qb25lcy02MTZ4ODg2ICgxKS53ZWJwfGNiMjM2OTYwZDhhYjU0MDk0YTk1YTI2ZTRhMWE3ZGZiYmY5OGY0MTczYmFjYjQ5YjcwOGEzMmQ2MmE5YjcxMjI",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin-ayakkabi"
-            },
-            "metaTitle": "Kadın Ayakkabı Modelleri ve Fiyatları | Özdilekteyim.com"
-          },
-          {
-            "title": "MAVİ",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/mavi-616x886.webp?context=bWFzdGVyfGJhbm5lcnN8OTQwNTZ8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGhiNS9oNTMvMTAwNDQ1ODk3MzU5NjYvbWF2aS02MTZ4ODg2LndlYnB8ZDA0Nzg2NmRmMGRjN2Q3NmFiMDdhYmE0Mzg0YTEwOTZjNDRiMzliOGEzNjhmODU0NWI2ZjgwMWQyYjJjMjI2Ng",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Badge-aralik-benetton-15"
-            }
-          },
-          {
-            "title": "ADİDAS",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/adidas-616x886.webp?context=bWFzdGVyfGJhbm5lcnN8MzUxOTZ8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGg3Mi9oZGMvMTAwNDQ1ODc4NjgxOTAvYWRpZGFzLTYxNng4ODYud2VicHwxYmY0MTNlNGY0YjdiMzhiYTM2OGM1NzFkYmEwOTcyYmIxMzMyNmFiYmZmODM5ZjgxMGE0MDVmZDBkYTk0OTAz",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Badge-firstcompany-gomlek-ozelurun"
-            }
-          },
-          {
-            "title": "PİERRE CARDİN",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/fotor-1-.webp?context=bWFzdGVyfGJhbm5lcnN8NDI2MDR8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGhkYS9oZGYvMTAwNDQ1ODc5NjY0OTQvZm90b3IgKDEpLndlYnB8NTQ4NGRlOWZmZGI0Y2UzZDJlYzNlNzE0MjIyNjljZjJkMmM0NWEwZDMwNTlmZDZkNDM1MTdmYTNkOTVkNDE4Mw",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin-giyim-bluz"
-            },
-            "metaTitle": "Bluz & Tunik Modelleri ve Fiyatları | Özdilekteyim.com"
-          }
-        ]
-      },
-      {
-        "contentIds": "sectionStory3,sectionStory4,sectionStory5,ozdilek-link,sectionStory7,sectionStory8,pasabahce-story,sectionStory10,sectionStory11,sectionStory12,shefame-deneme",
-        "widgetHeader": {
-          "widgetNavigation": {}
-        },
+        "id": "140000",
         "widgetType": 1,
-        "position": "sectionStory",
-        "viewProperties": {
-          "imageAspectRatio": 1.0,
-          "visibleItemCount": 4.5,
-          "cornerRadius": 0.0,
-          "itemSpace": 17.0,
-          "showDivider": false
+        "widgetHeader": {
+          "title": "CIRCLED_SLIDER_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
         },
         "banners": [
           {
-            "title": "Adidas",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-adidas.png?context=bWFzdGVyfGJhbm5lcnN8MTE5Nzd8aW1hZ2UvcG5nfGgyYS9oNmMvMTAwNDUxMDczNzIwNjIvMTQweDE0MC1hZGlkYXMucG5nfDExZDFjMTFhYzVlNTU1NzY2MGEwMGM5YWQ2YTE2MjVjZWVhZDI5YTczZTkxNmY3MDQ0MGM2MTc4OGMxYTM4Yzk",
+            "title": "Elbise",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/7.jpg?context=bWFzdGVyfGJhbm5lcnN8MzI1MjYxfGltYWdlL2pwZWd8aDUwL2hjZC85NTMwODYzMzUzODg2LzcuanBnfDU3NWQwZjc1MzBlNWRiMGJhYWM2MzAxOWZmNTMxZjViMDE0NGQ3NjQ4M2MwYjAxOGY2N2JiZjhiYTdjMWVkYTU",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/"
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
             }
           },
           {
-            "title": "United Colors of Benetton",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-un-ted.png?context=bWFzdGVyfGJhbm5lcnN8MjA0MDF8aW1hZ2UvcG5nfGhjMi9oNjgvMTAwNDUxMDc0NzAzNjYvMTQweDE0MC11bsSxdGVkLnBuZ3xiNDIwY2NhYWQzNjE3ZjhkNjhiNzViYzM2MGZkODNmZjY5NGU0MzNjZDY2NzJhMmY3MjU4YjdhZmM1OWQ0ZDUy",
+            "title": "Tişört",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/8.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY5NDY4fGltYWdlL2pwZWd8aGZiL2hkMi85NTMxNTQxNjE4NzE4LzguanBnfDU1NTcyMWZlOWQ3NmQ1ZGZmZWM3ZWU3ZWI0MGZlODBiNGM0YjQyZWQzYzgyMWM4NjBlNjVlOTBkZGJhYWI2YTk",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/"
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
             }
           },
           {
-            "title": "Birkenstock",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-birken.png?context=bWFzdGVyfGJhbm5lcnN8MTk1Mzh8aW1hZ2UvcG5nfGg2ZC9oNjUvMTAwNDUxMDc1Njg2NzAvMTQweDE0MC1iaXJrZW4ucG5nfDM5MTIzNWJkMTc4NWZiY2M5MWZlNzYxMDE4MzIwMjE2NGRhYjQ4MmQ4YTEyMmQxMmM4M2YxOTFiNjFjNDI5ZTI",
+            "title": "Terlik Ürünleri",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/yaz-s-k-adimlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTUzMDAwfGltYWdlL2pwZWd8aDk5L2gzYS85NjQ1ODEwMDI0NDc4L3lhel9zwqYta19hZGltbGFyXzM4MHgzNDkuanBnfDFkMzQ2YTVlZjA1NmJhMDdkYWZkZDljZWEzMDM4YWEwYTg3YjQ4MmFmYjRhN2YwMWI0ZDgxYTg0ZGQ3MmVjNWI",
             "navigation": {
-              "deepLink": ""
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
             }
           },
           {
-            "title": "Özdilek",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-ev-tekstil.png?context=bWFzdGVyfGJhbm5lcnN8MTcxOTd8aW1hZ2UvcG5nfGhiMy9oNjIvMTAwNDUxMDc2MDE0MzgvMTQweDE0MC1ldi10ZWtzdGlsLnBuZ3w1MGYzZjZmZjI3M2JlNGMxMDJkYmQzYjYxYTc4MjY3NzI4OWYwZjAzZTczMTdiZDlhZTk1NzFiYmUyYjhjYjM3",
+            "title": "Yaz Ürünleri",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/goz-alici-tarzlar-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE4NTg0fGltYWdlL2pwZWd8aGE4L2hjMS85NjQ1ODA5ODI3ODcwL2dvel9hbGljaV90YXJ6bGFyXzM4MHgzNDkuanBnfDllNWE5MDc2NGZkZWE3MWQwNzE2Mzc4Mzc2MTU5Yjc0OTljYTEyMjVhZmNmOTMyNmZmMzlmYmU1ODBjZTVjOGY",
             "navigation": {
-              "deepLink": ""
+              "landingTitle": "Sepette %20 indirim",
+              "deeplink": "ozd://"
             }
           },
           {
-            "title": "Floretta",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-floretta.png?context=bWFzdGVyfGJhbm5lcnN8MTc5NjN8aW1hZ2UvcG5nfGhhZS9oNjEvMTAwNDUxMDc2OTk3NDIvMTQweDE0MC1mbG9yZXR0YS5wbmd8Y2YwMWFhZjhkNjRmODFiZmUxYjcwNDk0MmU5MTg4NDUzN2VhZGU5NTdkMGJhZjdmM2FmZTI4ZjM4ZjY4ZmY3ZQ",
+            "title": "Tatil zamanı",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/tatilheyecani-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8ODU1OTB8aW1hZ2UvanBlZ3xoZTYvaGMwLzk2NDU4MDk4OTM0MDYvdGF0aWxoZXllY2FuaV8zODB4MzQ5LmpwZ3xkOGI2YzlkY2QxNTJlNmY2YTNlYjU2NTAyMjU5NTdiYmZjNzhmYWJkOTAyMmM1NjczZTA2N2EwNzI0YjczYTBk",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Badge-evtekstili-floretta-nevresim-takimi"
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
             }
           },
           {
-            "title": "LAV",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-lav.png?context=bWFzdGVyfGJhbm5lcnN8MTY1NDd8aW1hZ2UvcG5nfGhmNC9oNWUvMTAwNDUxMDc3MzI1MTAvMTQweDE0MC1sYXYucG5nfGYzYjJkYTQ2YjRlYjM4Y2ZjNTE0NTg4ZTQ4N2E4ZjUxNzA5MDZiMmJlM2U1Mjc4YzNlOTJkNTgxYTI5YTQwMzA",
+            "title": "Plaj",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/tarzy-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTY1OTE2fGltYWdlL2pwZWd8aDU4L2gzZS85NjQ1ODEwMTU1NTUwL3Rhcnp5XzM4MHgzNDkuanBnfDE2OGM5MDJlOTg2NGE2Zjk4MjM2ZmM2YjFmNGI1M2I5OTk3MDcwMDQ2MTEyYmRiMzA5NGY3MDYxMjU0Y2M2NTY",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/"
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
             }
           },
           {
-            "title": "Paşabahçe",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-pasabahce.png?context=bWFzdGVyfGJhbm5lcnN8MTg4NDl8aW1hZ2UvcG5nfGg5ZC9oNWUvMTAwNDUxMDc3NjUyNzgvMTQweDE0MC1wYXNhYmFoY2UucG5nfDhiN2ZlNDc0OGYwMmMxOWZkNTAzZjk0NzI2ZWFiZTJlNGJmYjUxN2Y1MDgzZDg4MTFmMjcwMGVlZjcyYTZjYjc",
+            "title": "Nevresim",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pike-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTExNDc4fGltYWdlL2pwZWd8aDVhL2gzYi85NjQ1ODEwMDkwMDE0L3Bpa2VfMzgweDM0OS5qcGd8NWNlNWU4OWE5ZmE0MjFmYTljOGI3MmFhYWNjY2JmM2Q1YjE0NmFlNWZkYTczMzBiYjVlMWI5ZjE5NTk1YWJlMQ",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/campaignDetail/MarkaPaşabahçe"
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
             }
           },
           {
-            "title": "FINESUITS",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-finesuits.png?context=bWFzdGVyfGJhbm5lcnN8ODM1OXxpbWFnZS9wbmd8aDQ2L2g1ZS8xMDA0NTEwNzc5ODA0Ni8xNDB4MTQwLWZpbmVzdWl0cy5wbmd8ZmQ4MWYyZTI4YzNhYzE4NWUyZWZlMjVhNzAyZTI3NjI3NDUzNGMwMmEwYjI1Njg4MDFlZjNmNTc1MTQ2NmJjNQ",
+            "title": "Kozmetik",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/kozmetik-380x349.jpg?context=bWFzdGVyfGJhbm5lcnN8MTM0NDgwfGltYWdlL2pwZWd8aDY5L2g0MS85NjQ1ODEwMjIxMDg2L2tvem1ldGlrXzM4MHgzNDkuanBnfDkzZGUzYzZmYjNjMTg3Y2E1NjEwNGNjNWQ2NjhiMGEzOGE1NGNlODA1YmY3NmEyZDc4MDQ2MThiYjBmYTQwYmI",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/"
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
             }
           },
           {
-            "title": "First Company",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-firstcompany.png?context=bWFzdGVyfGJhbm5lcnN8MTgxOTZ8aW1hZ2UvcG5nfGhkZS9oNWEvMTAwNDUxMDc4OTYzNTAvMTQweDE0MC1maXJzdGNvbXBhbnkucG5nfDViNWFkMTUwZTQ4N2IxMzg3OTQxZGQ5M2NhZGUxMmMwYTg5NTJjYTU0OGVhYTE4ODlkZGE4ZmNkNDQwMjY0NGE",
+            "title": "Paspas",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/alden-paspas-350x327.jpg?context=bWFzdGVyfHJvb3R8MTEwMjIzfGltYWdlL2pwZWd8aDMzL2g1NS85NTI0MDIyMjQ3NDU0L2FsZGVuX3Bhc3Bhc18zNTB4MzI3LmpwZ3wxN2I5NmNhYWU4YWM4YjZkMmM2ODE1YjZhOGM4MTVkOTc4YWQ1Nzk4Njk5MzkyOWVlYjM5ZGY1NDZhY2RmMWQ2",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/First-company-logo"
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
             }
           },
           {
-            "title": "Funfair",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-funfair.png?context=bWFzdGVyfGJhbm5lcnN8MTk1NzV8aW1hZ2UvcG5nfGgzNy9oNTgvMTAwNDUxMDc5MjkxMTgvMTQweDE0MC1mdW5mYWlyLnBuZ3xjMjllNGU4OTM0Mzg0NTJkNDhiYzcyZWYyOWE4Nzk3NTUyMmZiODQ2NTYxYzJkYzg3NTBhODg5MDI4OTExYjZk",
+            "title": "2 al 1 öde",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/380x349-kapak.jpg?context=bWFzdGVyfGJhbm5lcnN8Nzk1MjJ8aW1hZ2UvanBlZ3xoMDEvaGQwLzk2NDk2MDEzMTQ4NDYvMzgweDM0OV9rYXBhay5qcGd8YzY4NzJkZDViOGNlNGU0YmJjYjAxOGE5OTJlYTQyMWVhMzUwYzgxNTJiZDZiNjViNmFlNWM3N2M1NzM2NzQzZA",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/"
-            }
-          },
-          {
-            "title": "Shefame",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-shefame.png?context=bWFzdGVyfGJhbm5lcnN8MTYyODF8aW1hZ2UvcG5nfGhjZC9oNTcvMTAwNDUxMDc5NjE4ODYvMTQweDE0MC1zaGVmYW1lLnBuZ3w0MWJlODgyOTJhZjc3NjBjYWJkOWRjOTY4NGU2ZmZkMTJiZTZkNWY1OWQ0Nzg2NzgzY2M5NGIxODExNzlhMjM3",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/"
+              "landingTitle": "2 al 1 öde",
+              "deeplink": "ozd://"
             }
           }
-        ]
-      },
-      {
-        "contentIds": "13072610,13213544,12936044,13020091,13168693,13168691,13161556,13161581",
-        "widgetHeader": {
-          "title": "Sevilen Markalar",
-          "widgetNavigation": {}
-        },
-        "widgetType": 6,
-        "position": "Section3A",
+        ],
         "viewProperties": {
-          "imageAspectRatio": 0.66,
-          "visibleItemCount": 2.5,
-          "cornerRadius": 8.0,
-          "itemSpace": 8.0,
-          "showDivider": false
-        },
-        "products": [
-          {
-            "productId": "PR-3WAK20111EW0101300041MAVI",
-            "name": "Koton Kadın Mont 3WAK20111EW",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8683351310749.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTk5MDAzNXxpbWFnZS9qcGVnfGhmMy9oMTYvOTc4NDc4MTkzMDUyNnw3Y2IzMTdkZWQzYzM5YzE4OWRhNTA5ZmUwZjk3ZjUzZDI0MWY0MzIyMDAzNzJlNmZlYTQ4MDBmOTRkNTJmZTJi"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "discountRate": "29",
-              "oldPrice": "649,99",
-              "currentPriceWholeNumber": "459",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "99",
-              "currency": "TL",
-              "value": 459.99,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "459,99 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Kadın",
-              "Giyim",
-              "Mont & Kaban"
-            ],
-            "hasDiscount": true,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-3SAK20001EW0101300042BEJ",
-            "name": "Koton Kadın Mont 3SAK20001EW",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8683353291411.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTI4MTg3MnxpbWFnZS9qcGVnfGhmNC9oZDAvOTg3NTI5OTY5NjY3MHxhY2NkOGJhYjIzOTIyNjYxZmQxYTdlOTcxMWMyZWFmMWRiOGE4YmE3NWMxZTZmNzlkZDllNTI2NjIxYzk2ZmUz"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "699",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "99",
-              "currency": "TL",
-              "value": 699.99,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "699,99 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Kadın",
-              "Giyim",
-              "Mont & Kaban"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-22KCEED010060035600041LACIVERT",
-            "name": "Cazador Erkek Mont 22KCEED01006",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8683487041814.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NjUyNTY0fGltYWdlL2pwZWd8aGU4L2hjZS85NzgxNjc3NDU3NDM4fGY3MDNlMGM0OTQyMzk0ODhhYjVlYmIyMDc1NDcxYjAyN2IxYjkzODkxOTI5ODdlYWQ1Y2YwZDZhMGY5Zjk4ZDM"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "699",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "99",
-              "currency": "TL",
-              "value": 699.99,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "699,99 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Erkek",
-              "Giyim",
-              "Mont & Kaban"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-4A08231000010321800041INDIGO",
-            "name": "Altınyıldız Classics Erkek Mont 4A0823100001",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8683689000152.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTY0NDMwNnxpbWFnZS9qcGVnfGg4ZS9oNDAvOTczMTQ2ODI5NjIyMnw3YjdkNzdlN2Y1ZGYxMWEzNTAxNjRiZDdhZjEzMDBiNzM1ZTg1MDdmOWE2NmFlNWY0Y2U1ZjZhMmFhYmQ2MmVh"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "discountRate": "11",
-              "oldPrice": "899,99",
-              "currentPriceWholeNumber": "799",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "99",
-              "currency": "TL",
-              "value": 799.99,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "799,99 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Erkek",
-              "Giyim",
-              "Mont & Kaban"
-            ],
-            "hasDiscount": true,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-12223136FORESTNIGHT0091100042YESIL",
-            "name": "Jack Jones Erkek Mont 12223136",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/5715365600738.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzM2MDM3fGltYWdlL2pwZWd8aGM1L2hmYi85ODQzODMyMDYxOTgyfGMwZDI3ZmRkYjI0ZTA2YzcyMzliN2MyNjQyNzFiODU5NWU4Nzk3OGRlOWU1OTYyOTRjYmFmN2YzZDQ3YmEyYTc"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "discountRate": "19",
-              "oldPrice": "1029,99",
-              "currentPriceWholeNumber": "824",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "99",
-              "currency": "TL",
-              "value": 824.99,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "824,99 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Erkek",
-              "Giyim",
-              "Mont & Kaban"
-            ],
-            "hasDiscount": true,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-12223136CROCKERY0091100042BEJ",
-            "name": "Jack Jones Erkek Mont 12223136",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/5715365600011.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDY3MDA4fGltYWdlL2pwZWd8aDEzL2gzNi85ODQzODMwNDg5MTE4fDU5YTgzOGZkYmQ0Y2NjZTBmYWY5ZGFhMzFmYzE3ZDJhYzMyMDM0MmFhZDA4MWQ5M2YxYzQ5ZjY4Y2YxMDc4Yjc"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "discountRate": "19",
-              "oldPrice": "1029,99",
-              "currentPriceWholeNumber": "824",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "99",
-              "currency": "TL",
-              "value": 824.99,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "824,99 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Erkek",
-              "Giyim",
-              "Mont & Kaban"
-            ],
-            "hasDiscount": true,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-15547000181900042SAKS",
-            "name": "U.S. Polo Assn. Erkek Mont 1554700",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8682734274388.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTE5MjUyNHxpbWFnZS9qcGVnfGg0Yi9oNTYvOTg1NzIwNTI3MjYwNnwzZDlhMDUyNjVlZGY1N2EyNjc5NTgxN2I0OTg3ZDY0NTg4YzIyNjgzZmJmMDMyZjNmOTgzMTU0OTg3ZGIwZmU0"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "discountRate": "19",
-              "oldPrice": "2849,95",
-              "currentPriceWholeNumber": "2.299",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 2299.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "2.299,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Erkek",
-              "Giyim",
-              "Mont & Kaban"
-            ],
-            "hasDiscount": true,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-15790820181900042HARDAL",
-            "name": "U.S. Polo Assn. Erkek Mont 1579082",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8682734275088.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTA2ODAwOXxpbWFnZS9qcGVnfGhiMi9oODMvOTg1NzIwNzQzNTI5NHxmNzJmOTU1NjJiZmNlZTRiZTczMzBlOWU2MjNhOGIxYTlkMDQxZWM4NmU3ODk4YjMxY2I1YzM0M2M5MTc2Njgx"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "discountRate": "20",
-              "oldPrice": "2399,95",
-              "currentPriceWholeNumber": "1.919",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "95",
-              "currency": "TL",
-              "value": 1919.95,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "1.919,95 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "4",
-            "categories": [
-              "Erkek",
-              "Giyim",
-              "Mont & Kaban"
-            ],
-            "hasDiscount": true,
-            "hasPromotion": false
-          }
-        ]
+          "imageAspectRatio": 1,
+          "visibleItemCount": 4.5
+        }
       },
       {
+        "id": "140001",
         "widgetType": 5,
-        "position": "Section3B",
-        "viewProperties": {
-          "imageAspectRatio": 2.116,
-          "visibleItemCount": 1.0,
-          "cornerRadius": 8.0,
-          "itemSpace": 0.0,
-          "showDivider": false
+        "widgetHeader": {
+          "title": "SINGLE_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
         },
         "banners": [
           {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/haribo.jpg?context=bWFzdGVyfHJvb3R8MTQxMDkzfGltYWdlL2pwZWd8aDdiL2hiZi8xMDA0NTEwNTMwNzY3OC9oYXJpYm8uanBnfDA3ZTk3YzY4ZjVhODQ2ODhmNWY2M2JkMTBmZWUxY2VjMzEzNDg2NDFjNzRkYTZiNmNhMTgxMjhlMWNlNDA1Zjk",
-            "navigation": {}
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/haribo.jpg?context=bWFzdGVyfGJhbm5lcnN8MTQxMDkzfGltYWdlL2pwZWd8aGU2L2hiZi8xMDA0NTEwNTM0MDQ0Ni9oYXJpYm8uanBnfGQwOWU5MzExMGJjY2Q1MjU2OTE1Njg2NTlkZDM5MzhhOGRkYjlkZmE3MDAzMWUyNjIxMWQxZTczNTg0NWQ5YzI",
-            "navigation": {}
-          },
-          {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/haribo.jpg?context=bWFzdGVyfGJhbm5lcnN8MTQxMDkzfGltYWdlL2pwZWd8aDRjL2hjNi8xMDA0NTEwNTUwNDI4Ni9oYXJpYm8uanBnfDNiYTkwMDBlYTllNDYxNWRiMzkyZjBjODNhYjYzMzgwOTU3MGVjZGJhOWNmOTAyM2RlZTliN2E2OTVmOWI5NDc",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/floretta-koltukortusu-1200x300.jpg?context=bWFzdGVyfGJhbm5lcnN8MzUwNTY4fGltYWdlL2pwZWd8aDE1L2hkZi85NjUxNTc0NTA1NTAyL2Zsb3JldHRhX2tvbHR1a29ydHVzdV8xMjAweDMwMC5qcGd8MDAyNWE2Y2Y5NjBjNGVlNTE4YTlkNWU5ZGU4YzVkZjRmZTFjOTdjOTgzYjczZGM0NjE3Njg1NTJjNDE3NmRmMA",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Floretta-koltuk-ortusu"
+              "landingTitle": "Floretta Koltuk Örtüsü",
+              "deeplink": "ozd://"
             }
           },
           {
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/haribo.jpg?context=bWFzdGVyfGJhbm5lcnN8MTQxMDkzfGltYWdlL2pwZWd8aGUzL2hjMi8xMDA0NTEwNTQwNTk4Mi9oYXJpYm8uanBnfDgzYTc5YzVkN2Q5Y2E5NGQ0Y2ViNDJiNGQ1MDZkZWZkMzVlMmVjMmYwMzVjY2EzOWExYTYzY2JiZTQ4NmEzZjE",
-            "navigation": {}
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/guess-1200x300.jpg?context=bWFzdGVyfGJhbm5lcnN8Mjg2MTE3fGltYWdlL2pwZWd8aDBlL2g1Yi85NjQ5OTEzNzU3NzI2L2d1ZXNzXzEyMDB4MzAwLmpwZ3xiZjk1OTQ5Yjk2YzMxZmZmYjJhMjBlNzU3ZWU5ZDQzYWMzZTRmOWUyYWNlMWFkYTY5NGRkYzg0NjA4YzU3YzY2",
+            "navigation": {
+              "landingTitle": "Guess Koleksiyonu",
+              "deeplink": "ozd://"
+            }
           }
-        ]
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 4,
+          "visibleItemCount": 1,
+          "cornerRadius": 16
+        }
       },
       {
-        "contentIds": "Section2EBanner-1,Section2EBanner-2,Section2EBanner-3,Section2EBanner-4,Section2EBanner-5",
+        "id": "140002",
+        "widgetType": 2,
         "widgetHeader": {
-          "title": "Kış Stiline Özel",
-          "widgetNavigation": {}
-        },
-        "widgetType": 3,
-        "position": "Section3C",
-        "viewProperties": {
-          "imageAspectRatio": 0.695,
-          "visibleItemCount": 2.5,
-          "cornerRadius": 8.0,
-          "itemSpace": 8.0,
-          "showDivider": false
+          "title": "CAROUSEL_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
         },
         "banners": [
           {
-            "title": "Mont",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/mont-550x685.webp?context=bWFzdGVyfGJhbm5lcnN8MzI0ODR8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGhlYy9oNzUvMTAwNDQ1ODY5NTA2ODYvbW9udC01NTB4Njg1LndlYnB8ZTc2MTg1MGExYmYzMzliNmM1NzBmOThlYmZhMDRkMTNmYjNhOTc2ZWE4MjUzMjkyZWU4NDA0ODhjYTcxZjhkOA",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/adidas-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8OTA5OTgwfGltYWdlL2pwZWd8aDZjL2g3NS85NjQ5OTI0NDcyODYyL2FkaWRhc18xOTIweDczNS5qcGd8MWFkOGNjODEzMmEyZDZhYTBmODg5NTRmZmU3NWMwZWU2MTBlNWY3OWVjZTIyMmNmY2IxOWY1ZTQ0NzE4MzAzNw",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin-giyim-etek"
-            },
-            "metaTitle": "Etek Modelleri ve Fiyatları | Özdilekteyim.com"
-          },
-          {
-            "title": "Bot&Çizme",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/bot-550x685.webp?context=bWFzdGVyfGJhbm5lcnN8MjYzMDh8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGg0My9oNzYvMTAwNDQ1ODY5ODM0NTQvYm90LTU1MHg2ODUud2VicHw3NmVkYmE5YjFjZDAxZTAxZmM3MjEwZGU5YTUzZWRkMjI5ZWRhOWQ2OTI5YjM0NGFiNWJiZjI3NTA5Y2NiMWU3",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin-ayakkabi-terlik"
-            },
-            "metaTitle": "Kadın Sandalet & Terlik Modelleri ve Fiyatları | Özdilekteyim.com"
-          },
-          {
-            "title": "Sweatshirt",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/sweatshirt-550x685.webp?context=bWFzdGVyfGJhbm5lcnN8MjA1MjZ8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGg5Ni9oYzAvMTAwNDQ1ODcwMTYyMjIvc3dlYXRzaGlydC01NTB4Njg1LndlYnB8MDZjY2YxZjdiN2M5YTRjZjE5ZWVmNjgzMGM5ZDllN2NmNTRlNGE5ZWEwYTgzNjEzYzA5YzMwMzVjNGQxNzc4ZA",
-            "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/detail/12861262"
+              "landingTitle": "Spor Giyim Ve Ayakkabı Koleksiyonu",
+              "deeplink": "ozd://"
             }
           },
           {
-            "title": "Pantolon",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/denim-550x685.webp?context=bWFzdGVyfGJhbm5lcnN8Mzg4OTB8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGhlYy9oYzAvMTAwNDQ1ODcwNDg5OTAvZGVuaW0tNTUweDY4NS53ZWJwfDc3Zjg5ODIyYzAyMmU0MjQ1OWQ4YjU2YTkxYWE1MjVkMTVlYTI1YWQ5NjZiODRhNzE5MGQ0N2Q0NWZlNWUxZjQ",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/birkenstock-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8ODIwMDk3fGltYWdlL2pwZWd8aDJjL2g3Ni85NjQ5OTI0NDA3MzI2L2JpcmtlbnN0b2NrXzE5MjB4NzM1LmpwZ3xhODhkNTc2MTIzZGMyYTRmNTQ0Zjk5N2IxYTg5NWE0MWVkMTNhYzk2YzlhNTFmM2U5NzUzNmEyMjk3Y2ZiZjlh",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-kadin-giyim-bluz"
-            },
-            "metaTitle": "Bluz & Tunik Modelleri ve Fiyatları | Özdilekteyim.com"
+              "landingTitle": "Birkenstock Terlik Koleksiyonu",
+              "deeplink": "ozd://"
+            }
           },
           {
-            "title": "Çanta",
-            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/canta-550x685.webp?context=bWFzdGVyfGJhbm5lcnN8NDYzNjh8YXBwbGljYXRpb24vb2N0ZXQtc3RyZWFtfGg1Ni9oYzEvMTAwNDQ1ODcwODE3NTgvY2FudGEtNTUweDY4NS53ZWJwfDA3Zjc1Yzk2MjI0NTg5Mjk2YmRhNWE2YzAxMTg0NGM0ZWFjMjVjMTQ0NDExY2Y0YjU4YzIyZDQ0YWU5ODIxZWE",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735px.jpg?context=bWFzdGVyfGJhbm5lcnN8NTE4NDUyfGltYWdlL2pwZWd8aDI2L2gzOC85NDk5MzMyMDgzNzQyLzE5MjB4NzM1cHguanBnfGQ5YzVhNTNjYTJiYTM1ZDMwMmU5NWI1Y2Y4MTM5ZGM0OGExYjkxODQ0ZTIxM2NiZDg3Yjk3YjJhZDBlYjdmZmM",
+            "navigation": null
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/1920x735-.jpg?context=bWFzdGVyfGJhbm5lcnN8NDg1MjkyfGltYWdlL2pwZWd8aDMwL2g2Zi85NjQ2ODg0NzQ5MzQyLzE5MjB4NzM1LS5qcGd8OGI2Yjk2NmJlZWUzMDIyYTA5YzgxYmQxODVjNjIyNGY4NmI2NWExMDQzMDk4NTFjZDM3MWI3Y2ZmNDYzZDc3Mg",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-evtekstili-havlu-bornoz-banyo-havlusu"
-            },
-            "metaTitle": "Banyo Havlusu Modelleri ve Fiyatları | Özdilekteyim.com"
+              "landingTitle": "Birkenstock Terlik Koleksiyonu",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pierreCardin-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTI2OTMxOHxpbWFnZS9qcGVnfGhlYS9oN2MvOTY0OTkyNDIxMDcxOC9waWVycmVDYXJkaW5fMTkyMHg3MzUuanBnfGViMGI0NTRlYmFlNDczZjJlN2JlMzIwNTA3M2M0YzEzZWU5NWRiMjU3Zjc2N2QxZTRmNzc0N2UxNTJmMDViMTY",
+            "navigation": {
+              "landingTitle": "Kadın Giyim Koleksiyonu",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/kappa-1920x735.jpg?context=bWFzdGVyfGJhbm5lcnN8MTE3MDIwMXxpbWFnZS9qcGVnfGg3Zi9oZDcvOTY1MTQzNTI0MTUwMi9rYXBwYV8xOTIweDczNS5qcGd8MTdjNWE4ZDFlOTdmN2RmMTQwOThjNzgwZWNmYmQxYmY0OWZiYmJmNzlmN2Q5OTg3NWNhYmY4MmFjOGIxM2QwMA",
+            "navigation": {
+              "title": "Giyim Koleksiyonu",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/pacorabanne.jpg?context=bWFzdGVyfHJvb3R8NTM1ODl8aW1hZ2UvanBlZ3xoNGEvaDhkLzg4MDczODc5MjI0NjIvcGFjb3JhYmFubmUuanBnfDNjZDE4OTljZTQ3ZmYyOWYxYTBkOWFmOTQ2ODIzNmQxYTZlOWVmZWQzYmIyOTFkN2MyZDAwMjhjMjk1MTJlYTU",
+            "navigation": {
+              "landingTitle": "Paco Rabanne",
+              "deeplink": "ozd://"
+            }
           }
-        ]
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 2.61,
+          "visibleItemCount": 1,
+          "cornerRadius": 16
+        }
       },
       {
-        "contentIds": "13075014,12912686,12912733,13091558,12912548,13073650,12912518,12912693,12924528",
+        "id": "140003",
+        "widgetType": 4,
         "widgetHeader": {
-          "title": "Yeni Sezon Koleksiyonlarımız",
-          "widgetNavigation": {}
+          "title": "LISTING_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
         },
+        "banners": [
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/350x327-rosebud-bornoz.jpg?context=bWFzdGVyfHJvb3R8MTE5MDMzfGltYWdlL2pwZWd8aGJmL2g5Yy85NDkwODY3NDUzOTgyLzM1MHgzMjdfcm9zZWJ1ZF9ib3Jub3ouanBnfDE4ZWUyYzIyM2I3ODAzMzI4MGQ4NTdkYzhjNTMyMzIwOGJjMmEwNzU4NmJlZmU1MjU0MDM2ODM4YTg5MTY2Njk",
+            "navigation": {
+              "landingTitle": "Bornoz",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/24.jpg?context=bWFzdGVyfGJhbm5lcnN8MzE3MTgzfGltYWdlL2pwZWd8aGFkL2g3Ny85NTMwODYyOTI3OTAyLzI0LmpwZ3xlZjhkYTBjYTk3Y2FkMDMzMTNjYWFjNzUwMDRiMGU5MGU3ODBhY2U2MDVlZjE3YmJlMGFkNTE1MWFiODVkNjAy",
+            "navigation": {
+              "landingTitle": "Outdoor Ayakkabı & Bot",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/medias/2.jpg?context=bWFzdGVyfGJhbm5lcnN8MjcyMzU3fGltYWdlL2pwZWd8aDE3L2hjMy85NTMwODYzMDU4OTc0LzIuanBnfDZmODFjYWM1NWNkMTc2MWIxZDI3M2M3NjkwNzdiOGM3NDdhMzA5YzQ1OWY4ZmJmNWE3YWU2ODBjMTQ1MzFlM2U",
+            "navigation": {
+              "landingTitle": "Outdoor Ayakkabı & Bot",
+              "deeplink": "ozd://"
+            }
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 1.07,
+          "visibleItemCount": 3,
+          "cornerRadius": 16,
+          "itemSpace": 8
+        }
+      },
+      {
+        "id": "140005",
+        "widgetType": 9,
+        "widgetHeader": {
+          "title": "SINGLE_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
+        },
+        "showcaseProducts": {
+          "backgroundImageUrl": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/home/magaza/showcase_background_image.png",
+          "productTags": [
+            {
+              "topRate": 20,
+              "leftRate": 20,
+              "productId": "13080249",
+              "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/1200/1200/medias/8697353571848.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDE5Nzk1fGltYWdlL2pwZWd8aDcxL2gzOC85NzUyOTg0MDU5OTM0fDEyY2QwYzNmZjE0OWFjYjVlM2YyMWI5MWZhYjI0MWFhNzk0YzAwZTJkMzRmY2Q1NTU2NDFjM2FlOGUyMDI0ZDY",
+              "productName": "Özdilek Ditsy Çift Kişilik Yatak Örtüsü 230x250",
+              "price": {
+                "discountRate": null,
+                "oldPrice": null,
+                "currentPriceWholeNumber": "899",
+                "separator": ",",
+                "currentPriceDecimalNUmber": "00",
+                "currency": "TL",
+                "value": 899,
+                "firebaseCurrency": "TRY",
+                "formattedValue": "95,49 TL"
+              },
+              "rating": {
+                "average": 4.5,
+                "count": 15
+              }
+            },
+            {
+              "topRate": 60,
+              "leftRate": 50,
+              "productId": "13252725",
+              "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/1200/1200/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjU2MjI1OHxpbWFnZS9qcGVnfGg4Ny9oYTMvOTkxOTE0NjA2NTk1MHwxOWZiOTgyZjg0MzZkM2NiNmNhZmQ0ZTYyZWZlYzFiMzRiZmExNTEwZjdmMWY4YjUyM2FhOWY0YTQ5MTRkM2Rl",
+              "productName": "Özdilek Ruby Çift Kişilik Çeyiz Seti 16 Parça",
+              "price": {
+                "discountRate": null,
+                "oldPrice": null,
+                "currentPriceWholeNumber": "899",
+                "separator": ",",
+                "currentPriceDecimalNUmber": "00",
+                "currency": "TL",
+                "value": 899,
+                "firebaseCurrency": "TRY",
+                "formattedValue": "95,49 TL"
+              },
+              "rating": {
+                "average": 4.5,
+                "count": 15
+              }
+            }
+          ]
+        },
+        "viewProperties": {
+          "topPadding": 16.0,
+          "imageAspectRatio": 1.0,
+          "visibleItemCount": 1,
+          "cornerRadius": 0
+        }
+      },
+      {
+        "id": "140004",
         "widgetType": 6,
-        "position": "Section3D",
-        "viewProperties": {
-          "imageAspectRatio": 0.66,
-          "visibleItemCount": 2.5,
-          "cornerRadius": 8.0,
-          "itemSpace": 8.0,
-          "showDivider": false
+        "widgetHeader": {
+          "title": "SLIDER_PRODUCT",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
         },
         "products": [
           {
-            "productId": "PR-2224BS2080620068700041BEYAZ",
-            "name": "First Company Kadın Ceket 2224BS208062",
+            "productId": "PR-12202099EKRU",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Koton Erkek Şort 2SAM40057BD",
             "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/2220132667201.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTAzOTIxN3xpbWFnZS9qcGVnfGg2NS9oNmYvOTgyMTcwMDE5NDMzNHxhMzY2NThiNmRmMDVmNjA3Yjc2ZmYzNmI3ODBhMDU1ODQzMGMzYjRlYTQ0M2Y2Zjk4YjU4YWE2ZTc2ODdlNGM5"
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzMjUzMHxpbWFnZS9qcGVnfGg2Yi9oZjcvOTU2OTczMTIxNTM5MHw2YjNlOWMwZTJkNjY3MGI2NzUxMzkxNWRlYTUxMzg1ODZjYjViNTE0NGU1OThlM2I5ZWYzODdiOTljMThhMmQ4"
             ],
+            "colorCount": null,
             "rating": {
-              "average": 0.0,
-              "count": 0
+              "average": 4.8,
+              "count": 48
             },
             "price": {
-              "discountRate": "11",
-              "oldPrice": "449,99",
-              "currentPriceWholeNumber": "399",
+              "discountRate": null,
+              "oldPrice": null,
+              "currentPriceWholeNumber": "899",
               "separator": ",",
-              "currentPriceDecimalNUmber": "99",
+              "currentPriceDecimalNUmber": "00",
               "currency": "TL",
-              "value": 399.99,
+              "value": 899,
               "firebaseCurrency": "TRY",
-              "formattedValue": "399,99 TL",
-              "isPriceRange": false
+              "formattedValue": "95,49 TL"
             },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
               }
-            },
+            ],
+            "promotions": null
+          },
+          {
+            "productId": "PR-10138789BORDO",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Koton Kadın Atlet 2YAL38002OK",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTMyMDA2OXxpbWFnZS9qcGVnfGgxZS9oZWYvOTU2OTA4MTg4NDcwMnxmMzc5Y2QzN2E3NmI0MTgzYzJmNGU3NjdkZGQwZWMxYTc0MmY0Mzk5ODFhNjlkMDMzY2Q4MWNiMDliODgwMzA5"
+            ],
             "colorCount": "2",
-            "categories": [
-              "Kadın",
-              "Giyim",
-              "Ceket"
-            ],
-            "hasDiscount": true,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-2224BS2012940068700041BEJ",
-            "name": "First Company Kadın Mont 2224BS201294",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/2220132665801.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Njg3MDk0fGltYWdlL2pwZWd8aDhkL2hhZi85ODIxNjkwOTUzNzU4fDcxNDZlY2EyYjJmMjBhMTViYTljNmVlNTBhNjc4YzQyMjY0MTE0ZGZjMzY5ODYzMGU1N2YyODhmNWU4MzZhNmI"
-            ],
             "rating": {
-              "average": 0.0,
-              "count": 0
+              "average": 1.1,
+              "count": 4
             },
             "price": {
-              "discountRate": "16",
-              "oldPrice": "599,99",
-              "currentPriceWholeNumber": "499",
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
               "separator": ",",
-              "currentPriceDecimalNUmber": "99",
+              "currentPriceDecimalNUmber": "00",
               "currency": "TL",
-              "value": 499.99,
+              "value": 899,
               "firebaseCurrency": "TRY",
-              "formattedValue": "499,99 TL",
-              "isPriceRange": false
+              "formattedValue": "59,45 TL"
             },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "3",
             "categories": [
-              "Kadın",
-              "Giyim",
-              "Mont & Kaban"
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
             ],
-            "hasDiscount": true,
-            "hasPromotion": false
+            "promotions": [
+              {
+                "text": "1000 TL' ye_100 TL indirim"
+              }
+            ]
           },
           {
-            "productId": "PR-2224BS2013540068700041BEJ",
-            "name": "First Company Kadın Mont 2224BS201354",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/2220132666310.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTM0ODM3NnxpbWFnZS9qcGVnfGg1OC9oMGQvOTc1NzQ1MDUwMjE3NHwwNjgxNDdjMGEzODVmNjc0YTk5ZjYyMGVmZDRlMWU1MzJkMDkyOTIyODBlODU5MjYwNTU2YjMyZTQyZjQ0MzFi"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "discountRate": "11",
-              "oldPrice": "449,99",
-              "currentPriceWholeNumber": "399",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "99",
-              "currency": "TL",
-              "value": 399.99,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "399,99 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Kadın",
-              "Giyim",
-              "Mont & Kaban"
-            ],
-            "hasDiscount": true,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-23101050000068700042ACIKBEJ",
-            "name": "First Company Yelek 2310105000",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/2220094309676.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTM1MTgwfGltYWdlL2pwZWd8aDUwL2g5MC85ODQ1NDA2NDAwNTQyfDNlNmNhN2U1M2NhY2M2ZTY3ZTEwZGU1ZGFkNDU2YzE0ODRhMmM4YWNhMTA1YmJjZjc4ZTQwZjUwMjMxOGIyM2Q"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "599",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "99",
-              "currency": "TL",
-              "value": 599.99,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "599,99 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "4",
-            "categories": [
-              "Erkek",
-              "Giyim",
-              "Yelek"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-2224BS2133260068700041SIYAH",
-            "name": "First Company Kadın Yelek 2224BS213326",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/2220132664491.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEyNDc4N3xpbWFnZS9qcGVnfGhmNi9oYmQvOTc1NzI3NTA5NTA3MHxiZTA2OGYwYmZiNjEwNzg3MGZhNTIyMDY1ZjdkYjYyMzMzYjQyNGE2ZTA3MDBjM2I3NTczNGRhZWYwY2JhNTFh"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "discountRate": "14",
-              "oldPrice": "349,99",
-              "currentPriceWholeNumber": "299",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "99",
-              "currency": "TL",
-              "value": 299.99,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "299,99 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
+            "productId": "PR-10138789KAHVERENGI",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "U.S. Polo Assn. Kadın Bermuda 1357381",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NjIzMzkxfGltYWdlL2pwZWd8aDNmL2gyNC85NTUwMTgxNjk1NTE4fDM5ODM1ZDg2M2JiMGE3NTkwYjZkODNkMDJiNGI2NTRhMDJjYjk4ZDA0NzVmMDU1MzM1MDFlNjU1YjgwOGY3MDM",
             "colorCount": "2",
+            "rating": {
+              "average": 2.1,
+              "count": 44
+            },
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "59,45 TL"
+            },
             "categories": [
-              "Kadın",
-              "Giyim",
-              "Yelek"
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
             ],
-            "hasDiscount": true,
-            "hasPromotion": false
+            "promotions": null
           },
           {
-            "productId": "PR-2224BS2080620068700041BEYAZ",
-            "name": "First Company Kadın Ceket 2224BS208062",
+            "productId": "PR-S221508-3000202800040YESIL",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Defacto Kadın Şapka W7207AZTRASTD",
             "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/2220132667171.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NjAxMjI5fGltYWdlL2pwZWd8aDUxL2gyMC85ODIxNjk4MDk3MTgyfGNkNjBkZjgyZWY4NDk1NWFjZTE1Yzk0NWZlMjVlZGE4ZWQ3YmEyNTU4YzEwZmRkYTZmYmRjNWNhZjBiYWRkZWQ"
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NTYxOTA3fGltYWdlL2pwZWd8aDExL2g2Ny85NTk5NDI5NjQwMjIyfGQwZjhiNjhiN2M2YWU3Njk1NTYwOWEwMmJhN2QyMzUxZjJhOGZmMWM2ZTg3YmQ5MGU0NTM2YmY5MDY3ODZjNGM"
             ],
+            "colorCount": null,
             "rating": {
-              "average": 0.0,
+              "average": 3.5,
+              "count": 13
+            },
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "59,45 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": []
+          },
+          {
+            "productId": "PR-S221508-3000202800040YESIL",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Koton Erkek Şort 2SAM40057BD",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTEzMjUzMHxpbWFnZS9qcGVnfGg2Yi9oZjcvOTU2OTczMTIxNTM5MHw2YjNlOWMwZTJkNjY3MGI2NzUxMzkxNWRlYTUxMzg1ODZjYjViNTE0NGU1OThlM2I5ZWYzODdiOTljMThhMmQ4"
+            ],
+            "colorCount": "5",
+            "rating": {
+              "average": 4.5,
+              "count": 3
+            },
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "59,45 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": []
+          },
+          {
+            "productId": "PR-S221508-3000202800040YESIL",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Özdilek Princess Time Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Çocuk Pike Takımı",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDkyOTY2fGltYWdlL2pwZWd8aDBhL2g2MC85MjU2ODc0Mzc3MjQ2fGFjYzM1YzJhOWQzODk1MWI5ZWY5Zjk2ZmJiOTQzODM2NmMyODkzNTE4NzM3NmYxODIxOTY4ZDVjNWU0MmRmYzQ"
+            ],
+            "colorCount": null,
+            "rating": {
+              "average": 5,
+              "count": 1
+            },
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "129,00 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": null
+          },
+          {
+            "productId": "PR-S221508-3000202800040YESIL",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Robin Kadın Triko Elbise T93586",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8OTYxNzR8aW1hZ2UvanBlZ3xoNDQvaDUwLzk1NDUwMzk1NzcxMTh8YzhlNGYwNjVhMjRjNjhjODI1NDRkNGY0NmQ4MmMwMTdjZjk0MjVhZDJjN2Q0OTNkZWExMWI5ZWJmYTk2OWIyYg"
+            ],
+            "colorCount": null,
+            "rating": {
+              "average": 0,
               "count": 0
             },
             "price": {
-              "discountRate": "11",
-              "oldPrice": "449,99",
-              "currentPriceWholeNumber": "399",
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
               "separator": ",",
-              "currentPriceDecimalNUmber": "99",
+              "currentPriceDecimalNUmber": "00",
               "currency": "TL",
-              "value": 399.99,
+              "value": 899,
               "firebaseCurrency": "TRY",
-              "formattedValue": "399,99 TL",
-              "isPriceRange": false
+              "formattedValue": "89,00 TL"
             },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "2",
             "categories": [
-              "Kadın",
-              "Giyim",
-              "Ceket"
-            ],
-            "hasDiscount": true,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-2224BS2133430068700041ORANJ",
-            "name": "First Company Kadın Yelek 2224BS213343",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/2220132664163.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzA5NDU5fGltYWdlL2pwZWd8aGRlL2gxYi85NzU3MjcyNzM1Nzc0fDA2YWRhZjI4NjdkNDc3Y2UyMTUwNTMzOGMxN2YxYTkwOTgxZjYxZGY1OWRlZTI2NTlhNmU2OTYyY2Y0ZGRlZTI"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "discountRate": "12",
-              "oldPrice": "399,99",
-              "currentPriceWholeNumber": "349",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "99",
-              "currency": "TL",
-              "value": 349.99,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "349,99 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
               }
-            },
-            "colorCount": "1",
-            "categories": [
-              "Kadın",
-              "Giyim",
-              "Yelek"
             ],
-            "hasDiscount": true,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-2224BS2133520068700041BEJ",
-            "name": "First Company Kadın Yelek 2224BS213352",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/2220132665917.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NjUzNzU1fGltYWdlL2pwZWd8aDM2L2hjYi85NzU3NDQ1NTg2OTc0fDYyMjg2NzUyMzg2YTk4NzNhMDk3NzhiMGI5MDNmNzgwYjQzOWFjZmY4MGI0ZDhjMTA1ZWZjZGNmYzFlZDlhZDY"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "discountRate": "16",
-              "oldPrice": "299,99",
-              "currentPriceWholeNumber": "249",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "99",
-              "currency": "TL",
-              "value": 249.99,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "249,99 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
+            "promotions": [
+              {
+                "text": "2 al 1 öde"
+              },
+              {
+                "text": "3 al 2 öde"
               }
-            },
-            "colorCount": "2",
-            "categories": [
-              "Kadın",
-              "Giyim",
-              "Yelek"
-            ],
-            "hasDiscount": true,
-            "hasPromotion": false
-          },
-          {
-            "productId": "PR-2224BS2140030068700041ANTRASITMELANJ",
-            "name": "First Company Kadın Sweatshirt 2224BS214003",
-            "images": [
-              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/2220128288014.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTA5MjkwMnxpbWFnZS9qcGVnfGg3OC9oNTcvOTcyMDI3MzYwMDU0MnxhYTIyZjMyMmFkOTYxNzI5ODdhNDM0NDQ3YzMzNTczNWI4MmMwZjRhZTRiMzc5MzlkNWM0Yzc5NDkyYTk3NmY5"
-            ],
-            "rating": {
-              "average": 0.0,
-              "count": 0
-            },
-            "price": {
-              "currentPriceWholeNumber": "199",
-              "separator": ",",
-              "currentPriceDecimalNUmber": "99",
-              "currency": "TL",
-              "value": 199.99,
-              "firebaseCurrency": "TRY",
-              "formattedValue": "199,99 TL - 279,99 TL",
-              "isPriceRange": false
-            },
-            "isQuantityPickerVisible": false,
-            "quantityPickerProperties": {
-              "minimumQuantity": 1,
-              "maxQuantity": 100,
-              "defaultQuantity": 1,
-              "incrementValue": 1,
-              "unit": {
-                "type": "AD",
-                "text": "adet"
-              }
-            },
-            "colorCount": "9",
-            "categories": [
-              "Kadın",
-              "Giyim",
-              "Sweatshirt"
-            ],
-            "hasDiscount": false,
-            "hasPromotion": false
+            ]
           }
-        ]
+        ],
+        "viewProperties": {
+          "topPadding": 0.0,
+          "backgroundColor": "#4d4c48",
+          "imageAspectRatio": 0.66,
+          "visibleItemCount": 2.5,
+          "cornerRadius": 8,
+          "itemSpace": 8
+        }
+      },
+      {
+        "id": "140006",
+        "widgetType": 3,
+        "widgetHeader": {
+          "title": "SLIDER_BANNER",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
+        },
+        "banners": [
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/ozdilek-evteks-logo.png?context=bWFzdGVyfHJvb3R8MjkxNXxpbWFnZS9wbmd8aDRmL2hjYS84ODA0MDc0MjkxMjMwL296ZGlsZWstZXZ0ZWtzLWxvZ28ucG5nfDA1MTNjMjdkYzM3NGI1M2I4MTNlNjhmZjBlODBlMmMxNmJjMjJiOWUzZTM1NTJmMDI4MzY3MDdjNWRiZGQyZGQ",
+            "navigation": {
+              "landingTitle": "Özdilek",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/sademorganik.jpg?context=bWFzdGVyfGJhbm5lcnN8MzgyN3xpbWFnZS9qcGVnfGhmNC9oMGIvOTAwNzkwNjc1MDQ5NC9zYWRlbW9yZ2FuaWsuanBnfGE5YjY3MmJkM2I1NzdiYzExNTE4MmU2OGYxNzI0YTY4ZDEyMTkyM2JmOTcxYTBlMDNjYjZkYTgyODZiZTA5YzQ",
+            "navigation": {
+              "landingTitle": "Sadem",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/shefame.png?context=bWFzdGVyfHJvb3R8NDI1M3xpbWFnZS9wbmd8aDgzL2hiZC84ODA0MDc0NjE4OTEwL3NoZWZhbWUucG5nfDdmY2MzYTBlNjIwMDc2MjMwZWUxZjdmMjg4YTI1NzFjMTU0MjBmNDM1YjkyOWNhNDhhNDczYmYyMjk3MGU5YmU",
+            "navigation": {
+              "landingTitle": "Shafame",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/mavi.png?context=bWFzdGVyfHJvb3R8MTczMHxpbWFnZS9wbmd8aDg5L2g2Ny84ODA0MDc1MDc3NjYyL21hdmkucG5nfDk2Mjc3YzFjMmU2YjExOGZlNmM3MjRhNjA4ZjlkNjY3NmY4MmZhYTFmZGZlNDliNjhhZTI4YTUwMTZjYzA1MDA",
+            "navigation": {
+              "landingTitle": "Mavi",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/nike.png?context=bWFzdGVyfHJvb3R8MTk5Mjl8aW1hZ2UvcG5nfGgwOC9oODIvOTI1MDA2NTM1MDY4Ni9uaWtlLnBuZ3wwNzdiOTc1NzIwYmFhNDJhN2VkMjJkOTdmODA2MTg0ZmE2MGNjNzJiZjliZjg0ODA4MzA5MmY5NmIyZDI2NmQ2",
+            "navigation": {
+              "landingTitle": "Nike",
+              "deeplink": "ozd://"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/cengiz-pakel.png?context=bWFzdGVyfHJvb3R8Mzg5OHxpbWFnZS9wbmd8aGQ5L2g1My84ODA0MDc1NjAxOTUwL2Nlbmdpei1wYWtlbC5wbmd8YmYxZjM1ZGZjMWZjOGFhMmQ0NTNhYWM0NGUwYTIxMTllNjE1ODA4NDRjOWY4ZmVhNTUzZDkxZTEwZmYzZmRjNw",
+            "navigation": {
+              "landingTitle": "Cengiz Pakel",
+              "deeplink": "ozd://"
+            }
+          }
+        ],
+        "viewProperties": {
+          "topPadding": 0.0,
+          "backgroundColor": "#4d4c48",
+          "imageAspectRatio": 1,
+          "visibleItemCount": 3.5,
+          "cornerRadius": 16,
+          "itemSpace": 8
+        }
+      },
+      {
+        "id": "140007",
+        "widgetType": 7,
+        "widgetHeader": {
+          "title": "LISTING_PRODUCT",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
+        },
+        "products": [
+          {
+            "productId": "PR-10138789BAKIR",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Mavi Kadın Tişört 1600740-900",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTI5MjQ0NXxpbWFnZS9qcGVnfGg2OC9oNDgvOTIwMjUyMzc5OTU4MnwwZTE3OTIzNWE2NDJiNDQ2ZmY2NjJkMjk4YjM3NWY0M2JlZmJlNTg4ZmU4MTY1NTAyMWYxMGI5OTRlMTUwMDVj",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ3OTI1MXxpbWFnZS9qcGVnfGhmNS9oOTkvOTIwMjUyNDA2MTcyNnxiMjk4MjQyYTk3MzRlN2ZlMzZkOWM1MDkxZjZmYTFiOTE3MTQyZGE4MWUyZDQ3ZGE0MTRmMmU0YTZlMDk1NTcz",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTE4NDU1M3xpbWFnZS9qcGVnfGgyMS9oYjgvOTIwMjUyNDkxMzY5NHxlNjQwY2QwODFjMWQ2ZWQ5ZjhhYjg5ODk3N2E3NmMwNDU0YWNiY2UzZjBkNzNjOWM0NDY5ZjE0ZGEyYjI0Y2Vl",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTIwNTc3MHxpbWFnZS9qcGVnfGg1My9oYWUvOTIwMjUyNDY1MTU1MHw1NjcwOTg0YmJlMGM5M2NjY2E2NDVkM2U2MTg2N2JiMzExZjc5NTBkOGRmM2Q0ZjNmYjA2NTViMzEyNTdmYjFh"
+            ],
+            "colorCount": null,
+            "rating": {
+              "average": 4.8,
+              "count": 48
+            },
+            "price": {
+              "discountRate": null,
+              "oldPrice": null,
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "5999,00 - 6999,99 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": [
+              {
+                "text": "2 al 1 öde"
+              }
+            ]
+          },
+          {
+            "productId": "PR-19Y4BS204001.2.ATA0068700001BEYAZ",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "U.S. Polo Assn. Erkek Eşofman Altı 1350355.VR046",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzI4MTQ0fGltYWdlL2pwZWd8aDNmL2g4Ni85NDg3NDY2MzY0OTU4fDcyMWI2NTBmOTFmOGY5MzRmZWZiY2NlOGYzOWNjMzUwY2I1YzYyNGY2NDlkZmQ0ZWFmMGM4NjM4Y2Y5ODc0Y2M",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NzMyOTI2fGltYWdlL2pwZWd8aDBkL2g5MC85NDg3NDY2NjI3MTAyfDdiZWFlMDY1YjI5NzI5MjZhOWU1ZGU5NmU0MzY3NzM4NGY1NGEzMmMyNDEwN2Y1MThlN2M1ZmI3ZmI2NTBlYjY",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Njg1MDA3fGltYWdlL2pwZWd8aDhjL2g5Ny85NDg3NDY2ODg5MjQ2fGZiMGE5YTc3MDViMTcxMjUxODI2MzliOTczOWQxMjgxMzcxODRlMjIzYjBlM2VlYjI5NDZjYzA1OWU3Nzg3NDY",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTMxNjQ3OHxpbWFnZS9qcGVnfGgxOS9oZTkvOTQ4NzQ2NzE1MTM5MHxkYjljMjBmMGUzOWNjOWRmYjc5YzdjMjAwYzZkZTc1YTEzZjdlZDcyZTYwZWQ5MzllZTc0NWVjMDA5ZWVhMDlm"
+            ],
+            "colorCount": "2",
+            "rating": {
+              "average": 3,
+              "count": 13
+            },
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "199,00 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": null
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 0.66,
+          "visibleItemCount": 2,
+          "cornerRadius": 8,
+          "itemSpace": 16
+        }
+      },
+      {
+        "id": "140008",
+        "widgetType": 7,
+        "widgetHeader": {
+          "title": "LISTING_PRODUCT",
+          "widgetNavigation": {
+            "title": "Tümü",
+            "landingTitle": "En çok satılanlar",
+            "deeplink": "ozd://"
+          }
+        },
+        "products": [
+          {
+            "productId": "PR-S221508-3000202800040YESIL",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Pierre Cardin Kadın Bikini 227285",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/300/300/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8OTExODY1fGltYWdlL2pwZWd8aDVhL2gzYy85NTIxMjI0MzUxNzc0fGRkNDg4NjUxOGQ5YmJkNjdkOTg0YzBkNjk3NDA0ZTk5NmYzMWQ2OGZhMzRjNWRmNzJjYzRlMzk1N2YyZDMzMjk"
+            ],
+            "colorCount": "2",
+            "price": {
+              "discountRate": "10",
+              "oldPrice": "999,00",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "1299,00 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": null
+          },
+          {
+            "productId": "PR-S221508-3000202800040YESIL",
+            "contentId": "PR-S221508-3000202800040YESIL",
+            "name": "Özdilek Princess Time Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Çocuk Pike Takımı",
+            "images": [
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDkyOTY2fGltYWdlL2pwZWd8aGZhL2g1Yy85MjU2ODc0NDQyNzgyfDc3YmQ2MmYzNDc4OGYxYWYzZjFiNWZkYTdmZmMwMTZkZGJiMzY5ZGEzZWEyM2I1YWJkOTU2NzcxODQxZTNmMTA",
+              "https://img-ozdilekteyim.mncdn.com/mnresize/#imageSize/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDEwMzUwfGltYWdlL2pwZWd8aGZiL2g1OS85MjU2ODc0NTA4MzE4fGEwOGRhNDViM2FjYjgyNGE1Y2UwNzc2MWQxODBjOGU0NmQ3MGNkZTE4MzdhMGUwZDA3MGFlZjAwNmJmZGY3ZDM"
+            ],
+            "colorCount": null,
+            "price": {
+              "discountRate": "40",
+              "oldPrice": "3000,00 TL",
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "1299,00 - 1399,00 TL"
+            },
+            "categories": [
+              {
+                "name": "Unlu Mamuller"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              },
+              {
+                "name": "Hamur İşi Ürünler"
+              }
+            ],
+            "promotions": null
+          }
+        ],
+        "viewProperties": {
+          "imageAspectRatio": 0.66,
+          "visibleItemCount": 2,
+          "cornerRadius": 8,
+          "itemSpace": 16
+        }
       }
     ]
   }
