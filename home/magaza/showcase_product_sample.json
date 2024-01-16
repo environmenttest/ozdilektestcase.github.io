@@ -536,12 +536,8 @@
               "Hamur İşi Ürünler"
             ],
             "promotions": [
-              {
-                "text": "2 al 1 öde"
-              },
-              {
-                "text": "3 al 2 öde"
-              }
+              "2 al 1 öde",
+              "3 al 2 öde"
             ]
           }
         ],
