@@ -43,6 +43,7 @@
         ],
         "position": "Section1",
         "viewProperties": {
+          "topPadding": 0.0,
           "imageAspectRatio": 2.116,
           "visibleItemCount": 1.0,
           "cornerRadius": 8.0,
@@ -101,6 +102,7 @@
           }
         ],
         "viewProperties": {
+          "topPadding": null,
           "imageAspectRatio": 1.0,
           "visibleItemCount": 3.0,
           "cornerRadius": 8.0,
@@ -800,7 +802,7 @@
           "showDivider": false
         }
       },
-            {
+      {
         "contentIds": "sectionStory3,sectionStory4,sectionStory5,ozdilek-link,sectionStory7,sectionStory8,pasabahce-story,sectionStory10,sectionStory11,sectionStory12,shefame-deneme",
         "widgetHeader": {
           "widgetNavigation": {}
@@ -809,77 +811,66 @@
         "position": "sectionStory",
         "banners": [
           {
-            "title": "Adidas",
             "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-adidas.png?context=bWFzdGVyfGJhbm5lcnN8MTE5Nzd8aW1hZ2UvcG5nfGgyYS9oNmMvMTAwNDUxMDczNzIwNjIvMTQweDE0MC1hZGlkYXMucG5nfDExZDFjMTFhYzVlNTU1NzY2MGEwMGM5YWQ2YTE2MjVjZWVhZDI5YTczZTkxNmY3MDQ0MGM2MTc4OGMxYTM4Yzk",
             "navigation": {
               "deepLink": "ozd://magaza-magaza-store/"
             }
           },
           {
-            "title": "United Colors of Benetton",
             "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-un-ted.png?context=bWFzdGVyfGJhbm5lcnN8MjA0MDF8aW1hZ2UvcG5nfGhjMi9oNjgvMTAwNDUxMDc0NzAzNjYvMTQweDE0MC11bsSxdGVkLnBuZ3xiNDIwY2NhYWQzNjE3ZjhkNjhiNzViYzM2MGZkODNmZjY5NGU0MzNjZDY2NzJhMmY3MjU4YjdhZmM1OWQ0ZDUy",
             "navigation": {
               "deepLink": "ozd://magaza-magaza-store/"
             }
           },
           {
-            "title": "Birkenstock",
             "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-birken.png?context=bWFzdGVyfGJhbm5lcnN8MTk1Mzh8aW1hZ2UvcG5nfGg2ZC9oNjUvMTAwNDUxMDc1Njg2NzAvMTQweDE0MC1iaXJrZW4ucG5nfDM5MTIzNWJkMTc4NWZiY2M5MWZlNzYxMDE4MzIwMjE2NGRhYjQ4MmQ4YTEyMmQxMmM4M2YxOTFiNjFjNDI5ZTI",
             "navigation": {
               "deepLink": ""
             }
           },
           {
-            "title": "Özdilek",
             "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-ev-tekstil.png?context=bWFzdGVyfGJhbm5lcnN8MTcxOTd8aW1hZ2UvcG5nfGhiMy9oNjIvMTAwNDUxMDc2MDE0MzgvMTQweDE0MC1ldi10ZWtzdGlsLnBuZ3w1MGYzZjZmZjI3M2JlNGMxMDJkYmQzYjYxYTc4MjY3NzI4OWYwZjAzZTczMTdiZDlhZTk1NzFiYmUyYjhjYjM3",
             "navigation": {
               "deepLink": ""
             }
           },
           {
-            "title": "Floretta",
             "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-floretta.png?context=bWFzdGVyfGJhbm5lcnN8MTc5NjN8aW1hZ2UvcG5nfGhhZS9oNjEvMTAwNDUxMDc2OTk3NDIvMTQweDE0MC1mbG9yZXR0YS5wbmd8Y2YwMWFhZjhkNjRmODFiZmUxYjcwNDk0MmU5MTg4NDUzN2VhZGU5NTdkMGJhZjdmM2FmZTI4ZjM4ZjY4ZmY3ZQ",
             "navigation": {
               "deepLink": "ozd://magaza-magaza-store/listing/category/Badge-evtekstili-floretta-nevresim-takimi"
             }
           },
           {
-            "title": "LAV",
             "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-lav.png?context=bWFzdGVyfGJhbm5lcnN8MTY1NDd8aW1hZ2UvcG5nfGhmNC9oNWUvMTAwNDUxMDc3MzI1MTAvMTQweDE0MC1sYXYucG5nfGYzYjJkYTQ2YjRlYjM4Y2ZjNTE0NTg4ZTQ4N2E4ZjUxNzA5MDZiMmJlM2U1Mjc4YzNlOTJkNTgxYTI5YTQwMzA",
             "navigation": {
               "deepLink": "ozd://magaza-magaza-store/"
             }
           },
           {
-            "title": "Paşabahçe",
             "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-pasabahce.png?context=bWFzdGVyfGJhbm5lcnN8MTg4NDl8aW1hZ2UvcG5nfGg5ZC9oNWUvMTAwNDUxMDc3NjUyNzgvMTQweDE0MC1wYXNhYmFoY2UucG5nfDhiN2ZlNDc0OGYwMmMxOWZkNTAzZjk0NzI2ZWFiZTJlNGJmYjUxN2Y1MDgzZDg4MTFmMjcwMGVlZjcyYTZjYjc",
             "navigation": {
               "deepLink": "ozd://magaza-magaza-store/campaignDetail/MarkaPaşabahçe"
             }
           },
           {
-            "title": "FINESUITS",
             "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-finesuits.png?context=bWFzdGVyfGJhbm5lcnN8ODM1OXxpbWFnZS9wbmd8aDQ2L2g1ZS8xMDA0NTEwNzc5ODA0Ni8xNDB4MTQwLWZpbmVzdWl0cy5wbmd8ZmQ4MWYyZTI4YzNhYzE4NWUyZWZlMjVhNzAyZTI3NjI3NDUzNGMwMmEwYjI1Njg4MDFlZjNmNTc1MTQ2NmJjNQ",
             "navigation": {
               "deepLink": "ozd://magaza-magaza-store/"
             }
           },
           {
-            "title": "First Company",
             "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-firstcompany.png?context=bWFzdGVyfGJhbm5lcnN8MTgxOTZ8aW1hZ2UvcG5nfGhkZS9oNWEvMTAwNDUxMDc4OTYzNTAvMTQweDE0MC1maXJzdGNvbXBhbnkucG5nfDViNWFkMTUwZTQ4N2IxMzg3OTQxZGQ5M2NhZGUxMmMwYTg5NTJjYTU0OGVhYTE4ODlkZGE4ZmNkNDQwMjY0NGE",
             "navigation": {
               "deepLink": "ozd://magaza-magaza-store/listing/category/First-company-logo"
             }
           },
           {
-            "title": "Funfair",
             "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-funfair.png?context=bWFzdGVyfGJhbm5lcnN8MTk1NzV8aW1hZ2UvcG5nfGgzNy9oNTgvMTAwNDUxMDc5MjkxMTgvMTQweDE0MC1mdW5mYWlyLnBuZ3xjMjllNGU4OTM0Mzg0NTJkNDhiYzcyZWYyOWE4Nzk3NTUyMmZiODQ2NTYxYzJkYzg3NTBhODg5MDI4OTExYjZk",
             "navigation": {
               "deepLink": "ozd://magaza-magaza-store/"
             }
           },
           {
-            "title": "Shefame",
             "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-shefame.png?context=bWFzdGVyfGJhbm5lcnN8MTYyODF8aW1hZ2UvcG5nfGhjZC9oNTcvMTAwNDUxMDc5NjE4ODYvMTQweDE0MC1zaGVmYW1lLnBuZ3w0MWJlODgyOTJhZjc3\nNjBjYWJkOWRjOTY4NGU2ZmZkMTJiZTZkNWY1OWQ0Nzg2NzgzY2M5NGIxODExNzlhMjM3",
             "navigation": {
               "deepLink": "ozd://magaza-magaza-store/"
@@ -887,7 +878,6 @@
           }
         ],
         "viewProperties": {
-          "topPadding": 0.0,
           "backgroundColor": "#4d4c48",
           "imageAspectRatio": 1.0,
           "visibleItemCount": 4.5,
