@@ -889,7 +889,7 @@
         }
       },
       {
-        "widgetType": 5,
+        "widgetType": 2,
         "position": "Section2AB",
         "viewProperties": {
           "bottomPadding": 16.0,
@@ -1700,7 +1700,7 @@
         }
       },
       {
-        "widgetType": 5,
+        "widgetType": 2,
         "position": "Section2AB",
         "viewProperties": {
           "bottomPadding": 16.0,
