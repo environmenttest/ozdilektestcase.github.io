@@ -173,7 +173,7 @@
         ],
         "viewProperties": {
           "topPadding": 16.0,
-          "imageAspectRatio": 1.0,
+          "imageAspectRatio": 1.071,
           "visibleItemCount": 1,
           "cornerRadius": 0
         }
@@ -984,7 +984,7 @@
         ],
         "viewProperties": {
           "topPadding": 16.0,
-          "imageAspectRatio": 1.0,
+          "imageAspectRatio": 1.071,
           "visibleItemCount": 1,
           "cornerRadius": 0
         }
