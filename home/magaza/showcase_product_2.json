@@ -111,8 +111,819 @@
         }
       },
       {
-        "contentIds":"13080249,13252725",
-        "position":"Section10000002",
+        "contentIds": "13080249,13252725",
+        "position": "Section10000002",
+        "widgetType": 9,
+        "widgetHeader": {
+          "widgetNavigation": {}
+        },
+        "banners": [
+          {
+            "imageUrl": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/home/magaza/showcase_background_image.png",
+            "navigation": {
+              "deepLink": "ozd://magaza-magaza-store/"
+            }
+          }
+        ],
+        "showcaseProductTags": [
+          {
+            "topRate": 20,
+            "leftRate": 20,
+            "productId": "13080249",
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/mnresize/1200/1200/medias/8697353571848.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8NDE5Nzk1fGltYWdlL2pwZWd8aDcxL2gzOC85NzUyOTg0MDU5OTM0fDEyY2QwYzNmZjE0OWFjYjVlM2YyMWI5MWZhYjI0MWFhNzk0YzAwZTJkMzRmY2Q1NTU2NDFjM2FlOGUyMDI0ZDY",
+            "productName": "Özdilek Ditsy Çift Kişilik Yatak Örtüsü 230x250",
+            "price": {
+              "discountRate": null,
+              "oldPrice": null,
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "95,49 TL"
+            },
+            "rating": {
+              "average": 4.5,
+              "count": 15
+            }
+          },
+          {
+            "topRate": 60,
+            "leftRate": 50,
+            "productId": "13252725",
+            "imageUrl": "https://img-ozdilekteyim.mncdn.com/mnresize/1200/1200/medias/?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjU2MjI1OHxpbWFnZS9qcGVnfGg4Ny9oYTMvOTkxOTE0NjA2NTk1MHwxOWZiOTgyZjg0MzZkM2NiNmNhZmQ0ZTYyZWZlYzFiMzRiZmExNTEwZjdmMWY4YjUyM2FhOWY0YTQ5MTRkM2Rl",
+            "productName": "Özdilek Ruby Çift Kişilik Çeyiz Seti 16 Parça",
+            "price": {
+              "discountRate": null,
+              "oldPrice": null,
+              "currentPriceWholeNumber": "899",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 899,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "95,49 TL"
+            },
+            "rating": {
+              "average": 4.5,
+              "count": 15
+            }
+          }
+        ],
+        "viewProperties": {
+          "topPadding": 16.0,
+          "imageAspectRatio": 1.0,
+          "visibleItemCount": 1,
+          "cornerRadius": 0
+        }
+      },
+      {
+        "contentIds": "12923172,13235950,10866056,11223823,12913336,12913339,12913324,12913340,12913325,12913320,12913319,12925741,12897905,12897911,12897912,12878921",
+        "widgetType": 6,
+        "position": "Section2A",
+        "products": [
+          {
+            "productId": "PR-EVTEKSTILI-56198601327PEMBE",
+            "name": "Özdilek Nemesia Tek Kişilik Nevresim Seti",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353561986.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjQ5NTgzfGltYWdlL2pwZWd8aDFkL2gxZS85NjUxMDMwMDk3OTUwfGUwY2Y1MjkwZTE2MDgxMGEzMjJjNmZhMmQyYmYzMThkZjI2NTlmNzgxZTg2MjNhNjc5ZWFiYTI3YTBmMTdlZWQ"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "discountRate": "21",
+              "oldPrice": "379,95",
+              "currentPriceWholeNumber": "299",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 299.0,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "299,00 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "1",
+            "categories": [
+              "Ev Tekstili",
+              "Yatak Odası Tekstili",
+              "Nevresim & Nevresim Takımı",
+              "Ranforce Nevresim Takımı"
+            ],
+            "hasDiscount": true,
+            "hasPromotion": false
+          },
+          {
+            "productId": "PR-EVTEKSTILI-58216500697BEYAZ",
+            "name": "Floretta Kapitone Yastık 50x70",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353582165.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8Mzk5MDA5N3xpbWFnZS9qcGVnfGgxMS9oYzMvOTg4NjQxNzU1MTM5MHw3ZWVmMzZmYTEyNmJkM2VhYzc4NTY5MTkwMTMxMzlkYjMxZmY2NDc4YzBmNjY3NDNmYTA3NmM5ODhiYmI5ZDlj"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "149",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value": 149.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "149,95 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "1",
+            "categories": [
+              "Ev Tekstili",
+              "Yatak Odası Tekstili",
+              "Yastık"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          },
+          {
+            "productId": "11223823",
+            "name": "Floretta Yastık Alezi 50x70",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353421136.jpg?context=bWFzdGVyfHByb2R1Y3RpbWd8MTk3MTExfGltYWdlL2pwZWd8aDhkL2gxYS85MTk1NzYzMTA1ODIyfGRmYzM4NjAxYmEzNTM4YmJjNWNlZDE0MTZlYmExNzUzMjcyY2M5MzllNzhjOTIxZGZkOWI2MTg3NjYyYWVmZTk"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "64",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value": 64.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "64,95 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "0",
+            "categories": [
+              "Ev Tekstili",
+              "Yatak Odası Tekstili",
+              "Alez"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          },
+          {
+            "productId": "PR-EVTEKSTILI-55996901327BEJ",
+            "name": "Özdilek Orce Çift Kişilik Nevresim Takımı",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353559969.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTUzODE3NXxpbWFnZS9qcGVnfGgwMi9oZGYvOTYyNTIwNzc2NzA3MHw4NTJiYzYyY2U3MjEwNWI5ZjJmZDBjZjk5N2M5Y2Q2YWVmMTZkZTI1MGYxMmQ4OWQwNTMyZjFiNDE1ZTY5MDY1"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "990",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 990.0,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "990,00 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "1",
+            "categories": [
+              "Ev Tekstili",
+              "Yatak Odası Tekstili",
+              "Nevresim & Nevresim Takımı",
+              "Ranforce Nevresim Takımı"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          },
+          {
+            "productId": "PR-EVTEKSTILI-56109201327MAVI",
+            "name": "Özdilek Vague Battal Boy Nevresim Takımı",
+            "images": [
+              "https://img-ozdilekteyim-s1.\nmncdn.com/mnresize/#imageSize/medias/8697353561092.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTU3Mjk3MXxpbWFnZS9qcGVnfGhlNi9oZWMvOTYyNTIxMDk3ODMzNHxiNzdlY2U3ODk0ZWRhZDNhMGUzODQwYjQ2OTBiODgyMzI1NmQ1NWU4ZjQ0ZTdkN2Q3NGY0YmEzZWZjM2Y0YzAx"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "1.249",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "00",
+              "currency": "TL",
+              "value": 1249.0,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "1.249,00 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "1",
+            "categories": [
+              "Ev Tekstili",
+              "Yatak Odası Tekstili",
+              "Nevresim & Nevresim Takımı",
+              "Ranforce Nevresim Takımı"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          },
+          {
+            "productId": "PR-EVTEKSTILI-55493301327MAVI",
+            "name": "Özdilek Cars Cyber Tek Kişilik Disney Lisanslı Çocuk Yatak Örtüsü 160x230",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353554933.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MzkwOTY2fGltYWdlL2pwZWd8aDg3L2gwMC85NjI2MDg5NDIyODc4fDQ3MDJhZTBmNzk2N2VlMDJmZDRhYTJhZWI3MGMzMDJhYmUxMDk1MDMzZTk0MjcwMTJiNzM3YTYyZDk4NDI3MDQ"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "749",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value": 749.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "749,95 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "1",
+            "categories": [
+              "Ev Tekstili",
+              "Yatak Odası Tekstili",
+              "Yatak Örtüsü",
+              "Disney Lisanslı Yatak Örtüsü"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          },
+          {
+            "productId": "PR-EVTEKSTILI-55997601327BEJ",
+            "name": "Özdilek Corde Tek Kişilik Nevresim Takımı",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353559976.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTQ1OTU3MnxpbWFnZS9qcGVnfGhmNy9oODUvOTYyNTIwODI5MTM1OHw3ODkwYTQ3MjI2M2RhMGQ3MTczODk0ZDYxMWIyMTc4ODA4MmQ0MmRjYzM2NDg4OTFiYTliMDI1MzFkM2RmYTky"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "769",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value": 769.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "769,95 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "1",
+            "categories": [
+              "Ev Tekstili",
+              "Yatak Odası Tekstili",
+              "Nevresim & Nevresim Takımı",
+              "Ranforce Nevresim Takımı"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          },
+          {
+            "productId": "PR-EVTEKSTILI-55488901327SARI",
+            "name": "Özdilek Minnie Mouse Happy Tek Kişilik Disney Lisanslı Çocuk Yatak Örtüsü 160x230",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353554889.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTE4MjA1M3xpbWFnZS9qcGVnfGg4Yi9oZWYvOTYyNzE2MzIzMDIzOHw5M2FkYjE5OWFjODcxNmFiNWVjZTdiODljNWRlZjY5MDJlZjM3MGIzZTY2M2JmYzkzNDA1OTQwM2VhZmQ1Y2Vi"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "749",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value": 749.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "749,95 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "1",
+            "categories": [
+              "Ev Tekstili",
+              "Yatak Odası Tekstili",
+              "Yatak Örtüsü",
+              "Disney Lisanslı Yatak Örtüsü"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          },
+          {
+            "productId": "PR-EVTEKSTILI-55301101327LILA",
+            "name": "Özdilek Frozen Discover Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Çocuk Nevresim Takımı",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353553011.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTM5NjczMXxpbWFnZS9qcGVnfGhjNy9oYmQv\nOTYyNTE5NzYwODk5MHw4ODQzMTYyNTE5ODkxMzdmODUyZDEzMTdkNjdhYmIzYTJhOTc1M2IxNjFjOTRhYjBkNGM3M2Y1NDE5OTRiMzM1"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "849",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value": 849.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "849,95 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "1",
+            "categories": [
+              "Ev Tekstili",
+              "Yatak Odası Tekstili",
+              "Nevresim & Nevresim Takımı",
+              "Ranforce Nevresim Takımı"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          },
+          {
+            "productId": "PR-EVTEKSTILI-55298401327LACIVERT",
+            "name": "Özdilek Avengers Heroes Tek Kişilik Disney Lisanslı Lastikli Fitted Çarşaf Çocuk Nevresim Takımı",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353552984.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTcwNTc0OHxpbWFnZS9qcGVnfGgyZi9oNmQvOTYyNjA4ODM3NDMwMnxhMDdlY2NhNTdiNTEwNjBhODU5MWU1ZDAyOTllMWJiZWY2M2E3NTllYWFiYWI1N2QzOGUyNmM4NzA2NGRiYjYx"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "849",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value": 849.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "849,95 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "1",
+            "categories": [
+              "Ev Tekstili",
+              "Yatak Odası Tekstili",
+              "Nevresim & Nevresim Takımı",
+              "Ranforce Nevresim Takımı"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          },
+          {
+            "productId": "PR-EVTEKSTILI-54241101327BEJ",
+            "name": "Özdilek Weave Kadife Havlu 50x90",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353542435.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjgxNzU0fGltYWdlL2pwZWd8aGEwL2hjMS85NjQ3MjIzNzk5ODM4fDg3NWFlZDFkM2YyOTNlOGRkNGI4NTkyZjkyNTIwMzk0N2M4MmZkMDYyZmFkZDk1ZGMzYjJlMTMyNzM3NjRiNTg"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "99",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value": 99.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "99,95 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "5",
+            "categories": [
+              "Ev Tekstili",
+              "Havlu & Bornoz",
+              "El & Yüz Havlusu"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          },
+          {
+            "productId": "PR-EVTEKSTILI-56137501327DESENLI",
+            "name": "Özdilek Cannes Cheetah Palm Kadife Plaj Havlusu 90x180",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353561375.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTUyMDY4MXxpbWFnZS9qcGVnfGgyZi9oY2QvOTY0NzIzMDY4MTExOHxmMTA1ODdhYTg5NTIyNDc5YmEyZGI1NzRmYTM3NmM4MTc3MzgxNjgxMDFhZmJkNmRhMDg4Zjc0MTRiMTk3MDY5"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "279",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value": 279.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "279,95 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "1",
+            "categories": [
+              "Ev Tekstili",
+              "Havlu & Bornoz",
+              "Plaj Havlusu"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          },
+          {
+            "productId": "PR-EVTEKSTILI-56143601327DESENLI",
+            "name": "Özdilek Cannes Scallop Kadife Plaj Havlusu 90x180",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353561436.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTkzNjYwMnxpbWFnZS9qcGVnfGhjYS9oMTAvOTYzMjUwMjQ0ODE1OHxlZjE4ZTBjNjc5YzRhNDM2NTc2NjM3N2ZjMGRmYmZmMDFiYzViNjk3ZmQ1MGQ2OWQ1MjNlZWZkZjRjMjczYzg4"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "279",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value\n": 279.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "279,95 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "1",
+            "categories": [
+              "Ev Tekstili",
+              "Havlu & Bornoz",
+              "Plaj Havlusu"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          },
+          {
+            "productId": "PR-EVTEKSTILI-56144301327DESENLI",
+            "name": "Özdilek Cannes Sun Dolphin Kadife Plaj Havlusu 90x180",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353561443.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MjA3MDI1NnxpbWFnZS9qcGVnfGg5NS9oMDAvOTYzMjUwMjk3MjQ0NnxlN2VmMmQ3ODdiZTk5MzA2MGUzZDVjOWU4NGRjYmI0MWQyN2YxOTRjMjY0MmU5NGRlZDRlOWY2YmMxMjExYWU4"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "279",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value": 279.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "279,95 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "1",
+            "categories": [
+              "Ev Tekstili",
+              "Havlu & Bornoz",
+              "Plaj Havlusu"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          },
+          {
+            "productId": "PR-EVTEKSTILI-46712701327DESENLI",
+            "name": "Özdilek Saint Tropez Scroll Floral Kadife Plaj Havlusu 101x178",
+            "images": [
+              "https://img-ozdilekteyim-s1.mncdn.com/mnresize/#imageSize/medias/8697353467127.jpg?context=bWFzdGVyfHNhcHByb2R1Y3RpbWd8MTc4NTg1MnxpbWFnZS9qcGVnfGhmMi9oNmIvOTYzMjQ3MDA3MzM3NHw4YjVlMWI1MDk5MjRjM2VkZGM3OWVjNTNlMTZjNzE5ZjI5YWNiMDJiZjZkZDYxNjg3Zjk4ZDk0NmMyYmViYTMw"
+            ],
+            "rating": {
+              "average": 0.0,
+              "count": 0
+            },
+            "price": {
+              "currentPriceWholeNumber": "329",
+              "separator": ",",
+              "currentPriceDecimalNUmber": "95",
+              "currency": "TL",
+              "value": 329.95,
+              "firebaseCurrency": "TRY",
+              "formattedValue": "329,95 TL",
+              "isPriceRange": false
+            },
+            "isQuantityPickerVisible": false,
+            "quantityPickerProperties": {
+              "minimumQuantity": 1,
+              "maxQuantity": 100,
+              "defaultQuantity": 1,
+              "incrementValue": 1,
+              "unit": {
+                "type": "AD",
+                "text": "adet"
+              }
+            },
+            "colorCount": "1",
+            "categories": [
+              "Ev Tekstili",
+              "Havlu & Bornoz",
+              "Plaj Havlusu"
+            ],
+            "hasDiscount": false,
+            "hasPromotion": false
+          }
+        ],
+        "viewProperties": {
+          "topPadding": 16.0,
+          "backgroundColor": "#4d4c48",
+          "imageAspectRatio": 0.66,
+          "visibleItemCount": 2.5,
+          "cornerRadius": 8.0,
+          "itemSpace": 8.0,
+          "showDivider": false
+        }
+      },
+      {
+        "contentIds": "sectionStory3,sectionStory4,sectionStory5,ozdilek-link,sectionStory7,sectionStory8,pasabahce-story,sectionStory10,sectionStory11,sectionStory12,shefame-deneme",
+        "widgetHeader": {
+          "widgetNavigation": {}
+        },
+        "widgetType": 1,
+        "position": "sectionStory",
+        "banners": [
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-adidas.png?context=bWFzdGVyfGJhbm5lcnN8MTE5Nzd8aW1hZ2UvcG5nfGgyYS9oNmMvMTAwNDUxMDczNzIwNjIvMTQweDE0MC1hZGlkYXMucG5nfDExZDFjMTFhYzVlNTU1NzY2MGEwMGM5YWQ2YTE2MjVjZWVhZDI5YTczZTkxNmY3MDQ0MGM2MTc4OGMxYTM4Yzk",
+            "navigation": {
+              "deepLink": "ozd://magaza-magaza-store/"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-un-ted.png?context=bWFzdGVyfGJhbm5lcnN8MjA0MDF8aW1hZ2UvcG5nfGhjMi9oNjgvMTAwNDUxMDc0NzAzNjYvMTQweDE0MC11bsSxdGVkLnBuZ3xiNDIwY2NhYWQzNjE3ZjhkNjhiNzViYzM2MGZkODNmZjY5NGU0MzNjZDY2NzJhMmY3MjU4YjdhZmM1OWQ0ZDUy",
+            "navigation": {
+              "deepLink": "ozd://magaza-magaza-store/"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-birken.png?context=bWFzdGVyfGJhbm5lcnN8MTk1Mzh8aW1hZ2UvcG5nfGg2ZC9oNjUvMTAwNDUxMDc1Njg2NzAvMTQweDE0MC1iaXJrZW4ucG5nfDM5MTIzNWJkMTc4NWZiY2M5MWZlNzYxMDE4MzIwMjE2NGRhYjQ4MmQ4YTEyMmQxMmM4M2YxOTFiNjFjNDI5ZTI",
+            "navigation": {
+              "deepLink": ""
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-ev-tekstil.png?context=bWFzdGVyfGJhbm5lcnN8MTcxOTd8aW1hZ2UvcG5nfGhiMy9oNjIvMTAwNDUxMDc2MDE0MzgvMTQweDE0MC1ldi10ZWtzdGlsLnBuZ3w1MGYzZjZmZjI3M2JlNGMxMDJkYmQzYjYxYTc4MjY3NzI4OWYwZjAzZTczMTdiZDlhZTk1NzFiYmUyYjhjYjM3",
+            "navigation": {
+              "deepLink": ""
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-floretta.png?context=bWFzdGVyfGJhbm5lcnN8MTc5NjN8aW1hZ2UvcG5nfGhhZS9oNjEvMTAwNDUxMDc2OTk3NDIvMTQweDE0MC1mbG9yZXR0YS5wbmd8Y2YwMWFhZjhkNjRmODFiZmUxYjcwNDk0MmU5MTg4NDUzN2VhZGU5NTdkMGJhZjdmM2FmZTI4ZjM4ZjY4ZmY3ZQ",
+            "navigation": {
+              "deepLink": "ozd://magaza-magaza-store/listing/category/Badge-evtekstili-floretta-nevresim-takimi"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-lav.png?context=bWFzdGVyfGJhbm5lcnN8MTY1NDd8aW1hZ2UvcG5nfGhmNC9oNWUvMTAwNDUxMDc3MzI1MTAvMTQweDE0MC1sYXYucG5nfGYzYjJkYTQ2YjRlYjM4Y2ZjNTE0NTg4ZTQ4N2E4ZjUxNzA5MDZiMmJlM2U1Mjc4YzNlOTJkNTgxYTI5YTQwMzA",
+            "navigation": {
+              "deepLink": "ozd://magaza-magaza-store/"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-pasabahce.png?context=bWFzdGVyfGJhbm5lcnN8MTg4NDl8aW1hZ2UvcG5nfGg5ZC9oNWUvMTAwNDUxMDc3NjUyNzgvMTQweDE0MC1wYXNhYmFoY2UucG5nfDhiN2ZlNDc0OGYwMmMxOWZkNTAzZjk0NzI2ZWFiZTJlNGJmYjUxN2Y1MDgzZDg4MTFmMjcwMGVlZjcyYTZjYjc",
+            "navigation": {
+              "deepLink": "ozd://magaza-magaza-store/campaignDetail/MarkaPaşabahçe"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-finesuits.png?context=bWFzdGVyfGJhbm5lcnN8ODM1OXxpbWFnZS9wbmd8aDQ2L2g1ZS8xMDA0NTEwNzc5ODA0Ni8xNDB4MTQwLWZpbmVzdWl0cy5wbmd8ZmQ4MWYyZTI4YzNhYzE4NWUyZWZlMjVhNzAyZTI3NjI3NDUzNGMwMmEwYjI1Njg4MDFlZjNmNTc1MTQ2NmJjNQ",
+            "navigation": {
+              "deepLink": "ozd://magaza-magaza-store/"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-firstcompany.png?context=bWFzdGVyfGJhbm5lcnN8MTgxOTZ8aW1hZ2UvcG5nfGhkZS9oNWEvMTAwNDUxMDc4OTYzNTAvMTQweDE0MC1maXJzdGNvbXBhbnkucG5nfDViNWFkMTUwZTQ4N2IxMzg3OTQxZGQ5M2NhZGUxMmMwYTg5NTJjYTU0OGVhYTE4ODlkZGE4ZmNkNDQwMjY0NGE",
+            "navigation": {
+              "deepLink": "ozd://magaza-magaza-store/listing/category/First-company-logo"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-funfair.png?context=bWFzdGVyfGJhbm5lcnN8MTk1NzV8aW1hZ2UvcG5nfGgzNy9oNTgvMTAwNDUxMDc5MjkxMTgvMTQweDE0MC1mdW5mYWlyLnBuZ3xjMjllNGU4OTM0Mzg0NTJkNDhiYzcyZWYyOWE4Nzk3NTUyMmZiODQ2NTYxYzJkYzg3NTBhODg5MDI4OTExYjZk",
+            "navigation": {
+              "deepLink": "ozd://magaza-magaza-store/"
+            }
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/140x140-shefame.png?context=bWFzdGVyfGJhbm5lcnN8MTYyODF8aW1hZ2UvcG5nfGhjZC9oNTcvMTAwNDUxMDc5NjE4ODYvMTQweDE0MC1zaGVmYW1lLnBuZ3w0MWJlODgyOTJhZjc3\nNjBjYWJkOWRjOTY4NGU2ZmZkMTJiZTZkNWY1OWQ0Nzg2NzgzY2M5NGIxODExNzlhMjM3",
+            "navigation": {
+              "deepLink": "ozd://magaza-magaza-store/"
+            }
+          }
+        ],
+        "viewProperties": {
+          "backgroundColor": "#4d4c48",
+          "imageAspectRatio": 1.0,
+          "visibleItemCount": 4.5,
+          "cornerRadius": 0.0,
+          "itemSpace": 17.0,
+          "showDivider": false
+        }
+      },
+      {
+        "widgetType": 5,
+        "position": "Section2AB",
+        "viewProperties": {
+          "bottomPadding": 16.0,
+          "backgroundColor": "#4d4c48",
+          "imageAspectRatio": 2.116,
+          "visibleItemCount": 1.0,
+          "cornerRadius": 8.0,
+          "itemSpace": 16.0,
+          "showDivider": false
+        },
+        "banners": [
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/cat2.jpg?context=bWFzdGVyfGJhbm5lcnN8MTgxNzg4fGltYWdlL2pwZWd8aGYyL2g4Zi8xMDA0ODcwNTQyOTUzNC9jYXQyLmpwZ3xmMTAzY2ZmNDAyM2IxZjI5YWU0M2JhNjRiNDhlYWU1MDViMzAxYjVhYzJmYTE2MTlmMTRiM2Q5YTk4MTg0ODg3",
+            "navigation": {}
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/-1270x600-40-.jpg?context=bWFzdGVyfGJhbm5lcnN8OTc4Nzd8aW1hZ2UvanBlZ3xoOGEvaDhjLzEwMDQ4NzA1NTI3ODM4L18xMjcweDYwMC0oNDApLmpwZ3w1NWNlZmYwNTNjMjc5NWJkZmY1ZTIyM2I2OTU3MWI2ZmM3ZjcxMzk1NjJmMjMyMTEyYmI0ZDRhNjY4MmMzMThi",
+            "navigation": {}
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/-1270x600-50-.jpg?context=bWFzdGVyfGJhbm5lcnN8MTI0MzgxfGltYWdlL2pwZWd8aDIwL2g4Yy8xMDA0ODcwNTU2MDYwNi9fMTI3MHg2MDAtKDUwKS5qcGd8ZTc1OTMxZWY0YmI0ODE1YWU1NTMwOWQ1OWI0YjEyODk0ZGY5MThlMTcyMjE5ZTdlZmJiOTUyNmY4MzI1YTNmNw",
+            "navigation": {}
+          },
+          {
+            "imageUrl": "https://img-ozdilekteyim-s1.mncdn.com/medias/freecompress-new-1270x600-40-.jpeg?context=bWFzdGVyfGJhbm5lcnN8NjkwOTB8aW1hZ2UvanBlZ3xoN2YvaDM5LzEwMDQ4NzA3MTMzNDcwL2ZyZWVjb21wcmVzc19uZXdfMTI3MHg2MDAtKDQwKS5qcGVnfGI1ZWE0ZTRmYzEyOGEzODJlMjg5MGNmODNlNWNiMTczZTAyZDM0MGI2ZGM5YTM4MWUwYmYzYjQwYjc2ZWNkZTk",
+            "navigation": {
+              "deepLink": "ozd://magaza-magaza-store/listing/category/Bluz-tunik"
+            }
+          }
+        ]
+      },
+      {
+        "contentIds": "13080249,13252725",
+        "position": "Section10000002",
         "widgetType": 9,
         "widgetHeader": {
           "widgetNavigation": {}
