@@ -111,7 +111,7 @@
         }
       },
       {
-        "contentIds": "13393986,12654660",
+        "contentIds": "13136875,13080245",
         "position": "Section2A",
         "widgetType": 9,
         "widgetHeader": {
@@ -129,12 +129,12 @@
           {
             "topRate": 20,
             "leftRate": 20,
-            "productId": "13393986"
+            "productId": "13136875"
           },
           {
             "topRate": 60,
             "leftRate": 50,
-            "productId": "12654660"
+            "productId": "13080245"
           }
         ],
         "viewProperties": {
@@ -888,7 +888,7 @@
         ]
       },
       {
-        "contentIds": "13393986,12654660",
+        "contentIds": "13136875,13080245",
         "position": "Section2A",
         "widgetType": 9,
         "widgetHeader": {
@@ -906,12 +906,12 @@
           {
             "topRate": 20,
             "leftRate": 20,
-            "productId": "13393986"
+            "productId": "13136875"
           },
           {
             "topRate": 60,
             "leftRate": 50,
-            "productId": "12654660"
+            "productId": "13080245"
           }
         ],
         "viewProperties": {
