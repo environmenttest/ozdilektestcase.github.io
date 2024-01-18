@@ -111,7 +111,7 @@
         }
       },
       {
-        "contentIds": "PR-EVTEKSTILI-56198601327PEMBE,PR-EVTEKSTILI-56125200697BEYAZ",
+        "contentIds": "PR-EVTEKSTILI-56198601327PEMBE,PR-EVTEKSTILI-56125200697BEYAZ,PR-EVTEKSTILI-56558801327GRI",
         "position": "Section2A",
         "widgetType": 9,
         "widgetHeader": {
@@ -128,14 +128,21 @@
         "showcaseProductTags": [
           {
             "topRate": 20,
-            "leftRate": 20,
+            "leftRate": 70,
             "productId": "PR-EVTEKSTILI-56198601327PEMBE"
           },
           {
-            "topRate": 60,
-            "leftRate": 50,
+            "topRate": 45,
+            "leftRate": 45,
             "productId": "PR-EVTEKSTILI-56125200697BEYAZ"
+          },
+          {
+            "topRate": 20,
+            "leftRate": 90,
+            "productId": "PR-EVTEKSTILI-56558801327GRI"
           }
+
+          
         ],
         "viewProperties": {
           "topPadding": 16.0,
@@ -888,7 +895,7 @@
         ]
       },
       {
-        "contentIds": "13136875,PR-EVTEKSTILI-56125200697BEYAZ",
+        "contentIds": "PR-EVTEKSTILI-56198601327PEMBE,PR-EVTEKSTILI-56125200697BEYAZ",
         "position": "Section2A",
         "widgetType": 9,
         "widgetHeader": {
