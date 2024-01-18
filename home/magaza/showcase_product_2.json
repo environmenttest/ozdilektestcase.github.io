@@ -151,8 +151,6 @@
             "leftRate": 15,
             "productId": "PR-EVTEKSTILI-56844200697BEYAZ"
           }
-
-          
         ],
         "viewProperties": {
           "topPadding": 16.0,
@@ -913,7 +911,7 @@
         },
         "banners": [
           {
-            "imageUrl": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/home/magaza/showcase_background_image_5.jpg",
+            "imageUrl": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/home/magaza/showcase_background_image_10.jpg",
             "navigation": {
               "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-evtekstili-yatak-odasi-tekstili"
             }
@@ -921,7 +919,7 @@
         ],
         "showcaseProductTags": [
           {
-            "topRate": 60,
+            "topRate": 70,
             "leftRate": 40,
             "productId": "PR-EVTEKSTILI-56198601327PEMBE"
           },
@@ -945,8 +943,6 @@
             "leftRate": 15,
             "productId": "PR-EVTEKSTILI-56844200697BEYAZ"
           }
-
-          
         ],
         "viewProperties": {
           "topPadding": 0.0,
@@ -1573,7 +1569,7 @@
         ],
         "viewProperties": {
           "topPadding": 16.0,
-          "backgroundColor": "#E6E2DA",
+          "backgroundColor": "#818248",
           "imageAspectRatio": 0.66,
           "visibleItemCount": 2.5,
           "cornerRadius": 8.0,
@@ -1657,7 +1653,7 @@
           }
         ],
         "viewProperties": {
-          "backgroundColor": "#E6E2DA",
+          "backgroundColor": "#818248",
           "imageAspectRatio": 1.0,
           "visibleItemCount": 4.5,
           "cornerRadius": 0.0,
@@ -1670,7 +1666,7 @@
         "position": "Section2AB",
         "viewProperties": {
           "bottomPadding": 16.0,
-          "backgroundColor": "#E6E2DA",
+          "backgroundColor": "#818248",
           "imageAspectRatio": 2.116,
           "visibleItemCount": 1.0,
           "cornerRadius": 8.0,
