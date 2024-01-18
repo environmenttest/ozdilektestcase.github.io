@@ -111,7 +111,7 @@
         }
       },
       {
-        "contentIds": "PR-EVTEKSTILI-57329301327GRI-KREM,13080245",
+        "contentIds": "PR-EVTEKSTILI-56198601327PEMBE,PR-EVTEKSTILI-56125200697BEYAZ",
         "position": "Section2A",
         "widgetType": 9,
         "widgetHeader": {
@@ -129,12 +129,12 @@
           {
             "topRate": 20,
             "leftRate": 20,
-            "productId": "PR-EVTEKSTILI-57329301327GRI-KREM"
+            "productId": "PR-EVTEKSTILI-56198601327PEMBE"
           },
           {
             "topRate": 60,
             "leftRate": 50,
-            "productId": "13080245"
+            "productId": "PR-EVTEKSTILI-56125200697BEYAZ"
           }
         ],
         "viewProperties": {
@@ -888,7 +888,7 @@
         ]
       },
       {
-        "contentIds": "13136875,13080245",
+        "contentIds": "13136875,PR-EVTEKSTILI-56125200697BEYAZ",
         "position": "Section2A",
         "widgetType": 9,
         "widgetHeader": {
@@ -911,7 +911,7 @@
           {
             "topRate": 60,
             "leftRate": 50,
-            "productId": "13080245"
+            "productId": "PR-EVTEKSTILI-56125200697BEYAZ"
           }
         ],
         "viewProperties": {
