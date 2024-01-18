@@ -127,8 +127,8 @@
         ],
         "showcaseProductTags": [
           {
-            "topRate": 70,
-            "leftRate": 20,
+            "topRate": 60,
+            "leftRate": 40,
             "productId": "PR-EVTEKSTILI-56198601327PEMBE"
           },
           {
@@ -142,13 +142,13 @@
             "productId": "PR-EVTEKSTILI-56558801327GRI"
           },
           {
-            "topRate": 75,
-            "leftRate": 80,
+            "topRate": 65,
+            "leftRate": 70,
             "productId": "PR-EVTEKSTILI-55947101327ACIKGRI"
           },
           {
             "topRate": 70,
-            "leftRate": 25,
+            "leftRate": 15,
             "productId": "PR-EVTEKSTILI-56844200697BEYAZ"
           }
 
