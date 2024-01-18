@@ -779,7 +779,7 @@
         ],
         "viewProperties": {
           "topPadding": 16.0,
-          "backgroundColor": "#4d4c48",
+          "backgroundColor": "#E6E2DA",
           "imageAspectRatio": 0.66,
           "visibleItemCount": 2.5,
           "cornerRadius": 8.0,
@@ -863,7 +863,7 @@
           }
         ],
         "viewProperties": {
-          "backgroundColor": "#4d4c48",
+          "backgroundColor": "#E6E2DA",
           "imageAspectRatio": 1.0,
           "visibleItemCount": 4.5,
           "cornerRadius": 0.0,
@@ -876,7 +876,7 @@
         "position": "Section2AB",
         "viewProperties": {
           "bottomPadding": 16.0,
-          "backgroundColor": "#4d4c48",
+          "backgroundColor": "#E6E2DA",
           "imageAspectRatio": 2.116,
           "visibleItemCount": 1.0,
           "cornerRadius": 8.0,
@@ -1573,7 +1573,7 @@
         ],
         "viewProperties": {
           "topPadding": 16.0,
-          "backgroundColor": "#4d4c48",
+          "backgroundColor": "#E6E2DA",
           "imageAspectRatio": 0.66,
           "visibleItemCount": 2.5,
           "cornerRadius": 8.0,
@@ -1657,7 +1657,7 @@
           }
         ],
         "viewProperties": {
-          "backgroundColor": "#4d4c48",
+          "backgroundColor": "#E6E2DA",
           "imageAspectRatio": 1.0,
           "visibleItemCount": 4.5,
           "cornerRadius": 0.0,
@@ -1670,7 +1670,7 @@
         "position": "Section2AB",
         "viewProperties": {
           "bottomPadding": 16.0,
-          "backgroundColor": "#4d4c48",
+          "backgroundColor": "#E6E2DA",
           "imageAspectRatio": 2.116,
           "visibleItemCount": 1.0,
           "cornerRadius": 8.0,
