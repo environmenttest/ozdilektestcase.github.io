@@ -121,7 +121,7 @@
           {
             "imageUrl": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/home/magaza/showcase_background_image_3.jpg",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/"
+              "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-evtekstili-yatak-odasi-tekstili"
             }
           }
         ],
@@ -915,7 +915,7 @@
           {
             "imageUrl": "https://raw.githubusercontent.com/environmenttest/ozdilektestcase.github.io/main/home/magaza/showcase_background_image_3.jpg",
             "navigation": {
-              "deepLink": "ozd://magaza-magaza-store/"
+              "deepLink": "ozd://magaza-magaza-store/listing/category/Mgz-evtekstili-yatak-odasi-tekstili"
             }
           }
         ],
